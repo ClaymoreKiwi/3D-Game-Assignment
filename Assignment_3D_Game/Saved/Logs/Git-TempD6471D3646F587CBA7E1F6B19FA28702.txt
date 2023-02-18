@@ -1,0 +1,1 @@
+Moved levels and created folder structure within the game to navigate easier as the project increases in size
