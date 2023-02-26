@@ -12355,3 +12355,1319 @@ Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialM
 [2023.02.26-19.47.17:339][215]SourceControl: Commited [main b0abdab] fog.
 [2023.02.26-19.47.17:368][216]AssetCheck: New page: Asset Save: Level1_Beach
 [2023.02.26-19.47.17:368][216]LogContentValidation: Display: Validating World /Game/Levels/Level1_Beach.Level1_Beach
+[2023.02.26-20.01.29:121][266]MapCheck: New page: Map Check
+[2023.02.26-20.01.29:136][266]LightingResults: New page: Lighting Build - 26 Feb 2023, 20:01:29
+[2023.02.26-20.01.29:146][266]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.02.26-20.01.29:146][266]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.02.26-20.01.29:147][266]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.02.26-20.01.29:147][266]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.02.26-20.01.29:147][266]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2023.02.26-20.01.29:235][266]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.02.26-20.01.29:545][266]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.02.26-20.01.29:604][266]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.02.26-20.01.30:161][266]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.02.26-20.01.30:161][266]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10480
+[2023.02.26-20.01.37:651][266]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2023.02.26-20.01.37:671][266]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.02.26-20.01.37:671][266]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.02.26-20.01.37:671][266]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.02.26-20.01.37:671][266]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.02.26-20.01.37:671][266]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.02.26-20.01.39:286][266]LogEditorBuildUtils: Build time 0:10
+[2023.02.26-20.01.39:314][266]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_64 in PCD3D_SM5, Default, SM5 (DDC key hash: 948C1DABC4401A3A5DF7E11DC7148094AC87C2F9), compiling. 
+[2023.02.26-20.01.39:316][266]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:316][266]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_64 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A84F65417F84D6DE50BE297DF4A4B73556D5E14), compiling. 
+[2023.02.26-20.01.39:318][266]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:321][266]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 4
+[2023.02.26-20.01.39:321][266]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 3
+[2023.02.26-20.01.39:321][266]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 2
+[2023.02.26-20.01.39:321][266]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 1
+[2023.02.26-20.01.39:321][266]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:362][267]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40 in PCD3D_SM5, Default, SM5 (DDC key hash: 21664C1A90AEA3F7FBF9A03EA852C798AA249214), compiling. 
+[2023.02.26-20.01.39:364][267]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:365][267]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 2
+[2023.02.26-20.01.39:365][267]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2023.02.26-20.01.39:365][267]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:365][267]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40 in PCD3D_SM5, Default, SM5 (DDC key hash: 1E6C6D07F2FD27368A21318047EC2D5F313D639E), compiling. 
+[2023.02.26-20.01.39:367][267]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:370][267]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WaterMID_32 in PCD3D_SM5, Default, SM5 (DDC key hash: D0C1F3A22F963A6C134BE1D790F8CC4C809A4242), compiling. 
+[2023.02.26-20.01.39:374][267]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 2
+[2023.02.26-20.01.39:374][267]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 1
+[2023.02.26-20.01.39:374][267]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:374][267]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:376][267]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WaterMID_32 in PCD3D_SM5, Default, SM5 (DDC key hash: 951A28F3B190610D840A64815C644B1F5FF5C9C0), compiling. 
+[2023.02.26-20.01.39:379][267]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WaterMID_32 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B697C19FF4699BECABA6B04032B8B6CC7D38591), compiling. 
+[2023.02.26-20.01.39:382][267]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:392][267]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 4
+[2023.02.26-20.01.39:392][267]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 3
+[2023.02.26-20.01.39:392][267]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 2
+[2023.02.26-20.01.39:392][267]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2023.02.26-20.01.39:392][267]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:488][268]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_bp_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 5495C01E0C889C7276E6BBAC366821F0FBF594C1), compiling. 
+[2023.02.26-20.01.39:493][268]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:494][268]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 2
+[2023.02.26-20.01.39:494][268]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 1
+[2023.02.26-20.01.39:494][268]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:494][268]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_bp_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 23322F3F2CA364997F34E13EB5BE01FD859B9FF3), compiling. 
+[2023.02.26-20.01.39:497][268]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:498][268]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_chair in PCD3D_SM5, Default, SM5 (DDC key hash: 2E7F1EBCC37119955F6CF2CEBCBDB79AC72A337F), compiling. 
+[2023.02.26-20.01.39:502][268]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:503][268]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_chair in PCD3D_SM5, Default, SM5 (DDC key hash: 2B6355807B83ACDA50B1026CCBE194F9033B2CC9), compiling. 
+[2023.02.26-20.01.39:506][268]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 4
+[2023.02.26-20.01.39:506][268]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 3
+[2023.02.26-20.01.39:506][268]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:506][268]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:559][269]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Chair_Wood in PCD3D_SM5, Default, SM5 (DDC key hash: 275380A5FA127987C483FBAE952B511CB1F8AD06), compiling. 
+[2023.02.26-20.01.39:562][269]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:563][269]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Chair_Wood in PCD3D_SM5, Default, SM5 (DDC key hash: 17ED4B2CDA8563167B802F8DE953E573991A809F), compiling. 
+[2023.02.26-20.01.39:566][269]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:568][269]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_chair in PCD3D_SM5, Default, SM5 (DDC key hash: DFC5BBDB54D38D79296F02AE4543E6C36CBC9C0C), compiling. 
+[2023.02.26-20.01.39:572][269]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:573][269]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Material_chair in PCD3D_SM5, Default, SM5 (DDC key hash: 03559964B065932F30A558B47027B5277FAB5A87), compiling. 
+[2023.02.26-20.01.39:626][270]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Red in PCD3D_SM5, Default, SM5 (DDC key hash: 955037658685EC8954A8F7B7714EFCD627B5F5B8), compiling. 
+[2023.02.26-20.01.39:629][270]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:631][270]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Red in PCD3D_SM5, Default, SM5 (DDC key hash: 949F07250594FEECEDBA66CCE620790D4FD917CC), compiling. 
+[2023.02.26-20.01.39:635][270]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:669][271]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 14
+[2023.02.26-20.01.39:669][271]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:673][271]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Rock-07 in PCD3D_SM5, Default, SM5 (DDC key hash: AAE4844A5EE709A23770332A9D7980FF1815B65E), compiling. 
+[2023.02.26-20.01.39:676][271]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 13
+[2023.02.26-20.01.39:676][271]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:676][271]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:678][271]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Rock-07 in PCD3D_SM5, Default, SM5 (DDC key hash: 036329F37BEB46BF7ACCF22502D3BFCA5B7AB539), compiling. 
+[2023.02.26-20.01.39:681][271]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:683][271]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-20.01.39:683][271]LogShaderCompilers: Display: Total job queries 8058, among them cache hits 4122 (51.15%)
+[2023.02.26-20.01.39:683][271]LogShaderCompilers: Display: Tracking 3259 distinct input hashes that result in 1861 distinct outputs (57.10%)
+[2023.02.26-20.01.39:683][271]LogShaderCompilers: Display: RAM used: 15.48 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.94%
+[2023.02.26-20.01.39:683][271]LogShaderCompilers: Display: ================================================
+[2023.02.26-20.01.39:715][271]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 16
+[2023.02.26-20.01.39:715][271]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:724][272]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Palm-02 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DC7C30243A78C409A37F9F350F67BCB9080BB19), compiling. 
+[2023.02.26-20.01.39:728][272]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:730][272]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Palm-02 in PCD3D_SM5, Default, SM5 (DDC key hash: 296B7E484A0C0E088588D21CD6CA6B862D5A302B), compiling. 
+[2023.02.26-20.01.39:734][272]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:781][272]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 18
+[2023.02.26-20.01.39:781][272]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 16
+[2023.02.26-20.01.39:781][272]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 14
+[2023.02.26-20.01.39:781][272]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:786][273]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 12
+[2023.02.26-20.01.39:786][273]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:790][273]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 11
+[2023.02.26-20.01.39:791][273]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:791][273]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-PalmLeaves-01 in PCD3D_SM5, Default, SM5 (DDC key hash: C41E4C6F7730DECB4DC364B197CBA4E7399982CB), compiling. 
+[2023.02.26-20.01.39:794][273]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:796][273]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-PalmLeaves-01 in PCD3D_SM5, Default, SM5 (DDC key hash: E30E4C46B4CDF43A5A0CD3C2B6ED352D2DFEB62E), compiling. 
+[2023.02.26-20.01.39:800][273]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:802][273]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-PalmLeaves-01 in PCD3D_SM5, Default, SM5 (DDC key hash: 269A384CF51988F6D3A4739F7830C8844EEB679C), compiling. 
+[2023.02.26-20.01.39:806][273]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:813][273]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 16
+[2023.02.26-20.01.39:813][273]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:813][273]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 14
+[2023.02.26-20.01.39:813][273]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:841][274]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Plants-09 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DF17794261C279A6DE0231B9BC60DB521874AE5), compiling. 
+[2023.02.26-20.01.39:844][274]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:846][274]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Plants-09 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D84A50E4481B12E4B8A89852B4A2B9F39D3BACA), compiling. 
+[2023.02.26-20.01.39:850][274]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:853][274]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Plants-09 in PCD3D_SM5, Default, SM5 (DDC key hash: D42A35D891F8D892B5771E74BD02D48F2F7E0DE2), compiling. 
+[2023.02.26-20.01.39:857][274]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 17
+[2023.02.26-20.01.39:857][274]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:857][274]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:894][275]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 17
+[2023.02.26-20.01.39:894][275]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:894][275]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Grass-01 in PCD3D_SM5, Default, SM5 (DDC key hash: 576A108F786C4D503E0C30E70D876E5AA40507AD), compiling. 
+[2023.02.26-20.01.39:898][275]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:900][275]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Grass-01 in PCD3D_SM5, Default, SM5 (DDC key hash: 58F639300D7DB54F35D10EFD09ED68933A27E561), compiling. 
+[2023.02.26-20.01.39:904][275]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:906][275]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI-Grass-01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0191B35C1ABD2BB28996825E742B11D6069ADF90), compiling. 
+[2023.02.26-20.01.39:911][275]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:943][276]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 21
+[2023.02.26-20.01.39:943][276]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:943][276]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 19
+[2023.02.26-20.01.39:943][276]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:949][276]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_121 in PCD3D_SM5, Default, SM5 (DDC key hash: 903B5540542E299CE480DB2ABB462CF4FBB46923), compiling. 
+[2023.02.26-20.01.39:953][276]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.39:955][276]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_121 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CEFA3D4FF6A00BFD1A092795AF367773D2D7905), compiling. 
+[2023.02.26-20.01.39:959][276]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 21
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 19
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 17
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 15
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 14
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 13
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 12
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 11
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 10
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 9
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 8
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 7
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 6
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 4
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 3
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 2
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 1
+[2023.02.26-20.01.40:853][277]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.01.43:025][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.02.26-20.03.25:246][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair8)
+[2023.02.26-20.03.29:117][242]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2023.02.26-20.03.30:155][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair8)
+[2023.02.26-20.03.38:260][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair9)
+[2023.02.26-20.03.48:522][927]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.02.26-20.03.49:375][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair7)
+[2023.02.26-20.05.47:630][932]Job is a success!
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.133s
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:      BrickData (all levels) 7.5Mb (trimmed 0.4Mb due to 0.010000 MinBrickError)
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:      Bricks at depth
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:          1: 7.0% covering 20.1% of volume
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:          2: 92.5% covering 4.2% of volume
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:      Bricks in each level
+[2023.02.26-20.05.47:923][933]LogVolumetricLightmapImport:          Level1_Beach 			 1477 bricks 	 100.0% (Persistent Level)
+[2023.02.26-20.06.01:514][933]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 8192X4096)
+[2023.02.26-20.06.01:514][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:514][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 8192X8192)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 8192X8192)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 8192X4096)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 8192 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 8192X8192)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 8192X8192)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 4096X2048)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 4096X4096)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 4096X4096)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 2048X1024)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 2048X2048)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 512X256)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 512X256)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 2048X2048)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 256X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 256X256)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 256X256)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 512X256)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 512X512)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 512X256)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 512X512)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 256X128)
+[2023.02.26-20.06.01:515][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 256X256)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 256X256)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 256X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 256X256)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 256X256)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 128X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 128X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_14 (OODLE_AutoDXT, 128X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_15 (OODLE_AutoDXT, 128X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 128X128)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 64X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_17 (OODLE_AutoDXT, 64X32)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 64X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: SkyOcclusion0_16 (OODLE_AutoDXT, 64X32)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 64X64)
+[2023.02.26-20.06.01:515][933]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 64X64)
+[2023.02.26-20.06.01:714][933]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 32X32)
+[2023.02.26-20.06.01:714][933]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 512X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X64)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X128)
+[2023.02.26-20.06.01:715][933]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2023.02.26-20.06.02:514][933]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 4096X2048)
+[2023.02.26-20.06.03:369][933]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 4096X4096)
+[2023.02.26-20.06.03:369][933]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 4096X4096)
+[2023.02.26-20.06.03:496][933]Lightmass on DESKTOP-2OUU1FS: 4:18 min total, 686 ms importing, 1.76 sec setup, 18.6 sec photons, 3:57 min processing, 0 ms extra exporting [6840/6840 mappings]. Threads: 1:15:14 hours total, 40:36 min processing.
+[2023.02.26-20.06.03:510][933]LogStaticLightingSystem: Level1_Beach_BuiltData storing lightmap data for 89 meshes in 17 LightmapResourceClusters (5.2 Meshes per cluster).
+[2023.02.26-20.06.03:520][933]LogMaterial: Display: Material /Game/Materials/Materials_BP/Landscape_mt.Landscape_mt needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:521][933]LogMaterial: Display: Missing cached shadermap for Landscape_mt in PCD3D_SM5, Default, SM5 (DDC key hash: 9CEA15740D8AB492DAB1FBA2FAA01A51C4D3E6F9), compiling. 
+[2023.02.26-20.06.03:536][933]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:538][933]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_66 in PCD3D_SM5, Default, SM5 (DDC key hash: D17DC341140B1DB500C7071DC8B67168B65A3CA8), compiling. 
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 37
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 34
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 31
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 28
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 25
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 22
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 19
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 16
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 13
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 10
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 7
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 1
+[2023.02.26-20.06.03:539][933]LogShaderCompilers: Display: Started 37 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:539][933]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_80 in PCD3D_SM5, Default, SM5 (DDC key hash: 00086B8CEC02F7774E13F1168E5ADC1DE57C95CB), compiling. 
+[2023.02.26-20.06.03:541][933]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_24 in PCD3D_SM5, Default, SM5 (DDC key hash: DE42E9336BC8A408FB6311A45DE13C7DAA68A795), compiling. 
+[2023.02.26-20.06.03:541][933]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.02.26-20.06.03:541][933]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.02.26-20.06.03:542][933]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: BEF8EDFFF22EE2B758156ADE613F791D3329BB14), compiling. 
+[2023.02.26-20.06.03:542][933]LogLandscape: Warning: Shader TMaterialCHSFNoLightMapPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.02.26-20.06.03:542][933]LogLandscape: Warning: Shader TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2023.02.26-20.06.03:542][933]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: B928A2DD926B0A64F99F289668995569EB695419), compiling. 
+[2023.02.26-20.06.03:545][933]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_46 in PCD3D_SM5, Default, SM5 (DDC key hash: 993C67F708E3E0048593E88DA3593B5EC6E24373), compiling. 
+[2023.02.26-20.06.03:546][933]LogMaterial: Display: Material /Game/Props/chair/Material_chair.Material_chair needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:548][933]LogMaterial: Display: Missing cached shadermap for Material_chair in PCD3D_SM5, Default, SM5 (DDC key hash: 4352EE4D8B2494B78D2810024D0967C61EF9E4EB), compiling. 
+[2023.02.26-20.06.03:562][933]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:563][933]LogMaterial: Display: Material /Game/Props/chair/Chair_Wood.Chair_Wood needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:564][933]LogMaterial: Display: Missing cached shadermap for Chair_Wood in PCD3D_SM5, Default, SM5 (DDC key hash: 5613484E6577BEE0001F41336B45DEBE21681760), compiling. 
+[2023.02.26-20.06.03:586][933]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:587][933]LogMaterial: Display: Material /Game/Skydome/Material_bp.Material_bp needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:589][933]LogMaterial: Display: Missing cached shadermap for Material_bp in PCD3D_SM5, Default, SM5 (DDC key hash: 5A8998A90C91817BF3FE2259A0DEFBE8AADF037D), compiling. 
+[2023.02.26-20.06.03:606][933]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:606][933]LogMaterial: Display: Material /Game/Props/Umbrella/Material_chair.Material_chair needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:607][933]LogMaterial: Display: Missing cached shadermap for Material_chair in PCD3D_SM5, Default, SM5 (DDC key hash: D71FE29AF5E19C2446828BE62A89D1717FB318EF), compiling. 
+[2023.02.26-20.06.03:623][933]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:624][933]LogMaterial: Display: Material /Game/Props/Umbrella/Red.Red needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:625][933]LogMaterial: Display: Missing cached shadermap for Red in PCD3D_SM5, Default, SM5 (DDC key hash: 46F22539032B76605324B1EF772CFA38A26193D7), compiling. 
+[2023.02.26-20.06.03:643][933]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:644][933]LogMaterial: Display: Material /Water/Materials/WaterSurface/Water_Material.Water_Material needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:646][933]LogMaterial: Display: Missing cached shadermap for Water_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 266F34E921BBB7BCA8E17588BBF8A118BD83C0AA), compiling. 
+[2023.02.26-20.06.03:752][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 190
+[2023.02.26-20.06.03:752][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 180
+[2023.02.26-20.06.03:752][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 170
+[2023.02.26-20.06.03:752][933]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:752][933]LogShaderCompilers: Display: Submitted 224 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:754][933]LogMaterial: Display: Missing cached shadermap for Water_FarMesh in PCD3D_SM5, Default, SM5 (DDC key hash: 5BE248D7CBF27010BBC95AD781ED648D3E6141A9), compiling. 
+[2023.02.26-20.06.03:765][933]LogMaterial: Display: Material /Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Rock.M-Rock needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:768][933]LogMaterial: Display: Missing cached shadermap for M-Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 104F02CB2F0126C38E80137143FE97E6537099F3), compiling. 
+[2023.02.26-20.06.03:869][933]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:871][933]LogMaterial: Display: Material /Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Trunk.M-Trunk needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:875][933]LogMaterial: Display: Missing cached shadermap for M-Trunk in PCD3D_SM5, Default, SM5 (DDC key hash: 2F6B3B2B4F88E684A02FDFEFF20B7F36EDC05B46), compiling. 
+[2023.02.26-20.06.03:975][933]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.03:976][933]LogMaterial: Display: Material /Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Leaves.M-Leaves needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.03:979][933]LogMaterial: Display: Missing cached shadermap for M-Leaves in PCD3D_SM5, Default, SM5 (DDC key hash: 8D1FA899D5FEE8FFCCFBA8559155E16D8A1C0FEE), compiling. 
+[2023.02.26-20.06.04:102][933]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.04:104][933]LogMaterial: Display: Material /Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Plants.M-Plants needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.04:108][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 38
+[2023.02.26-20.06.04:108][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.04:108][933]LogMaterial: Display: Missing cached shadermap for M-Plants in PCD3D_SM5, Default, SM5 (DDC key hash: 0A5B076D69908EF3F4265E2950215E6DED87C765), compiling. 
+[2023.02.26-20.06.04:172][933]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.04:175][933]LogMaterial: Display: Missing cached shadermap for MI-Plants-04 in PCD3D_SM5, Default, SM5 (DDC key hash: D0A3D54F320925B8609CA71234D0A64F5441C507), compiling. 
+[2023.02.26-20.06.04:179][933]LogMaterial: Display: Missing cached shadermap for MI-Plants-11 in PCD3D_SM5, Default, SM5 (DDC key hash: 251AD5AAF23D6ECA1C5E0A6CC8D50E4E468417EF), compiling. 
+[2023.02.26-20.06.04:183][933]LogMaterial: Display: Material /Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Grass.M-Grass needed to have new flag set bUsedWithStaticLighting !
+[2023.02.26-20.06.04:185][933]LogMaterial: Display: Missing cached shadermap for M-Grass in PCD3D_SM5, Default, SM5 (DDC key hash: 1DAB3BA34358432AFE7FA52F1D76F3CEFBC44B98), compiling. 
+[2023.02.26-20.06.04:248][933]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2023.02.26-20.06.04:260][933]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.04:260][933]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.04:260][933]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.04:260][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.26-20.06.04:298][933]LogShaderCompilers: Display: Submitted 77 shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.04:335][933]LogShaderCompilers: Display: Submitted 77 shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.04:370][933]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.04:474][933]LogShaderCompilers: Display: Submitted 224 shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.04:506][933]LogStaticLightingSystem: Illumination: 4:35 min (7.46 sec encoding lightmaps, 1.85 sec encoding shadowmaps)
+[2023.02.26-20.06.04:506][933]LogStaticLightingSystem: Lightmap texture memory:  398.8 MB (398.8 MB streaming, 0.0 MB non-streaming), 34 textures
+[2023.02.26-20.06.04:506][933]LogStaticLightingSystem: Shadowmap texture memory: 55.5 MB (55.5 MB streaming, 0.0 MB non-streaming), 17 textures
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 24
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 22
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 20
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:859][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 18
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 16
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 14
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 13
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 12
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 11
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 10
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 9
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 8
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 7
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 6
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 5
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 4
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 2
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 659
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 649
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 639
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 629
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 619
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 609
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 599
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 589
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 579
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 569
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 559
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 549
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 539
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 529
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 519
+[2023.02.26-20.06.09:860][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.09:860][933]DumpUnbuiltLightIteractions
+[2023.02.26-20.06.09:860][933]Lights with unbuilt interactions: 0
+[2023.02.26-20.06.09:860][933]
+[2023.02.26-20.06.09:860][933]Primitives with unbuilt interactions: 0
+[2023.02.26-20.06.10:512][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 509
+[2023.02.26-20.06.10:512][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.10:924][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 499
+[2023.02.26-20.06.10:924][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.11:735][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 489
+[2023.02.26-20.06.11:735][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.12:140][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 479
+[2023.02.26-20.06.12:140][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.12:343][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 469
+[2023.02.26-20.06.12:343][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.12:949][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 459
+[2023.02.26-20.06.12:949][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.13:956][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 449
+[2023.02.26-20.06.13:956][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.14:158][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 439
+[2023.02.26-20.06.14:158][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 429
+[2023.02.26-20.06.14:158][933]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.14:764][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 419
+[2023.02.26-20.06.14:764][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.15:168][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 409
+[2023.02.26-20.06.15:168][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.15:168][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 399
+[2023.02.26-20.06.15:168][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.16:585][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 389
+[2023.02.26-20.06.16:585][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.16:585][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 379
+[2023.02.26-20.06.16:585][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.17:597][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 369
+[2023.02.26-20.06.17:597][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.18:001][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 359
+[2023.02.26-20.06.18:001][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.18:001][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 349
+[2023.02.26-20.06.18:001][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.18:406][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 339
+[2023.02.26-20.06.18:406][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.20:225][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 329
+[2023.02.26-20.06.20:225][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.20:225][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 319
+[2023.02.26-20.06.20:225][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.20:630][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 309
+[2023.02.26-20.06.20:630][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.20:832][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 299
+[2023.02.26-20.06.20:832][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.20:832][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 289
+[2023.02.26-20.06.20:832][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.21:035][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 279
+[2023.02.26-20.06.21:035][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.21:035][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 269
+[2023.02.26-20.06.21:035][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.21:439][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 259
+[2023.02.26-20.06.21:439][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.21:641][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 249
+[2023.02.26-20.06.21:641][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.21:844][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 239
+[2023.02.26-20.06.21:844][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.21:844][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 229
+[2023.02.26-20.06.21:844][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.22:046][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 219
+[2023.02.26-20.06.22:046][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.22:249][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 209
+[2023.02.26-20.06.22:249][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.22:652][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 199
+[2023.02.26-20.06.22:652][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.23:056][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 189
+[2023.02.26-20.06.23:056][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.23:864][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 179
+[2023.02.26-20.06.23:864][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.24:067][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 169
+[2023.02.26-20.06.24:067][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.24:067][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 159
+[2023.02.26-20.06.24:067][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.24:674][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 149
+[2023.02.26-20.06.24:674][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.24:876][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 139
+[2023.02.26-20.06.24:876][933]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.25:079][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 130
+[2023.02.26-20.06.25:079][933]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.25:281][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 121
+[2023.02.26-20.06.25:281][933]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.25:281][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 113
+[2023.02.26-20.06.25:281][933]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.25:885][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 105
+[2023.02.26-20.06.25:885][933]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.25:885][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 98
+[2023.02.26-20.06.25:885][933]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.25:885][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 91
+[2023.02.26-20.06.25:885][933]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.26:087][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 85
+[2023.02.26-20.06.26:087][933]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.26:490][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 79
+[2023.02.26-20.06.26:490][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.26:490][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 74
+[2023.02.26-20.06.26:490][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.26:490][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 69
+[2023.02.26-20.06.26:490][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.26:692][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 64
+[2023.02.26-20.06.26:692][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.26:894][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 59
+[2023.02.26-20.06.26:894][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:297][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 55
+[2023.02.26-20.06.27:297][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:499][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 51
+[2023.02.26-20.06.27:499][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 47
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 44
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 41
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 38
+[2023.02.26-20.06.27:700][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:901][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 35
+[2023.02.26-20.06.27:901][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.27:901][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 32
+[2023.02.26-20.06.27:901][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:102][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 29
+[2023.02.26-20.06.28:102][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:102][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 27
+[2023.02.26-20.06.28:102][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:102][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 25
+[2023.02.26-20.06.28:102][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:304][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 23
+[2023.02.26-20.06.28:304][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:304][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 21
+[2023.02.26-20.06.28:304][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 19
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 17
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 15
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 14
+[2023.02.26-20.06.28:506][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:708][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 13
+[2023.02.26-20.06.28:708][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:708][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 12
+[2023.02.26-20.06.28:708][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:708][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 11
+[2023.02.26-20.06.28:708][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 10
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 9
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 8
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 7
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 6
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 5
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 4
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 3
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 2
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 1
+[2023.02.26-20.06.28:909][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.06.29:111][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 300
+[2023.02.26-20.06.29:111][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:111][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 290
+[2023.02.26-20.06.29:111][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 280
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 270
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 260
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 250
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 240
+[2023.02.26-20.06.29:314][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 230
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 220
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 210
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 200
+[2023.02.26-20.06.29:517][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 190
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 180
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 170
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 160
+[2023.02.26-20.06.29:719][933]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.29:920][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 150
+[2023.02.26-20.06.29:920][933]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.33:558][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 140
+[2023.02.26-20.06.33:558][933]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.34:166][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 131
+[2023.02.26-20.06.34:166][933]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.34:166][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 122
+[2023.02.26-20.06.34:166][933]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.34:368][933]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 114
+[2023.02.26-20.06.34:368][933]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.35:178][933]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 106
+[2023.02.26-20.06.35:178][933]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.35:380][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 99
+[2023.02.26-20.06.35:380][933]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.35:583][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 92
+[2023.02.26-20.06.35:583][933]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.35:785][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 86
+[2023.02.26-20.06.35:785][933]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.35:987][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 80
+[2023.02.26-20.06.35:987][933]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.36:798][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 74
+[2023.02.26-20.06.36:798][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.38:618][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 69
+[2023.02.26-20.06.38:618][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.38:618][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 64
+[2023.02.26-20.06.38:618][933]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.39:224][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 59
+[2023.02.26-20.06.39:224][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.39:426][933]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 55
+[2023.02.26-20.06.39:426][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.40:234][933]LogShaderCompilers: Display: Worker (16/17): shaders left to compile 51
+[2023.02.26-20.06.40:234][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.40:840][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 47
+[2023.02.26-20.06.40:840][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.41:245][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 44
+[2023.02.26-20.06.41:245][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.41:447][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 41
+[2023.02.26-20.06.41:447][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.41:650][933]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 38
+[2023.02.26-20.06.41:650][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.41:852][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 35
+[2023.02.26-20.06.41:852][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.41:852][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 32
+[2023.02.26-20.06.41:852][933]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.41:852][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 29
+[2023.02.26-20.06.41:852][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.42:055][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 27
+[2023.02.26-20.06.42:055][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.42:662][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 25
+[2023.02.26-20.06.42:662][933]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 23
+[2023.02.26-20.06.42:662][933]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:066][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 21
+[2023.02.26-20.06.43:066][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:066][933]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 19
+[2023.02.26-20.06.43:066][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:268][933]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 17
+[2023.02.26-20.06.43:268][933]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:268][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 15
+[2023.02.26-20.06.43:268][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:471][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 14
+[2023.02.26-20.06.43:471][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:674][933]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 13
+[2023.02.26-20.06.43:674][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:674][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 12
+[2023.02.26-20.06.43:674][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.43:876][933]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 11
+[2023.02.26-20.06.43:876][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.44:078][933]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 10
+[2023.02.26-20.06.44:078][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.44:481][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 9
+[2023.02.26-20.06.44:481][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.44:683][933]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 8
+[2023.02.26-20.06.44:683][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.44:884][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 7
+[2023.02.26-20.06.44:884][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.45:087][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 6
+[2023.02.26-20.06.45:087][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.45:087][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 5
+[2023.02.26-20.06.45:087][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.45:087][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 4
+[2023.02.26-20.06.45:087][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.45:289][933]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 3
+[2023.02.26-20.06.45:289][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.45:289][933]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 2
+[2023.02.26-20.06.45:289][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.45:289][933]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 1
+[2023.02.26-20.06.45:289][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.26-20.06.47:571][933]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-20.06.47:571][933]LogShaderCompilers: Display: Total job queries 9968, among them cache hits 4953 (49.69%)
+[2023.02.26-20.06.47:571][933]LogShaderCompilers: Display: Tracking 4370 distinct input hashes that result in 2522 distinct outputs (57.71%)
+[2023.02.26-20.06.47:572][933]LogShaderCompilers: Display: RAM used: 23.68 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.45%
+[2023.02.26-20.06.47:572][933]LogShaderCompilers: Display: ================================================
+[2023.02.26-20.06.47:660][933]LogD3D12RHI: Creating RTPSO with 174 shaders (0 cached, 10 new) took 82.32 ms. Compile time 79.69 ms, link time 2.30 ms.
+[2023.02.26-20.06.47:772][933]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.26-20.06.47:774][934]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.02.26-20.06.47:774][934]MapCheck: New page: Level1_Beach - 26 Feb 2023, 20:06:47
+[2023.02.26-20.06.47:775][934]MapCheck: Error: Landscape1_WaterBrushManager_0 This brush requires a Landscape. Add one to the map or remove the brush actor. 
+[2023.02.26-20.06.47:775][934]MapCheck: Error: Landscape1_WaterBrushManager_0 The water brush requires a Landscape with Edit Layers enabled. 
+[2023.02.26-20.06.47:775][934]MapCheck: Error: Landscape1_WaterBrushManager_0 The water brush is missing from the owning landscape edit layers. 
+[2023.02.26-20.06.47:775][934]MapCheck: Warning: WaterBodyCustom_2 Collision enabled but StaticMesh (S_WaterPlane_256) has no simple or complex collision. 
+[2023.02.26-20.06.47:776][934]MapCheck: Map check complete: 3 Error(s), 1 Warning(s), took 1.954ms to complete.
+[2023.02.26-20.06.47:898][936]LogD3D12RHI: Creating RTPSO with 180 shaders (10 cached, 6 new) took 97.00 ms. Compile time 94.26 ms, link time 2.51 ms.
+[2023.02.26-20.06.48:204][940]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material.uasset: 'E:/UE_4.27/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material.uasset' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.06.51:412][316]LogSlate: Window 'Message Log' being destroyed
+[2023.02.26-20.06.51:417][316]LogSlate: Window 'Message Log' being destroyed
+[2023.02.26-20.06.53:995][617]LogD3D12RHI: Creating RTPSO with 181 shaders (0 cached, 1 new) took 63.61 ms. Compile time 61.63 ms, link time 1.75 ms.
+[2023.02.26-20.06.54:372][652]LogD3D12RHI: Creating RTPSO with 182 shaders (0 cached, 1 new) took 46.42 ms. Compile time 44.37 ms, link time 1.83 ms.
+[2023.02.26-20.06.54:513][658]LogD3D12RHI: Creating RTPSO with 183 shaders (0 cached, 1 new) took 66.36 ms. Compile time 64.34 ms, link time 1.79 ms.
+[2023.02.26-20.06.54:562][664]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.02.26-20.06.54:736][685]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.02.26-20.06.54:921][707]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2023.02.26-20.06.55:095][728]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.02.26-20.12.39:634][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.26-20.12.39:702][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach_Auto4D8BE44CF469AB874F56DE19858F92967.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level1_Beach_Auto4.umap'
+[2023.02.26-20.12.39:703][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1_Beach' took 0.078
+[2023.02.26-20.12.39:703][968]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2023.02.26-20.12.39:703][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Materials_BP/Landscape_mt] ([1] browsable assets)...
+[2023.02.26-20.12.39:722][968]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Materials_BP/Landscape_mt.Landscape_mt]
+[2023.02.26-20.12.39:722][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Materials_BP/Landscape_mt]
+[2023.02.26-20.12.39:727][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Landscape_mt_Auto490BEB4F84D30BE6B08BBDCBEA2D05F0B.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Materials/Materials_BP/Landscape_mt_Auto4.uasset'
+[2023.02.26-20.12.39:728][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Skydome/Material_bp_Inst] ([1] browsable assets)...
+[2023.02.26-20.12.39:736][968]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Skydome/Material_bp_Inst.Material_bp_Inst]
+[2023.02.26-20.12.39:736][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skydome/Material_bp_Inst]
+[2023.02.26-20.12.39:740][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Material_bp_Inst_Auto4357FF3164A6214F684150C8BE7CD09A0.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Skydome/Material_bp_Inst_Auto4.uasset'
+[2023.02.26-20.12.39:741][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Skydome/Material_bp] ([1] browsable assets)...
+[2023.02.26-20.12.39:748][968]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Skydome/Material_bp.Material_bp]
+[2023.02.26-20.12.39:748][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Skydome/Material_bp]
+[2023.02.26-20.12.39:752][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Material_bp_Auto40DE53AD549FC91222A07179B7D65C492.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Skydome/Material_bp_Auto4.uasset'
+[2023.02.26-20.12.39:752][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Water/Materials/WaterSurface/Water_Material] ([1] browsable assets)...
+[2023.02.26-20.12.39:776][968]OBJ SavePackage:     Rendered thumbnail for [Material /Water/Materials/WaterSurface/Water_Material.Water_Material]
+[2023.02.26-20.12.39:776][968]OBJ SavePackage: Finished generating thumbnails for package [/Water/Materials/WaterSurface/Water_Material]
+[2023.02.26-20.12.39:789][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Water_Material_Auto40D4CE0B141881E5ECBEDA3828438A3CF.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Water/Materials/WaterSurface/Water_Material_Auto4.uasset'
+[2023.02.26-20.12.39:790][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/chair/Chair_Wood] ([1] browsable assets)...
+[2023.02.26-20.12.39:799][968]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/chair/Chair_Wood.Chair_Wood]
+[2023.02.26-20.12.39:799][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/chair/Chair_Wood]
+[2023.02.26-20.12.39:803][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Chair_Wood_Auto452C128E942CEDEF133BE539F7791E537.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/chair/Chair_Wood_Auto4.uasset'
+[2023.02.26-20.12.39:803][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/chair/Material_chair] ([1] browsable assets)...
+[2023.02.26-20.12.39:810][968]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/chair/Material_chair.Material_chair]
+[2023.02.26-20.12.39:810][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/chair/Material_chair]
+[2023.02.26-20.12.39:815][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Material_chair_Auto46ADA37E4414CB2BA1B495087B6F14A65.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/chair/Material_chair_Auto4.uasset'
+[2023.02.26-20.12.39:816][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Umbrella/Material_chair] ([1] browsable assets)...
+[2023.02.26-20.12.39:826][968]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/Umbrella/Material_chair.Material_chair]
+[2023.02.26-20.12.39:826][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Umbrella/Material_chair]
+[2023.02.26-20.12.39:829][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Material_chair_Auto43C497DA44A52C753158F18B80BEAC5F4.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Umbrella/Material_chair_Auto4.uasset'
+[2023.02.26-20.12.39:830][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Umbrella/Red] ([1] browsable assets)...
+[2023.02.26-20.12.39:839][968]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/Umbrella/Red.Red]
+[2023.02.26-20.12.39:839][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Umbrella/Red]
+[2023.02.26-20.12.39:842][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Red_Auto4A203707D4DB929FFD09C3CBCE5AE7517.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Umbrella/Red_Auto4.uasset'
+[2023.02.26-20.12.39:843][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Plants/MI-Plants-09] ([1] browsable assets)...
+[2023.02.26-20.12.39:843][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Plants/MI-Plants-09]
+[2023.02.26-20.12.39:844][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/MI-Plants-09_Auto4CC39D8944747745595637EB4461DE951.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Plants/MI-Plants-09_Auto4.uasset'
+[2023.02.26-20.12.39:845][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Plants] ([1] browsable assets)...
+[2023.02.26-20.12.39:845][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Plants]
+[2023.02.26-20.12.39:850][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/M-Plants_Auto406DE0C8045B42304A5FA7699E15C31C9.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Plants_Auto4.uasset'
+[2023.02.26-20.12.39:851][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Grass/MI-Grass-01] ([1] browsable assets)...
+[2023.02.26-20.12.39:851][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Grass/MI-Grass-01]
+[2023.02.26-20.12.39:852][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/MI-Grass-01_Auto4742067EB46EC086DB71597801AD5F3DA.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Grass/MI-Grass-01_Auto4.uasset'
+[2023.02.26-20.12.39:852][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Grass] ([1] browsable assets)...
+[2023.02.26-20.12.39:852][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Grass]
+[2023.02.26-20.12.39:858][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/M-Grass_Auto4115BB0534576C3E0F0C5A3AE124A8DF8.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Grass_Auto4.uasset'
+[2023.02.26-20.12.39:859][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Trunk/MI-Palm-01] ([1] browsable assets)...
+[2023.02.26-20.12.39:859][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Trunk/MI-Palm-01]
+[2023.02.26-20.12.39:860][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/MI-Palm-01_Auto491EE833B47A1F6C9437E95AB051EA5BE.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Trunk/MI-Palm-01_Auto4.uasset'
+[2023.02.26-20.12.39:860][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Leaves] ([1] browsable assets)...
+[2023.02.26-20.12.39:860][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Leaves]
+[2023.02.26-20.12.39:865][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/M-Leaves_Auto426CEDCDE4F86F12008F7ABB13799FED3.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Leaves_Auto4.uasset'
+[2023.02.26-20.12.39:866][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Rock] ([1] browsable assets)...
+[2023.02.26-20.12.39:866][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Rock]
+[2023.02.26-20.12.39:869][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/M-Rock_Auto4B458A7E144028C3D694A27A330B86AE3.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Rock_Auto4.uasset'
+[2023.02.26-20.12.39:869][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Trunk] ([1] browsable assets)...
+[2023.02.26-20.12.39:869][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Trunk]
+[2023.02.26-20.12.39:874][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/M-Trunk_Auto4A83DE23D44EBF234D0A7EF9B5D068BD4.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Master/M-Trunk_Auto4.uasset'
+[2023.02.26-20.12.39:875][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Leaves/MI-PalmLeaves-01] ([1] browsable assets)...
+[2023.02.26-20.12.39:875][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Leaves/MI-PalmLeaves-01]
+[2023.02.26-20.12.39:876][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/MI-PalmLeaves-01_Auto432050D9D48D0E131EC783AA0D3CEEBA5.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Leaves/MI-PalmLeaves-01_Auto4.uasset'
+[2023.02.26-20.12.39:876][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Rocks/MI-Rock-07] ([1] browsable assets)...
+[2023.02.26-20.12.39:876][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Rocks/MI-Rock-07]
+[2023.02.26-20.12.39:877][968]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/MI-Rock-07_Auto4214CC09F41802EF442326EB3DB997F4C.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/External_Assets/Kobo_Nature/Materials/M-Instances/MI-Rocks/MI-Rock-07_Auto4.uasset'
+[2023.02.26-20.12.39:878][968]LogFileHelpers: Auto-saving content packages took 0.175
+[2023.02.26-20.25.51:858][738]LogAssetTools: Warning: Failed to import 'C:\Users\tingl\Downloads\dock_Mesh.usd'. Unknown extension 'usd'.
+[2023.02.26-20.28.42:456][546]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.26-20.28.42:468][546]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.26-20.28.44:384][751]LogContentBrowser: Attempting asset rename: NewFolder -> Dock
+[2023.02.26-20.28.44:384][751]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.26-20.28.48:874][147]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tingl\Downloads\Dock_lambert1_Normal.png)
+[2023.02.26-20.28.48:905][147]LogTexture: Display: Building textures: Dock_lambert1_Normal (OODLE_BC5, 1024X1024)
+[2023.02.26-20.28.48:920][147]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.02.26-20.28.49:011][147]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tingl\Downloads\Dock_lambert1_OcclusionRoughnessMetallic.png)
+[2023.02.26-20.28.49:022][147]LogTexture: Display: Building textures: Dock_lambert1_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2023.02.26-20.28.49:038][147]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.28.49:183][147]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tingl\Downloads\Dock_lambert1_BaseColor.png)
+[2023.02.26-20.28.49:199][147]LogTexture: Display: Building textures: Dock_lambert1_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2023.02.26-20.28.49:236][147]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.02.26-20.29.07:055][ 84]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tingl\Desktop\Maya Projs\3D-assignment\scenes\Dock\Dock.fbx)
+[2023.02.26-20.29.07:074][ 84]LogFbx: Loading FBX Scene from C:\Users\tingl\Desktop\Maya Projs\3D-assignment\scenes\Dock\Dock.fbx
+[2023.02.26-20.29.07:080][ 84]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.26-20.29.08:409][ 84]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.26-20.29.08:433][ 84]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: B74C403D4A87C75F3CF2A79035BF7C8340DAA8C6), compiling. 
+[2023.02.26-20.29.08:435][ 84]LogFbx: Display: Triangulating static mesh pCube33
+[2023.02.26-20.29.08:445][ 84]LogStaticMesh: Building static mesh Dock...
+[2023.02.26-20.29.08:457][ 84]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Dock/Dock.Dock
+[2023.02.26-20.29.08:464][ 84]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.26-20.29.08:604][ 88]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.08:604][ 88]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.08:604][ 88]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.08:604][ 88]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Submitted 20 shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 20
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 18
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 16
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 14
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 12
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 10
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 8
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 4
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 2
+[2023.02.26-20.29.08:612][ 89]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.08:989][123]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-20.29.08:989][123]LogShaderCompilers: Display: Total job queries 10133, among them cache hits 5096 (50.29%)
+[2023.02.26-20.29.08:989][123]LogShaderCompilers: Display: Tracking 4371 distinct input hashes that result in 2522 distinct outputs (57.70%)
+[2023.02.26-20.29.08:989][123]LogShaderCompilers: Display: RAM used: 23.68 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.45%
+[2023.02.26-20.29.08:989][123]LogShaderCompilers: Display: ================================================
+[2023.02.26-20.29.10:888][313]LogSlate: Window 'Message Log' being destroyed
+[2023.02.26-20.29.10:911][313]LogSlate: Window 'Message Log' being destroyed
+[2023.02.26-20.29.13:707][565]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props/Dock/lambert1.lambert1
+[2023.02.26-20.29.13:718][565]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A6C0B30759E548B8C7371E11217D121378C476B), compiling. 
+[2023.02.26-20.29.13:832][565]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 84101C73D22E17A94B3498BA3A8406973AFE01F9), compiling. 
+[2023.02.26-20.29.13:834][565]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 503AB347022A276772A87D7159BA144D2C2C474E), compiling. 
+[2023.02.26-20.29.13:836][565]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B0F8F489E9B43CBEC20D99B849ED7E076D44640E), compiling. 
+[2023.02.26-20.29.13:848][565]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.13:852][565]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.26-20.29.13:906][566]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.13:906][566]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.13:906][566]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.13:906][566]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.13:906][566]MaterialEditorStats: Base pass shader: 119 instructions
+[2023.02.26-20.29.13:906][566]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2023.02.26-20.29.13:906][566]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.26-20.29.13:906][566]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.26-20.29.21:253][208]LogSlate: Window 'lambert1' being destroyed
+[2023.02.26-20.29.21:279][209]LogRenderer: Reallocating scene render targets to support 2604x1312 Format 10 NumSamples 1 (Frame:239066).
+[2023.02.26-20.29.28:440][  7]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: C499124BB33CBEB301D33D232AF2ADE56AB931FA), compiling. 
+[2023.02.26-20.29.28:442][  7]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 13
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 10
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 8
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.02.26-20.29.28:463][  8]LogShaderCompilers: Display: Started 13 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.28:842][ 51]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.26-20.29.29:168][ 88]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.26-20.29.29:168][ 88]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.26-20.29.29:168][ 88]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.26-20.29.29:168][ 88]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.26-20.29.32:016][406]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: FBA8E6F01DBCDC53C19709A40AA293451C11FBDE), compiling. 
+[2023.02.26-20.29.32:017][406]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DCC1D615C879EE137381E72C60EFF65F49C4748), compiling. 
+[2023.02.26-20.29.32:018][406]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 84D59126994F3D23D8DDFE0D8F6868D6E31C4DFA), compiling. 
+[2023.02.26-20.29.32:020][406]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.32:040][407]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.32:040][407]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.32:040][407]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.32:040][407]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.32:040][407]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.02.26-20.29.32:040][407]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.02.26-20.29.32:040][407]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.02.26-20.29.32:040][407]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.26-20.29.34:090][641]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 4143CB6F3976800DF30BD871EEBB6C959F6A440F), compiling. 
+[2023.02.26-20.29.34:091][641]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AD73899ACA407C1BF2D410BCA4328DF55EE3AB5), compiling. 
+[2023.02.26-20.29.34:095][641]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.34:095][641]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.26-20.29.34:095][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.34:099][642]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.34:099][642]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.34:099][642]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.34:099][642]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 13
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 10
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 8
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.02.26-20.29.34:104][643]LogShaderCompilers: Display: Started 13 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.34:502][681]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.26-20.29.34:502][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.26-20.29.34:502][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.34:785][715]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.26-20.29.34:785][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.26-20.29.34:785][715]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.29.34:785][715]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.26-20.29.34:785][715]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.26-20.29.34:785][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.38:454][125]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 53809B2A3329F09ABB8CD4F0590FDDE97287B2FB), compiling. 
+[2023.02.26-20.29.38:455][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 03B853047F6C34C0098B4678E7094434005EEEA1), compiling. 
+[2023.02.26-20.29.38:455][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3BC037C994504913E6879A420A5E173BEA70CB77), compiling. 
+[2023.02.26-20.29.38:456][125]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FCF3E506F9F774DCC0B4D546383A1109894F790D), compiling. 
+[2023.02.26-20.29.38:458][125]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.38:458][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.26-20.29.38:458][125]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.38:478][126]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.38:478][126]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.38:478][126]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.38:478][126]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.38:478][126]MaterialEditorStats: Base pass shader: 120 instructions
+[2023.02.26-20.29.38:478][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2023.02.26-20.29.38:478][126]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.29.38:478][126]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.26-20.29.38:478][126]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2023.02.26-20.29.38:478][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.41:641][498]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 717F13D0B8AEB45B6AA3EFBEDFBF1DC06FE3ADFA), compiling. 
+[2023.02.26-20.29.41:641][498]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B159EA5E41C4A13B2411E55D0C2B0D68080AB8E1), compiling. 
+[2023.02.26-20.29.41:645][498]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.41:645][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.26-20.29.41:645][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.41:649][499]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.41:649][499]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.41:649][499]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.41:649][499]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 13
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 10
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 8
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.02.26-20.29.41:653][500]LogShaderCompilers: Display: Started 13 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.42:057][540]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.26-20.29.42:057][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.26-20.29.42:057][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.42:318][566]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.26-20.29.42:318][566]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.26-20.29.42:318][566]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.29.42:318][566]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.26-20.29.42:318][566]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.26-20.29.42:318][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.45:295][895]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E7E24EB56ACC7E7E786F320C2FA426D0A57DD06), compiling. 
+[2023.02.26-20.29.45:297][895]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AA3351E3E6E4CB0415761C84B6B68C5FECB26565), compiling. 
+[2023.02.26-20.29.45:297][895]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F588D654E11DEBA3160C1A19E9BCEAF26D584AA), compiling. 
+[2023.02.26-20.29.45:298][895]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: ABBA55B4D433DEC2978366DE6A4BEFE78F940487), compiling. 
+[2023.02.26-20.29.45:299][895]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5847868D69796D32E0A0052F6464011BB5AAABFB), compiling. 
+[2023.02.26-20.29.45:301][895]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.45:301][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.26-20.29.45:301][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.45:319][896]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.45:319][896]MaterialEditorStats: Base pass shader: 126 instructions
+[2023.02.26-20.29.45:319][896]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2023.02.26-20.29.45:319][896]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.29.45:319][896]MaterialEditorStats: Texture samplers: 4/16
+[2023.02.26-20.29.45:319][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.02.26-20.29.45:319][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.45:330][897]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.45:330][897]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.45:330][897]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.49:198][355]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F2FBBA245C984C721421828004DEA47D7A6EBC8), compiling. 
+[2023.02.26-20.29.49:199][355]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 30A2F81302515E1A37216392AB29B5236AE4837D), compiling. 
+[2023.02.26-20.29.49:202][355]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.49:202][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.29.49:202][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.49:205][356]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.49:205][356]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.49:205][356]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.49:205][356]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 10
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 10
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 8
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.02.26-20.29.49:209][357]LogShaderCompilers: Display: Started 13 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.49:598][390]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.26-20.29.49:598][390]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.29.49:598][390]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.49:886][424]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.26-20.29.49:886][424]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.02.26-20.29.49:886][424]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.29.49:886][424]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.26-20.29.49:886][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.29.49:886][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.57:782][355]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C130B8B087019637B55D3350E8B9314FE960084), compiling. 
+[2023.02.26-20.29.57:783][355]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5881F32B4EFF4D67C80B8ADDA4B5FEF3F4B7148D), compiling. 
+[2023.02.26-20.29.57:786][355]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.29.57:786][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.29.57:786][355]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.57:789][356]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.57:789][356]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.02.26-20.29.57:789][356]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.02.26-20.29.57:789][356]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 13
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Submitted 13 shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 12
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 11
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 10
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 9
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 8
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 7
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 6
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 5
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 3
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (14/17): shaders left to compile 2
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Worker (15/17): shaders left to compile 1
+[2023.02.26-20.29.57:793][357]LogShaderCompilers: Display: Started 13 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.29.58:198][395]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.26-20.29.58:198][395]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.29.58:198][395]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.29.58:473][428]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.26-20.29.58:473][428]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.02.26-20.29.58:473][428]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.29.58:473][428]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.26-20.29.58:473][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.29.58:473][428]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.30.00:038][606]LogMaterialEditor: Applying material lambert1
+[2023.02.26-20.30.00:387][606]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 99ECA8F65E9EBCCF2D0F763CA298646F9C057DFB), compiling. 
+[2023.02.26-20.30.00:411][606]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: EB99B32D854722B4CD1336AE50376217B962AFD3), compiling. 
+[2023.02.26-20.30.00:439][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.26-20.30.00:446][606]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.30.00:656][606]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 1
+[2023.02.26-20.30.00:656][606]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.02.26-20.30.00:681][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.02.26-20.30.00:689][606]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.26-20.30.00:689][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.30.00:689][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 6
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 5
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 4
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 3
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 2
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2023.02.26-20.30.00:703][608]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.02.26-20.30.00:721][608]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.26-20.30.00:721][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.30.00:721][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.30.01:002][642]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.26-20.30.01:002][642]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.02.26-20.30.01:002][642]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.30.01:002][642]MaterialEditorStats: Texture samplers: 6/16
+[2023.02.26-20.30.01:002][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.30.01:003][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.30.01:185][664]LogMaterialEditor: Saving and Compiling material lambert1
+[2023.02.26-20.30.01:265][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Dock/lambert1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Dock/lambert1.uasset" SILENT=true
+[2023.02.26-20.30.01:269][664]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/lambert1C52A5BB6466389CA142692800832181C.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Dock/lambert1.uasset'
+[2023.02.26-20.30.01:362][664]AssetCheck: New page: Asset Save: lambert1
+[2023.02.26-20.30.01:362][664]LogContentValidation: Display: Validating Material /Game/Props/Dock/lambert1.lambert1
+[2023.02.26-20.30.03:945][825]LogActorFactory: Actor Factory created Dock
+[2023.02.26-20.30.04:001][826]LogD3D12RHI: Creating RTPSO with 184 shaders (0 cached, 1 new) took 49.03 ms. Compile time 46.62 ms, link time 2.08 ms.
+[2023.02.26-20.30.04:726][865]LogActorFactory: Actor Factory created Dock
+[2023.02.26-20.30.31:926][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dock)
+[2023.02.26-20.30.55:242][238]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.26-20.30.55:245][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-20.30.55:245][238]PIE: New page: PIE session: Level1_Beach (26 Feb 2023, 20:30:55)
+[2023.02.26-20.30.55:245][238]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.26-20.30.55:260][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014403s)
+[2023.02.26-20.30.55:261][238]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.26-20.30.55:261][238]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2023.02.26-20.30.55:261][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.015441s)
+[2023.02.26-20.30.55:269][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.02.26-20.30.55:271][238]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-20.30.55:271][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-20.30.55:271][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-20.30.55:271][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-20.30.55:271][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-20.30.55:271][238]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 1: FrontRight
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 4: BackLeft
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 5: BackRight
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 6: SideLeft
+[2023.02.26-20.30.55:284][238]LogAudioMixer: Display: 7: SideRight
+[2023.02.26-20.30.55:289][238]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.26-20.30.55:290][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-20.30.55:290][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-20.30.55:290][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-20.30.55:290][238]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.26-20.30.55:290][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.26-20.30.55:290][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.26-20.30.55:291][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.26-20.30.55:291][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.26-20.30.55:291][238]LogInit: FAudioDevice initialized.
+[2023.02.26-20.30.55:291][238]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1_Beach'.
+[2023.02.26-20.30.55:299][238]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.26-20.30.55:301][238]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.26-20.30.55
+[2023.02.26-20.30.55:301][238]LogWorld: Bringing up level for play took: 0.001818
+[2023.02.26-20.30.55:301][238]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.02.26-20.30.55:303][238]PIE: Server logged in
+[2023.02.26-20.30.55:303][238]PIE: Play in editor total start time 0.058 seconds.
+[2023.02.26-20.31.28:845][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-20.31.28:845][252]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.26-20.31.28:845][252]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-20.31.28:846][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-20.31.28:858][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-20.31.28:868][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-20.31.28:876][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.26-20.31.28:876][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.26-20.31.28:877][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.26-20.31.28:878][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-20.31.28:880][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.26-20.31.28:954][254]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.26-20.31.30:327][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dock)
+[2023.02.26-20.31.39:417][  2]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.26-20.31.39:420][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.26-20.31.39:420][  2]PIE: New page: PIE session: Level1_Beach (26 Feb 2023, 20:31:39)
+[2023.02.26-20.31.39:421][  2]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.26-20.31.39:433][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012716s)
+[2023.02.26-20.31.39:434][  2]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.26-20.31.39:434][  2]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.02.26-20.31.39:434][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.013669s)
+[2023.02.26-20.31.39:441][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.26-20.31.39:443][  2]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.26-20.31.39:443][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.26-20.31.39:443][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.26-20.31.39:444][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.26-20.31.39:444][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.26-20.31.39:444][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.26-20.31.39:444][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 1: FrontRight
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 4: BackLeft
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 5: BackRight
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 6: SideLeft
+[2023.02.26-20.31.39:445][  2]LogAudioMixer: Display: 7: SideRight
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.26-20.31.39:451][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.26-20.31.39:452][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.26-20.31.39:452][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.26-20.31.39:452][  2]LogInit: FAudioDevice initialized.
+[2023.02.26-20.31.39:452][  2]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1_Beach'.
+[2023.02.26-20.31.39:458][  2]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.26-20.31.39:460][  2]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.26-20.31.39
+[2023.02.26-20.31.39:460][  2]LogWorld: Bringing up level for play took: 0.001664
+[2023.02.26-20.31.39:460][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.02.26-20.31.39:462][  2]PIE: Server logged in
+[2023.02.26-20.31.39:462][  2]PIE: Play in editor total start time 0.042 seconds.
+[2023.02.26-20.32.26:085][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-20.32.26:085][585]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.26-20.32.26:085][585]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.26-20.32.26:085][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-20.32.26:093][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.26-20.32.26:103][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.26-20.32.26:111][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.26-20.32.26:111][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.26-20.32.26:111][585]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.26-20.32.26:116][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.26-20.32.26:195][587]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.26-20.32.57:008][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.02.26-20.32.57:068][122]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach_Auto5282B8B744B31EC1C43627CB3C3760A0F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level1_Beach_Auto5.umap'
+[2023.02.26-20.32.57:069][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1_Beach' took 0.071
+[2023.02.26-20.32.57:069][122]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.02.26-20.32.57:069][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Dock/Dock_lambert1_Normal] ([1] browsable assets)...
+[2023.02.26-20.32.57:073][122]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Dock/Dock_lambert1_Normal.Dock_lambert1_Normal]
+[2023.02.26-20.32.57:073][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Dock/Dock_lambert1_Normal]
+[2023.02.26-20.32.57:077][122]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Dock_lambert1_Normal_Auto50246640540F6F25C39B1A7B86004559E.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Dock/Dock_lambert1_Normal_Auto5.uasset'
+[2023.02.26-20.32.57:078][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Dock/Dock_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.02.26-20.32.57:081][122]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Dock/Dock_lambert1_OcclusionRoughnessMetallic.Dock_lambert1_OcclusionRoughnessMetallic]
+[2023.02.26-20.32.57:081][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Dock/Dock_lambert1_OcclusionRoughnessMetallic]
+[2023.02.26-20.32.57:083][122]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Dock_lambert1_OcclusionRoughnessE991747548471EB0CE133785AD4B9966.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Dock/Dock_lambert1_OcclusionRoughnessMetallic_Auto5.uasset'
+[2023.02.26-20.32.57:083][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Dock/Dock_lambert1_BaseColor] ([1] browsable assets)...
+[2023.02.26-20.32.57:088][122]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Dock/Dock_lambert1_BaseColor.Dock_lambert1_BaseColor]
+[2023.02.26-20.32.57:088][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Dock/Dock_lambert1_BaseColor]
+[2023.02.26-20.32.57:091][122]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Dock_lambert1_BaseColor_Auto5F6CF28B34030C0EC2B26B681E459B1D0.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Dock/Dock_lambert1_BaseColor_Auto5.uasset'
+[2023.02.26-20.32.57:092][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Dock/Dock] ([1] browsable assets)...
+[2023.02.26-20.32.57:146][122]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Dock/Dock.Dock]
+[2023.02.26-20.32.57:146][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Dock/Dock]
+[2023.02.26-20.32.57:146][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Dock/Dock" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Dock/Dock_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2023.02.26-20.32.57:151][122]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Dock_Auto5F1DC8DEE460EEC24331DAF92122E4BAA.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Dock/Dock_Auto5.uasset'
+[2023.02.26-20.32.57:151][122]LogFileHelpers: Auto-saving content packages took 0.083
+[2023.02.26-20.37.29:375][778]LogEditorFactories: Performing atomic reimport of [C:/Users/tingl/Desktop/Maya Projs/3D-assignment/scenes/Dock/Dock.fbx]
+[2023.02.26-20.37.29:402][778]LogFbx: Loading FBX Scene from C:/Users/tingl/Desktop/Maya Projs/3D-assignment/scenes/Dock/Dock.fbx
+[2023.02.26-20.37.29:407][778]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.26-20.37.29:430][778]LogFbx: Display: Triangulating static mesh pCylinder12
+[2023.02.26-20.37.29:463][778]LogStaticMesh: Building static mesh Dock...
+[2023.02.26-20.37.29:476][778]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Dock/Dock.Dock
+[2023.02.26-20.37.29:484][778]LogEditorFactories: -- imported successfully
+[2023.02.26-20.37.29:486][778]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.02.26-20.38.10:584][195]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.02.26-20.38.12:613][345]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume2)
+[2023.02.26-20.38.23:851][208]Cmd: TRANSACTION UNDO
+[2023.02.26-20.38.23:851][208]LogEditorTransaction: Undo Rotate Actors
+[2023.02.26-20.38.23:870][208]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 24BC57D12E9A5398CB9D52064065AE522B7F2138), compiling. 
+[2023.02.26-20.38.23:881][208]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.26-20.38.23:881][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.38.23:881][208]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.38.23:983][210]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.26-20.38.23:983][210]LogShaderCompilers: Display: Total job queries 10375, among them cache hits 5248 (50.58%)
+[2023.02.26-20.38.23:983][210]LogShaderCompilers: Display: Tracking 4482 distinct input hashes that result in 2587 distinct outputs (57.72%)
+[2023.02.26-20.38.23:983][210]LogShaderCompilers: Display: RAM used: 24.19 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.48%
+[2023.02.26-20.38.23:983][210]LogShaderCompilers: Display: ================================================
+[2023.02.26-20.38.24:011][211]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.02.26-20.38.24:011][211]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2023.02.26-20.38.24:011][211]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.02.26-20.38.24:011][211]MaterialEditorStats: Texture samplers: 5/16
+[2023.02.26-20.38.24:011][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.26-20.38.24:011][211]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.02.26-20.38.24:911][265]Cmd: MODE ROTGRID=1
+[2023.02.26-20.38.59:905][924]Cmd: MODE GRID=0
+[2023.02.26-20.39.02:235][103]Cmd: MODE ROTGRID=0
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Content: 'E:/UE_4.27/Engine/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Water/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Water/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.51:809][584]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.26-20.39.52:050][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Dock/lambert1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Dock/lambert1.uasset" SILENT=true
+[2023.02.26-20.39.52:051][584]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/lambert1E2DB1A2745077BE3A4CE629F3F4C77C0.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Dock/lambert1.uasset'
+[2023.02.26-20.40.15:041][584]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.26-20.40.15:190][584]LogSourceControl: commit successful: [main 98a611f] added in final static asset LV1
+[2023.02.26-20.40.15:222][584]SourceControl: [main 98a611f] added in final static asset LV1
+[2023.02.26-20.40.15:222][584]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.02.26-20.40.15:222][584]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Props/Dock/lambert1.uasset
+[2023.02.26-20.40.15:230][584]SourceControl: Commited [main 98a611f] added in final static asset LV1.
+[2023.02.26-20.40.15:266][585]AssetCheck: New page: Asset Save: lambert1
+[2023.02.26-20.40.15:266][585]LogContentValidation: Display: Validating Material /Game/Props/Dock/lambert1.lambert1
