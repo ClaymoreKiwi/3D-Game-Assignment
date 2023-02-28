@@ -10784,3 +10784,592 @@ Script call stack:
 [2023.02.28-16.10.07:888][136]LogContentValidation: Display: Validating Material /Game/Enemies/Mesh/Textures/Mole_Skin.Mole_Skin
 [2023.02.28-16.10.07:888][136]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Mesh/Blueprints/Mole_Ememy.Mole_Ememy
 [2023.02.28-16.10.07:888][136]LogContentValidation: Display: Validating Blueprint /Game/Props/Weapons/Gun_Test_Bp.Gun_Test_Bp
+[2023.02.28-16.12.25:049][129]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.12.25:049][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.16.47:376][522]BlueprintLog: New page: Compile Player_HUD_BP
+[2023.02.28-16.16.47:439][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.02.28-16.16.48:272][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player_HUD_BP" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player_HUD_BP.uasset" SILENT=true
+[2023.02.28-16.16.48:283][607]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player_HUD_BP0AE20FF94B6B56568F30DA9AA78B8019.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player_HUD_BP.uasset'
+[2023.02.28-16.16.48:294][607]AssetCheck: New page: Asset Save: Player_HUD_BP
+[2023.02.28-16.16.48:294][607]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/Mesh/Player_HUD_BP.Player_HUD_BP
+[2023.02.28-16.16.51:461][948]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.16.51:465][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.16.51:465][948]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:16:51)
+[2023.02.28-16.16.51:509][948]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.16.51:523][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013889s)
+[2023.02.28-16.16.51:523][948]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.16.51:523][948]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2023.02.28-16.16.51:523][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.014880s)
+[2023.02.28-16.16.51:549][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.02.28-16.16.51:550][948]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.16.51:550][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.16.51:550][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.16.51:550][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.16.51:550][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.16.51:550][948]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.16.51:552][948]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.16.51:558][948]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.16.51:558][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.16.51:558][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.16.51:558][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.16.51:559][948]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.16.51:559][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.16.51:559][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.16.51:560][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.16.51:560][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.16.51:560][948]LogInit: FAudioDevice initialized.
+[2023.02.28-16.16.51:560][948]LogAudio: Display: Audio Device (ID: 54) registered with world 'Level1_Beach'.
+[2023.02.28-16.16.51:566][948]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.16.51:568][948]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.16.51
+[2023.02.28-16.16.51:568][948]LogWorld: Bringing up level for play took: 0.001840
+[2023.02.28-16.16.51:568][948]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2023.02.28-16.16.51:570][948]PIE: Server logged in
+[2023.02.28-16.16.51:571][948]PIE: Play in editor total start time 0.107 seconds.
+[2023.02.28-16.17.14:309][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.17.14:309][668]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.17.14:309][668]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.17.14:309][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.17.14:321][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.17.14:326][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.17.14:353][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-16.17.14:353][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.17.14:354][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.17.14:355][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.17.14:359][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.02.28-16.17.14:386][669]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2023.02.28-16.18.00:874][181]LogEditorTransaction: Undo Set Vector Property
+[2023.02.28-16.19.44:756][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.02.28-16.19.44:819][555]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach_Auto792A8F8FD4C5B7241E76CD3A62897704E.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level1_Beach_Auto7.umap'
+[2023.02.28-16.19.44:820][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1_Beach' took 0.091
+[2023.02.28-16.19.44:820][555]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2023.02.28-16.19.44:820][555]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Mesh/Player_HUD_BP] ([4] browsable assets)...
+[2023.02.28-16.19.44:820][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Mesh/Player_HUD_BP]
+[2023.02.28-16.19.44:829][555]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player_HUD_BP_Auto7E23C16364D0A2187D498F2BDB28F380F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Player/Mesh/Player_HUD_BP_Auto7.uasset'
+[2023.02.28-16.19.44:830][555]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.02.28-16.19.45:040][556]BlueprintLog: New page: Compile Player_HUD_BP
+[2023.02.28-16.19.45:083][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.02.28-16.19.49:872][111]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.19.49:875][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.19.49:875][111]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:19:49)
+[2023.02.28-16.19.49:918][111]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.19.49:933][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014568s)
+[2023.02.28-16.19.49:934][111]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.19.49:934][111]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2023.02.28-16.19.49:934][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.015668s)
+[2023.02.28-16.19.49:959][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.02.28-16.19.49:961][111]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.19.49:961][111]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.19.49:961][111]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.19.49:961][111]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.19.49:961][111]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.19.49:961][111]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.19.49:963][111]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.19.49:969][111]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.19.49:970][111]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.19.49:970][111]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.19.49:970][111]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.19.49:970][111]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.19.49:970][111]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.19.49:970][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.19.49:971][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.19.49:971][111]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.19.49:971][111]LogInit: FAudioDevice initialized.
+[2023.02.28-16.19.49:971][111]LogAudio: Display: Audio Device (ID: 55) registered with world 'Level1_Beach'.
+[2023.02.28-16.19.49:982][111]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.19.49:984][111]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.19.49
+[2023.02.28-16.19.49:984][111]LogWorld: Bringing up level for play took: 0.001831
+[2023.02.28-16.19.49:985][111]LogOnline: OSS: Creating online subsystem instance for: :Context_94
+[2023.02.28-16.19.49:987][111]PIE: Server logged in
+[2023.02.28-16.19.49:988][111]PIE: Play in editor total start time 0.112 seconds.
+[2023.02.28-16.20.09:238][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.20.09:238][410]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.20.09:239][410]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.20.09:239][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.20.09:244][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.20.09:250][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.20.09:275][410]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-16.20.09:275][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.20.09:276][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.20.09:277][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.20.09:281][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.02.28-16.20.09:345][412]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2023.02.28-16.20.38:858][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player_HUD_BP" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player_HUD_BP.uasset" SILENT=true
+[2023.02.28-16.20.38:868][894]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player_HUD_BP931CB62B4490256F415659A5D07BFBA7.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player_HUD_BP.uasset'
+[2023.02.28-16.20.38:879][894]AssetCheck: New page: Asset Save: Player_HUD_BP
+[2023.02.28-16.20.38:879][894]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/Mesh/Player_HUD_BP.Player_HUD_BP
+[2023.02.28-16.20.40:976][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_Beach" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-16.20.41:005][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.28-16.20.41:067][113]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach772BCE6140734169BA0110B44ADFF625.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap'
+[2023.02.28-16.20.41:265][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_Beach_BuiltData" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach_BuiltData.uasset" SILENT=true
+[2023.02.28-16.20.43:604][113]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach_BuiltData8E0B15BF4BE016A2F3E7EEA4321B006D.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach_BuiltData.uasset'
+[2023.02.28-16.20.43:680][113]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-16.20.43:681][113]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level1_Beach_BuiltData.Level1_Beach_BuiltData
+[2023.02.28-16.20.43:681][113]LogContentValidation: Display: Validating World /Game/Levels/Level1_Beach.Level1_Beach
+[2023.02.28-16.22.45:229][851]LogEditorViewport: Clicking on Actor (LMB): WaterBodyCustom (WaterBodyCustom)
+[2023.02.28-16.22.46:094][945]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.22.46:097][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.22.46:097][945]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:22:46)
+[2023.02.28-16.22.46:128][945]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.22.46:141][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012767s)
+[2023.02.28-16.22.46:141][945]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.22.46:141][945]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2023.02.28-16.22.46:141][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.013661s)
+[2023.02.28-16.22.46:187][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.02.28-16.22.46:197][945]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.22.46:197][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.22.46:197][945]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.22.46:197][945]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.22.46:197][945]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.22.46:197][945]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.22.46:198][945]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.22.46:205][945]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.22.46:205][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.22.46:205][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.22.46:205][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.22.46:207][945]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.22.46:207][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.22.46:207][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.22.46:207][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.22.46:207][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.22.46:207][945]LogInit: FAudioDevice initialized.
+[2023.02.28-16.22.46:207][945]LogAudio: Display: Audio Device (ID: 56) registered with world 'Level1_Beach'.
+[2023.02.28-16.22.46:220][945]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.22.46:222][945]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.22.46
+[2023.02.28-16.22.46:222][945]LogWorld: Bringing up level for play took: 0.001845
+[2023.02.28-16.22.46:222][945]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2023.02.28-16.22.46:224][945]PIE: Server logged in
+[2023.02.28-16.22.46:224][945]PIE: Play in editor total start time 0.127 seconds.
+[2023.02.28-16.23.31:110][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.23.31:110][323]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.23.31:110][323]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.23.31:111][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.23.31:120][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.23.31:151][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.23.31:173][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.23.31:173][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.23.31:174][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.23.31:178][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.28-16.23.31:224][324]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.02.28-16.26.57:318][421]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.57:599][428]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.57:924][443]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.58:311][481]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.58:592][505]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.58:811][522]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.58:994][534]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.26.59:199][551]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-16.26.59:398][562]LogEditorTransaction: Undo Delete current selection
+[2023.02.28-16.26.59:620][576]LogEditorTransaction: Undo Move Nodes
+[2023.02.28-16.26.59:808][590]LogEditorTransaction: Undo Move Node
+[2023.02.28-16.27.00:009][606]LogEditorTransaction: Undo Move Nodes
+[2023.02.28-16.27.00:243][626]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-16.27.00:708][674]LogEditorTransaction: Undo Create Pin Link
+[2023.02.28-16.27.53:954][933]BlueprintLog: New page: Compile Player1
+[2023.02.28-16.27.54:011][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.02.28-16.27.54:756][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset" SILENT=true
+[2023.02.28-16.27.54:781][995]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player14EFECB0E467BA2222BDC78B56DC66FCD.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset'
+[2023.02.28-16.27.54:792][995]AssetCheck: New page: Asset Save: Player1
+[2023.02.28-16.27.54:792][995]LogContentValidation: Display: Validating Blueprint /Game/Player/Mesh/Player1.Player1
+[2023.02.28-16.27.56:987][210]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.27.56:991][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.27.56:991][210]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:27:56)
+[2023.02.28-16.27.57:018][210]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.27.57:032][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014028s)
+[2023.02.28-16.27.57:032][210]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.27.57:033][210]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2023.02.28-16.27.57:033][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.015035s)
+[2023.02.28-16.27.57:061][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.02.28-16.27.57:063][210]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.27.57:063][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.27.57:063][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.27.57:063][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.27.57:063][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.27.57:063][210]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.27.57:065][210]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.27.57:070][210]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.27.57:070][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.27.57:070][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.27.57:071][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.27.57:071][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.27.57:071][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.27.57:071][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.27.57:072][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.27.57:072][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.27.57:072][210]LogInit: FAudioDevice initialized.
+[2023.02.28-16.27.57:072][210]LogAudio: Display: Audio Device (ID: 57) registered with world 'Level1_Beach'.
+[2023.02.28-16.27.57:080][210]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.27.57:082][210]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.27.57
+[2023.02.28-16.27.57:083][210]LogWorld: Bringing up level for play took: 0.001783
+[2023.02.28-16.27.57:083][210]LogOnline: OSS: Creating online subsystem instance for: :Context_96
+[2023.02.28-16.27.57:084][210]PIE: Server logged in
+[2023.02.28-16.27.57:085][210]PIE: Play in editor total start time 0.094 seconds.
+[2023.02.28-16.28.15:339][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.28.15:339][389]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.28.15:339][389]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.28.15:340][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.28.15:348][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.28.15:372][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.28.15:393][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-16.28.15:393][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.28.15:394][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.28.15:395][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.28.15:400][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.28-16.28.15:442][390]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2023.02.28-16.28.42:306][545]BlueprintLog: New page: Compile Player1
+[2023.02.28-16.28.42:354][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.02.28-16.28.43:058][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset" SILENT=true
+[2023.02.28-16.28.43:083][602]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player1B9B3728049E1F1322E51C3BF240518B8.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset'
+[2023.02.28-16.28.43:093][602]AssetCheck: New page: Asset Save: Player1
+[2023.02.28-16.28.43:093][602]LogContentValidation: Display: Validating Blueprint /Game/Player/Mesh/Player1.Player1
+[2023.02.28-16.28.45:497][850]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.28.45:501][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.28.45:501][850]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:28:45)
+[2023.02.28-16.28.45:527][850]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.28.45:540][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012682s)
+[2023.02.28-16.28.45:541][850]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.28.45:541][850]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2023.02.28-16.28.45:541][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.013697s)
+[2023.02.28-16.28.45:567][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.02.28-16.28.45:569][850]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.28.45:569][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.28.45:569][850]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.28.45:569][850]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.28.45:569][850]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.28.45:569][850]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.28.45:571][850]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.28.45:576][850]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.28.45:578][850]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.28.45:578][850]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.28.45:578][850]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.28.45:578][850]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.28.45:578][850]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.28.45:578][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.28.45:579][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.28.45:579][850]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.28.45:579][850]LogInit: FAudioDevice initialized.
+[2023.02.28-16.28.45:579][850]LogAudio: Display: Audio Device (ID: 58) registered with world 'Level1_Beach'.
+[2023.02.28-16.28.45:584][850]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.28.45:586][850]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.28.45
+[2023.02.28-16.28.45:586][850]LogWorld: Bringing up level for play took: 0.001734
+[2023.02.28-16.28.45:586][850]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2023.02.28-16.28.45:588][850]PIE: Server logged in
+[2023.02.28-16.28.45:588][850]PIE: Play in editor total start time 0.089 seconds.
+[2023.02.28-16.29.00:619][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.29.00:619][646]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.29.00:619][646]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.29.00:620][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.29.00:627][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.29.00:651][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.29.00:674][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-16.29.00:675][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.29.00:675][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.29.00:678][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.29.00:681][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.28-16.29.00:724][647]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2023.02.28-16.30.14:397][365]BlueprintLog: New page: Compile Player1
+[2023.02.28-16.30.14:447][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.02.28-16.30.15:226][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset" SILENT=true
+[2023.02.28-16.30.15:251][433]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player14A794D7F4C6D52A85BE6989F3DD8EBE8.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset'
+[2023.02.28-16.30.15:264][433]AssetCheck: New page: Asset Save: Player1
+[2023.02.28-16.30.15:264][433]LogContentValidation: Display: Validating Blueprint /Game/Player/Mesh/Player1.Player1
+[2023.02.28-16.30.17:082][610]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.30.17:085][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.30.17:087][610]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:30:17)
+[2023.02.28-16.30.17:118][610]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.30.17:130][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012455s)
+[2023.02.28-16.30.17:131][610]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.30.17:131][610]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2023.02.28-16.30.17:131][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.013360s)
+[2023.02.28-16.30.17:156][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.02.28-16.30.17:157][610]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.30.17:157][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.30.17:157][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.30.17:157][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.30.17:157][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.30.17:157][610]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.30.17:159][610]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.30.17:164][610]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.30.17:165][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.30.17:165][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.30.17:165][610]LogInit: FAudioDevice initialized.
+[2023.02.28-16.30.17:165][610]LogAudio: Display: Audio Device (ID: 59) registered with world 'Level1_Beach'.
+[2023.02.28-16.30.17:175][610]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.30.17:177][610]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.30.17
+[2023.02.28-16.30.17:177][610]LogWorld: Bringing up level for play took: 0.001784
+[2023.02.28-16.30.17:177][610]LogOnline: OSS: Creating online subsystem instance for: :Context_98
+[2023.02.28-16.30.17:179][610]PIE: Server logged in
+[2023.02.28-16.30.17:180][610]PIE: Play in editor total start time 0.094 seconds.
+[2023.02.28-16.30.28:239][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.30.28:239][930]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.30.28:239][930]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.30.28:239][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.30.28:249][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.30.28:275][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.30.28:297][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-16.30.28:298][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.30.28:299][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.30.28:301][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.30.28:305][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.02.28-16.30.28:348][931]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2023.02.28-16.30.35:263][183]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2023.02.28-16.30.36:562][330]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.28-16.30.36:567][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.28-16.30.36:567][330]PIE: New page: PIE session: Level1_Beach (28 Feb 2023, 16:30:36)
+[2023.02.28-16.30.36:588][330]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.30.36:601][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013412s)
+[2023.02.28-16.30.36:601][330]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.02.28-16.30.36:602][330]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2023.02.28-16.30.36:602][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.014317s)
+[2023.02.28-16.30.36:625][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.02.28-16.30.36:629][330]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-16.30.36:629][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-16.30.36:629][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-16.30.36:630][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-16.30.36:630][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-16.30.36:630][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-16.30.36:630][330]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-16.30.36:631][330]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-16.30.36:631][330]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-16.30.36:631][330]LogAudioMixer: Display: 2: FrontCenter
+[2023.02.28-16.30.36:632][330]LogAudioMixer: Display: 3: LowFrequency
+[2023.02.28-16.30.36:632][330]LogAudioMixer: Display: 4: BackLeft
+[2023.02.28-16.30.36:632][330]LogAudioMixer: Display: 5: BackRight
+[2023.02.28-16.30.36:632][330]LogAudioMixer: Display: 6: SideLeft
+[2023.02.28-16.30.36:632][330]LogAudioMixer: Display: 7: SideRight
+[2023.02.28-16.30.36:636][330]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.02.28-16.30.36:636][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-16.30.36:636][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-16.30.36:636][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-16.30.36:637][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-16.30.36:637][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-16.30.36:637][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.02.28-16.30.36:637][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-16.30.36:637][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-16.30.36:637][330]LogInit: FAudioDevice initialized.
+[2023.02.28-16.30.36:637][330]LogAudio: Display: Audio Device (ID: 60) registered with world 'Level1_Beach'.
+[2023.02.28-16.30.36:649][330]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.02.28-16.30.36:651][330]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.02.28-16.30.36
+[2023.02.28-16.30.36:651][330]LogWorld: Bringing up level for play took: 0.001810
+[2023.02.28-16.30.36:651][330]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2023.02.28-16.30.36:653][330]PIE: Server logged in
+[2023.02.28-16.30.36:653][330]PIE: Play in editor total start time 0.087 seconds.
+[2023.02.28-16.30.43:978][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.30.43:978][202]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.02.28-16.30.43:978][202]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-16.30.43:979][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.30.43:986][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.28-16.30.43:997][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-16.30.44:021][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-16.30.44:021][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.30.44:022][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-16.30.44:026][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.02.28-16.30.44:061][203]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2023.02.28-16.32.18:073][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.02.28-16.32.18:134][779]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach_Auto8F3EE12C24D1C6979A1A9F08138A5CDF6.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level1_Beach_Auto8.umap'
+[2023.02.28-16.32.18:135][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1_Beach' took 0.098
+[2023.02.28-16.32.18:135][779]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2023.02.28-17.20.16:168][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.02.28-17.20.16:309][585]SourceControl: fatal: E:/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character: 'E:/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.16:330][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_Beach" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-17.20.16:352][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.28-17.20.16:414][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_Beach13FEA6B04A51F7993850A8BDF205E29A.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap'
+[2023.02.28-17.20.16:422][585]LogFileHelpers: Saving map 'Level1_Beach' took 0.092
+[2023.02.28-17.20.16:424][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/TutorialTPP_Skeleton806FAF9E4A98A97B9C6E13AAA3763B48.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset'
+[2023.02.28-17.20.16:425][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP" FILE="../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" SILENT=true
+[2023.02.28-17.20.16:431][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/TutorialTPP7F0B423D46985D8691E0A7A247F24A26.tmp' to '../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset'
+[2023.02.28-17.20.16:446][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_lambert1_BaseColor0B4659F74EE662C95846FCA28D4055A6.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_BaseColor.uasset'
+[2023.02.28-17.20.16:577][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_lambert1_NormalCF547D484E030658625B87B25135A9FB.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_Normal.uasset'
+[2023.02.28-17.20.16:699][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_lambert1_OcclusionRoughnes8A17DFAC44DDD6EB0062BBAE0CFD35FC.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.02.28-17.20.16:827][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_Mole_Skin_BaseColor3DD22E584B98AF7E332746BB8799D8F9.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_BaseColor.uasset'
+[2023.02.28-17.20.17:071][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_Mole_Skin_NormalA3285450488CE9ED6272039E8A290CB4.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_Normal.uasset'
+[2023.02.28-17.20.17:273][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_Mole_Skin_OcclusionRoughneC8C7F57A4385684FF4C48899CE312516.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_OcclusionRoughnessMetallic.uasset'
+[2023.02.28-17.20.17:393][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Weapons/test_gun" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/test_gun.uasset" SILENT=true
+[2023.02.28-17.20.17:395][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/test_gun525C758E4F07E53640047D9AE3883526.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/test_gun.uasset'
+[2023.02.28-17.20.17:511][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Weapons/lambert1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/lambert1.uasset" SILENT=true
+[2023.02.28-17.20.17:516][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/lambert1A22AB0394981E05F745B63872E2B299C.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/lambert1.uasset'
+[2023.02.28-17.20.17:619][585]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Weapon_Master_Class_bp814D1E6D4383006D29F2FB88A549086E.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/Weapon_Master_Class_bp.uasset'
+[2023.02.28-17.20.17:732][585]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Skeleton /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.TutorialTPP_Skeleton
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating SkeletalMesh /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.TutorialTPP
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_Mole_Skin_OcclusionRoughnessMetallic.mole1_Mole_Skin_OcclusionRoughnessMetallic
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_Mole_Skin_Normal.mole1_Mole_Skin_Normal
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_Mole_Skin_BaseColor.mole1_Mole_Skin_BaseColor
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_lambert1_OcclusionRoughnessMetallic.mole1_lambert1_OcclusionRoughnessMetallic
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_lambert1_Normal.mole1_lambert1_Normal
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating World /Game/Levels/Level1_Beach.Level1_Beach
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_lambert1_BaseColor.mole1_lambert1_BaseColor
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Blueprint /Game/Props/Weapons/Weapon_Master_Class_bp.Weapon_Master_Class_bp
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating StaticMesh /Game/Props/Weapons/test_gun.test_gun
+[2023.02.28-17.20.17:732][585]LogContentValidation: Display: Validating Material /Game/Props/Weapons/lambert1.lambert1
+[2023.02.28-17.20.17:891][602]SourceControl: fatal: E:/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character: 'E:/UE_4.27/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Content: 'E:/UE_4.27/Engine/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Water/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Water/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:391][ 69]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.02.28-17.20.22:648][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_lambert1_BaseColor04D68B74486967F7F68DEA9E775D606B.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_BaseColor.uasset'
+[2023.02.28-17.20.22:653][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_lambert1_Normal2D2D3E924BC1DF9CAA0ACE866FE397BD.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_Normal.uasset'
+[2023.02.28-17.20.22:655][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_lambert1_OcclusionRoughnesDF3C0EE641BBB346BE4B4D9668C6B98B.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_OcclusionRoughnessMetallic.uasset'
+[2023.02.28-17.20.22:659][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_Mole_Skin_BaseColorED1D3A0444D69826737B4BB286BAAE29.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_BaseColor.uasset'
+[2023.02.28-17.20.22:666][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_Mole_Skin_Normal47BC11D7403DAE777ABAC28D6277BF65.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_Normal.uasset'
+[2023.02.28-17.20.22:670][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/mole1_Mole_Skin_OcclusionRoughneE88F14EE41993E40051CC58C76D3F379.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_OcclusionRoughnessMetallic.uasset'
+[2023.02.28-17.20.22:671][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_Beach" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.28-17.20.22:697][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.02.28-17.20.22:757][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_BeachEB74568C4A169F4DD858E189ABB19A79.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap'
+[2023.02.28-17.20.22:764][ 69]LogFileHelpers: Saving map 'Level1_Beach' took 0.092
+[2023.02.28-17.20.22:764][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset" SILENT=true
+[2023.02.28-17.20.22:789][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player15361E4914580FB321B5BC78F2E4E67DB.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player1.uasset'
+[2023.02.28-17.20.22:790][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Player_HUD_BP" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player_HUD_BP.uasset" SILENT=true
+[2023.02.28-17.20.22:800][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player_HUD_BP970FBE2249B113DF2C2B09951B243CFC.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Player_HUD_BP.uasset'
+[2023.02.28-17.20.22:801][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Weapons/lambert1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/lambert1.uasset" SILENT=true
+[2023.02.28-17.20.22:802][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/lambert1B63095294C2BEEF3AB02F99EDAD1FDA5.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/lambert1.uasset'
+[2023.02.28-17.20.22:802][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Weapons/test_gun" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/test_gun.uasset" SILENT=true
+[2023.02.28-17.20.22:803][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/test_gun78DCF2B94C492FFECA94699762D20F92.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/test_gun.uasset'
+[2023.02.28-17.20.22:807][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Weapon_Master_Class_bp266AEB00468F2B6C84A53191B4492DC3.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Props/Weapons/Weapon_Master_Class_bp.uasset'
+[2023.02.28-17.20.38:049][ 69]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.28-17.20.38:586][ 69]LogSourceControl: commit successful: [main 3ab3039] close update checkin
+[2023.02.28-17.20.38:682][ 69]SourceControl: [main 3ab3039] close update checkin
+[2023.02.28-17.20.38:682][ 69]SourceControl:  12 files changed, 0 insertions(+), 0 deletions(-)
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_BaseColor.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_Normal.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_Mole_Skin_OcclusionRoughnessMetallic.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_BaseColor.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_Normal.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Enemies/Mesh/Textures/mole1_lambert1_OcclusionRoughnessMetallic.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Props/Weapons/Weapon_Master_Class_bp.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Props/Weapons/lambert1.uasset
+[2023.02.28-17.20.38:682][ 69]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Props/Weapons/test_gun.uasset
+[2023.02.28-17.20.38:687][ 69]SourceControl: Commited [main 3ab3039] close update checkin.
+[2023.02.28-17.20.38:735][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Blueprint /Game/Player/Mesh/Player1.Player1
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_Mole_Skin_OcclusionRoughnessMetallic.mole1_Mole_Skin_OcclusionRoughnessMetallic
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_Mole_Skin_Normal.mole1_Mole_Skin_Normal
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_Mole_Skin_BaseColor.mole1_Mole_Skin_BaseColor
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_lambert1_OcclusionRoughnessMetallic.mole1_lambert1_OcclusionRoughnessMetallic
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_lambert1_Normal.mole1_lambert1_Normal
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating World /Game/Levels/Level1_Beach.Level1_Beach
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mesh/Textures/mole1_lambert1_BaseColor.mole1_lambert1_BaseColor
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating WidgetBlueprint /Game/Player/Mesh/Player_HUD_BP.Player_HUD_BP
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Blueprint /Game/Props/Weapons/Weapon_Master_Class_bp.Weapon_Master_Class_bp
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating StaticMesh /Game/Props/Weapons/test_gun.test_gun
+[2023.02.28-17.20.38:735][ 70]LogContentValidation: Display: Validating Material /Game/Props/Weapons/lambert1.lambert1
