@@ -8466,3 +8466,611 @@ A= Color/Pattern Mask> Found NULL, requires Texture2D
 [2023.03.17-18.19.49:222][ 81]SourceControl:  delete mode 100644 Assignment_3D_Game/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_Rem_M_MSK.uasset
 [2023.03.17-18.19.49:222][ 81]SourceControl:  delete mode 100644 Assignment_3D_Game/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_Rem_NRM.uasset
 [2023.03.17-18.19.49:232][ 81]SourceControl: Commited [main 7f15cb6] Folder Update.
+[2023.03.17-18.20.46:982][211]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tingl\Downloads\Button_Gradient_clicked.png)
+[2023.03.17-18.20.46:985][211]LogTexture: Display: Building textures: Button_Gradient_clicked (OODLE_AutoDXT, 300X100)
+[2023.03.17-18.20.47:032][211]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\tingl\Downloads\Button_On_Hover.png)
+[2023.03.17-18.20.47:033][211]LogTexture: Display: Building textures: Button_On_Hover (OODLE_AutoDXT, 300X100)
+[2023.03.17-18.20.53:240][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.03.17-18.20.55:015][399]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.17-18.20.55:116][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.03.17-18.21.00:831][752]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tingl\Downloads\Hover_sound.wav)
+[2023.03.17-18.21.00:901][752]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tingl\Downloads\Click_sound.wav)
+[2023.03.17-18.21.38:303][610]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/UI: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.21.48:534][766]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Main_Menu_Assets/Sounds/Hover_sound.Hover_sound
+[2023.03.17-18.22.25:258][ 48]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/UI: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.22.32:889][941]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/UI: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.22.37:722][521]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.22.37:722][521]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/VR_click1.uasset: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/VR_click1.uasset' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.25.51:560][123]BlueprintLog: New page: Compile Main_Manu_Widget
+[2023.03.17-18.25.51:589][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.03.17-18.25.52:214][183]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Main_Manu_WidgetD5EE30DB4E168A90EF497D8AF7798379.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Blueprints/Main_Manu_Widget.uasset'
+[2023.03.17-18.25.52:225][183]AssetCheck: New page: Asset Save: Main_Manu_Widget
+[2023.03.17-18.25.52:225][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu_Assets/Blueprints/Main_Manu_Widget.Main_Manu_Widget
+[2023.03.17-18.25.53:217][289]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.17-18.25.53:221][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.17-18.25.53:221][289]PIE: New page: PIE session: Main_Menu (17 Mar 2023, 18:25:53)
+[2023.03.17-18.25.53:221][289]LogPlayLevel: Creating play world package: /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.25.53:222][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000677s)
+[2023.03.17-18.25.53:222][289]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.17-18.25.53:222][289]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2023.03.17-18.25.53:222][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Menu_Assets/Main_Menu.Main_Menu to /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu (0.001542s)
+[2023.03.17-18.25.53:244][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.17-18.25.53:244][289]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.17-18.25.53:244][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.17-18.25.53:244][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.17-18.25.53:244][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.17-18.25.53:245][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.17-18.25.53:245][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.17-18.25.53:245][289]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 1: FrontRight
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 4: BackLeft
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 5: BackRight
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 6: SideLeft
+[2023.03.17-18.25.53:246][289]LogAudioMixer: Display: 7: SideRight
+[2023.03.17-18.25.53:252][289]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.17-18.25.53:252][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.17-18.25.53:252][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.17-18.25.53:252][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.17-18.25.53:253][289]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.17-18.25.53:253][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.17-18.25.53:253][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.17-18.25.53:254][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.17-18.25.53:254][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.17-18.25.53:254][289]LogInit: FAudioDevice initialized.
+[2023.03.17-18.25.53:254][289]LogAudio: Display: Audio Device (ID: 33) registered with world 'Main_Menu'.
+[2023.03.17-18.25.53:314][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-18.25.53:314][289]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.03.17-18.25.53:315][289]LogWorld: Bringing World /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2023.03.17-18.25.53
+[2023.03.17-18.25.53:315][289]LogWorld: Bringing up level for play took: 0.000353
+[2023.03.17-18.25.53:315][289]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2023.03.17-18.25.53:317][289]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.17-18.25.53:319][289]PIE: Server logged in
+[2023.03.17-18.25.53:319][289]PIE: Play in editor total start time 0.098 seconds.
+[2023.03.17-18.25.53:889][343]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Hover_sound...
+[2023.03.17-18.25.53:889][343]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Main_Menu_Assets/Sounds/Hover_sound.Hover_sound will be modified from 40 to 40.
+[2023.03.17-18.25.53:907][343]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 32116 while cooking SoundWave /Game/Main_Menu_Assets/Sounds/Hover_sound.Hover_sound.
+[2023.03.17-18.25.57:655][793]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Click_sound...
+[2023.03.17-18.25.57:655][793]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Main_Menu_Assets/Sounds/Click_sound.Click_sound will be modified from 40 to 40.
+[2023.03.17-18.25.57:663][793]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 48176 while cooking SoundWave /Game/Main_Menu_Assets/Sounds/Click_sound.Click_sound.
+[2023.03.17-18.26.02:068][322]LogSlate: Window 'Assignment_3D_Game Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.17-18.26.02:074][322]LogWorld: BeginTearingDown for /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.26.02:113][322]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.17-18.26.02:113][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.26.02:119][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.17-18.26.02:123][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.26.02:143][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.17-18.26.02:143][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.26.02:144][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.26.02:148][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.03.17-18.26.02:173][324]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.03.17-18.26.10:171][259]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Main_Menu_Assets/Sounds/Hover_sound.Hover_sound
+[2023.03.17-18.26.17:276][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Assets/Sounds/Hover_sound" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Hover_sound.uasset" SILENT=true
+[2023.03.17-18.26.17:277][ 93]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Hover_sound99987AB64C7A9D7072643697DA88FB97.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Hover_sound.uasset'
+[2023.03.17-18.26.17:381][ 93]AssetCheck: New page: Asset Save: Hover_sound
+[2023.03.17-18.26.17:381][ 93]LogContentValidation: Display: Validating SoundWave /Game/Main_Menu_Assets/Sounds/Hover_sound.Hover_sound
+[2023.03.17-18.26.19:871][363]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Main_Menu_Assets/Sounds/Click_sound.Click_sound
+[2023.03.17-18.26.28:839][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Assets/Sounds/Click_sound" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Click_sound.uasset" SILENT=true
+[2023.03.17-18.26.28:840][411]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Click_sound2FDA6EC44D1C317398DFB28ABA79C657.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Click_sound.uasset'
+[2023.03.17-18.26.28:928][411]AssetCheck: New page: Asset Save: Click_sound
+[2023.03.17-18.26.28:928][411]LogContentValidation: Display: Validating SoundWave /Game/Main_Menu_Assets/Sounds/Click_sound.Click_sound
+[2023.03.17-18.26.31:445][699]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.17-18.26.31:450][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.17-18.26.31:450][699]PIE: New page: PIE session: Main_Menu (17 Mar 2023, 18:26:31)
+[2023.03.17-18.26.31:450][699]LogPlayLevel: Creating play world package: /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.26.31:451][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000744s)
+[2023.03.17-18.26.31:451][699]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.17-18.26.31:452][699]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2023.03.17-18.26.31:452][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Menu_Assets/Main_Menu.Main_Menu to /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu (0.001586s)
+[2023.03.17-18.26.31:471][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.17-18.26.31:473][699]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.17-18.26.31:473][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.17-18.26.31:473][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.17-18.26.31:474][699]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.17-18.26.31:474][699]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.17-18.26.31:474][699]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.17-18.26.31:474][699]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 1: FrontRight
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 4: BackLeft
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 5: BackRight
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 6: SideLeft
+[2023.03.17-18.26.31:475][699]LogAudioMixer: Display: 7: SideRight
+[2023.03.17-18.26.31:480][699]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.17-18.26.31:480][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.17-18.26.31:480][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.17-18.26.31:480][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.17-18.26.31:482][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.17-18.26.31:482][699]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.17-18.26.31:482][699]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.17-18.26.31:482][699]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.17-18.26.31:482][699]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.17-18.26.31:482][699]LogInit: FAudioDevice initialized.
+[2023.03.17-18.26.31:482][699]LogAudio: Display: Audio Device (ID: 34) registered with world 'Main_Menu'.
+[2023.03.17-18.26.31:549][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-18.26.31:549][699]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.03.17-18.26.31:549][699]LogWorld: Bringing World /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2023.03.17-18.26.31
+[2023.03.17-18.26.31:550][699]LogWorld: Bringing up level for play took: 0.000420
+[2023.03.17-18.26.31:550][699]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2023.03.17-18.26.31:552][699]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.17-18.26.31:553][699]PIE: Server logged in
+[2023.03.17-18.26.31:553][699]PIE: Play in editor total start time 0.104 seconds.
+[2023.03.17-18.26.40:590][771]LogSlate: Window 'Assignment_3D_Game Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.17-18.26.40:594][771]LogWorld: BeginTearingDown for /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.26.40:633][771]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.17-18.26.40:633][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.26.40:638][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.17-18.26.40:643][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.26.40:660][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.17-18.26.40:660][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.26.40:662][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.26.40:666][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.17-18.26.40:693][774]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.03.17-18.27.06:595][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.03.17-18.27.06:596][826]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Menu_Assets/Main_Menu' took 0.022
+[2023.03.17-18.27.06:596][826]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Player/Mesh/Player1] ([2] browsable assets)...
+[2023.03.17-18.27.06:640][826]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Player/Mesh/Player1.Player1_C]
+[2023.03.17-18.27.06:654][826]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/Mesh/Player1.Player1]
+[2023.03.17-18.27.06:654][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Mesh/Player1]
+[2023.03.17-18.27.06:700][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player1_Auto9D51A054C4C6D496A9D96D78B41D1CEA1.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Player/Mesh/Player1_Auto9.uasset'
+[2023.03.17-18.27.06:700][826]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/Mesh/Mesh_text/Ch49_nonPBR_Skeleton] ([1] browsable assets)...
+[2023.03.17-18.27.06:700][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Mesh/Mesh_text/Ch49_nonPBR_Skeleton]
+[2023.03.17-18.27.06:702][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Ch49_nonPBR_Skeleton_Auto9003EBF104AF7F2A84423F78BA8C3C26D.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Player/Mesh/Mesh_text/Ch49_nonPBR_Skeleton_Auto9.uasset'
+[2023.03.17-18.27.06:703][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/bp_SM_KA-Val_X_Auto9896AD23A4AC722F3B68C4DA09EB6DB1F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/bp_SM_KA-Val_X_Auto9.uasset'
+[2023.03.17-18.27.06:704][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_X] ([1] browsable assets)...
+[2023.03.17-18.27.06:714][826]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_X.SM_KA_Val_X]
+[2023.03.17-18.27.06:714][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_X]
+[2023.03.17-18.27.06:730][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SM_KA_Val_X_Auto9B1803A2F4DADDC4942D9B0956DF4FBE0.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_X_Auto9.uasset'
+[2023.03.17-18.27.06:730][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_X] ([1] browsable assets)...
+[2023.03.17-18.27.06:740][826]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_X.SK_KA_Val_X]
+[2023.03.17-18.27.06:740][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_X]
+[2023.03.17-18.27.06:749][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SK_KA_Val_X_Auto977149EA6433D1CC46E944CBDFB351778.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_X_Auto9.uasset'
+[2023.03.17-18.27.06:750][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_Y] ([1] browsable assets)...
+[2023.03.17-18.27.06:760][826]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_Y.SK_KA_Val_Y]
+[2023.03.17-18.27.06:760][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_Y]
+[2023.03.17-18.27.06:769][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SK_KA_Val_Y_Auto9720C4F34417D15818CFDFF9DB949569D.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SK_KA_Val_Y_Auto9.uasset'
+[2023.03.17-18.27.06:770][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_MAG_Loaded_Y] ([1] browsable assets)...
+[2023.03.17-18.27.06:779][826]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_MAG_Loaded_Y.SM_KA_Val_MAG_Loaded_Y]
+[2023.03.17-18.27.06:779][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_MAG_Loaded_Y]
+[2023.03.17-18.27.06:787][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SM_KA_Val_MAG_Loaded_Y_Auto92EC7FB4145FDF4911B16D390FC64E35B.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_MAG_Loaded_Y_Auto9.uasset'
+[2023.03.17-18.27.06:787][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_X] ([1] browsable assets)...
+[2023.03.17-18.27.06:796][826]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_X.SM_KA_Val_Mag_X]
+[2023.03.17-18.27.06:796][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_X]
+[2023.03.17-18.27.06:802][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SM_KA_Val_Mag_X_Auto9AE51ED454D93F88CD79588A08EC31A24.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_X_Auto9.uasset'
+[2023.03.17-18.27.06:803][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Y] ([1] browsable assets)...
+[2023.03.17-18.27.06:812][826]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Y.SM_KA_Val_Y]
+[2023.03.17-18.27.06:812][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Y]
+[2023.03.17-18.27.06:828][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SM_KA_Val_Y_Auto9AE7D7ED244E36C8FCCE0E5867A4C5987.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Y_Auto9.uasset'
+[2023.03.17-18.27.06:829][826]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_Y] ([1] browsable assets)...
+[2023.03.17-18.27.06:838][826]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_Y.SM_KA_Val_Mag_Y]
+[2023.03.17-18.27.06:838][826]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_Y]
+[2023.03.17-18.27.06:844][826]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/SM_KA_Val_Mag_Y_Auto92F4A42794FF30B0682235FBA261279FE.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Mag_Y_Auto9.uasset'
+[2023.03.17-18.27.06:845][826]LogFileHelpers: Auto-saving content packages took 0.249
+[2023.03.17-18.29.20:130][533]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.03.17-18.29.20:140][533]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.03.17-18.29.22:077][766]LogContentBrowser: Attempting asset rename: NewSoundCue -> NewSoundCue
+[2023.03.17-18.29.22:133][766]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.03.17-18.29.23:640][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.17-18.29.25:174][940]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.17-18.29.25:278][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.03.17-18.29.55:358][515]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2023.03.17-18.29.55:367][515]LogContentBrowser: Creating deferred item: NewSoundClass
+[2023.03.17-18.30.02:917][420]LogContentBrowser: Attempting asset rename: NewSoundClass -> Music_Class
+[2023.03.17-18.30.02:976][420]LogContentBrowser: End creating deferred item NewSoundClass
+[2023.03.17-18.30.14:276][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_and_Music/Music_Class" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/Music_Class.uasset" SILENT=true
+[2023.03.17-18.30.14:276][704]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Music_ClassC09215C34108B24E17CBF18A4ABC57B5.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/Music_Class.uasset'
+[2023.03.17-18.30.14:515][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.03.17-18.30.14:545][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.03.17-18.30.14:562][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.17-18.30.14:589][704]AssetCheck: New page: Asset Save: Music_Class
+[2023.03.17-18.30.14:590][704]LogContentValidation: Display: Validating SoundClass /Game/Sounds_and_Music/Music_Class.Music_Class
+[2023.03.17-18.30.17:574][ 52]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/Sounds_and_Music/Music_Class.Music_Class
+[2023.03.17-18.37.07:273][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.03.17-18.37.07:274][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Menu_Assets/Main_Menu' took 0.026
+[2023.03.17-18.37.07:275][196]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Mesh/Player1] ([2] browsable assets)...
+[2023.03.17-18.37.07:326][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/Mesh/Player1.Player1]
+[2023.03.17-18.37.07:326][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Mesh/Player1]
+[2023.03.17-18.37.07:364][196]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player1_Auto083E204734CED64CB2B126989EC04F260.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Player/Mesh/Player1_Auto0.uasset'
+[2023.03.17-18.37.07:365][196]LogFileHelpers: Auto-saving content packages took 0.090
+[2023.03.17-18.41.11:923][418]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tingl\Downloads\stay-retro-AlexiAction-November-08-2022.wav)
+[2023.03.17-18.41.12:074][418]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tingl\Downloads\synth-pop-Playsound-April-30-2022.wav)
+[2023.03.17-18.41.12:227][418]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tingl\Downloads\80s-pop-Playsound-April-30-2022.wav)
+[2023.03.17-18.41.12:376][418]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\tingl\Downloads\a-hero-of-the-80s-GrandProject-November-23-2022.wav)
+[2023.03.17-18.41.36:833][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.03.17-18.41.38:599][760]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.17-18.41.38:628][760]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sounds_and_Music/Music_Class.Music_Class
+[2023.03.17-18.41.38:906][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.03.17-18.41.38:925][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.03.17-18.41.38:942][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.17-18.41.39:021][760]SourceControl: rm 'Assignment_3D_Game/Content/Sounds_and_Music/Music_Class.uasset'
+[2023.03.17-18.47.07:850][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.17-18.47.07:854][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Menu_Assets/Main_Menu' took 0.027
+[2023.03.17-18.47.07:854][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022] ([1] browsable assets)...
+[2023.03.17-18.47.07:877][531]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.a-hero-of-the-80s-GrandProject-November-23-2022]
+[2023.03.17-18.47.07:877][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022]
+[2023.03.17-18.47.07:963][531]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/a-hero-of-the-80s-GrandProject-N11E3E16D477A1EAAF27BEBBDCDBD875D.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022_Auto1.uasset'
+[2023.03.17-18.47.07:964][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022] ([1] browsable assets)...
+[2023.03.17-18.47.07:977][531]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.stay-retro-AlexiAction-November-08-2022]
+[2023.03.17-18.47.07:977][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022]
+[2023.03.17-18.47.08:095][531]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/stay-retro-AlexiAction-November-0B25491B413FCBE36645C9ACBA13E2A4.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022_Auto1.uasset'
+[2023.03.17-18.47.08:096][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022] ([1] browsable assets)...
+[2023.03.17-18.47.08:111][531]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022.synth-pop-Playsound-April-30-2022]
+[2023.03.17-18.47.08:111][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022]
+[2023.03.17-18.47.08:176][531]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/synth-pop-Playsound-April-30-2023B02C26841E34ADB5F13C583EF701569.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022_Auto1.uasset'
+[2023.03.17-18.47.08:176][531]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022] ([1] browsable assets)...
+[2023.03.17-18.47.08:193][531]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022]
+[2023.03.17-18.47.08:193][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022]
+[2023.03.17-18.47.08:242][531]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/80s-pop-Playsound-April-30-2022_79E3DDB44465D0DBC1E126AF3FAAD5E3.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022_Auto1.uasset'
+[2023.03.17-18.47.08:243][531]LogFileHelpers: Auto-saving content packages took 0.389
+[2023.03.17-18.52.13:417][636]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.03.17-18.52.13:431][636]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.03.17-18.52.23:341][815]LogContentBrowser: Attempting asset rename: NewSoundCue -> Random_Music_Cue
+[2023.03.17-18.52.23:396][815]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.03.17-18.52.25:561][ 57]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds_and_Music/Random_Music_Cue.Random_Music_Cue
+[2023.03.17-18.52.41:804][756]LogSlate: Window 'Random_Music_Cue' being destroyed
+[2023.03.17-18.52.57:478][578]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds_and_Music/Random_Music_Cue.Random_Music_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.03.17-18.52.59:794][847]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave a-hero-of-the-80s-GrandProject-November-23-2022...
+[2023.03.17-18.52.59:801][847]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.a-hero-of-the-80s-GrandProject-November-23-2022 will be modified from 40 to 40.
+[2023.03.17-18.53.01:371][847]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 28523520 while cooking SoundWave /Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.a-hero-of-the-80s-GrandProject-November-23-2022.
+[2023.03.17-18.53.09:231][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 80s-pop-Playsound-April-30-2022...
+[2023.03.17-18.53.09:236][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022 will be modified from 40 to 40.
+[2023.03.17-18.53.10:743][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27767808 while cooking SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022.
+[2023.03.17-18.53.12:611][971]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022
+[2023.03.17-18.53.22:107][ 80]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/80s-pop-Playsound-April-30-202249B4CA1D43759CF1D2DD0FBD35F03722.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/80s-pop-Playsound-April-30-2022.uasset'
+[2023.03.17-18.53.23:139][ 80]AssetCheck: New page: Asset Save: 80s-pop-Playsound-April-30-2022
+[2023.03.17-18.53.23:139][ 80]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022
+[2023.03.17-18.53.35:696][530]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.a-hero-of-the-80s-GrandProject-November-23-2022
+[2023.03.17-18.53.40:496][ 77]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/a-hero-of-the-80s-GrandProject-NE6BBE64C4488DF52DB2523B7448486B2.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.uasset'
+[2023.03.17-18.53.41:360][ 77]AssetCheck: New page: Asset Save: a-hero-of-the-80s-GrandProject-November-23-2022
+[2023.03.17-18.53.41:360][ 77]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.a-hero-of-the-80s-GrandProject-November-23-2022
+[2023.03.17-18.53.42:966][248]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/80s-pop-Playsound-April-30-20220922F5D348BF8602FBEDCDB756EE970D.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/80s-pop-Playsound-April-30-2022.uasset'
+[2023.03.17-18.53.42:977][248]AssetCheck: New page: Asset Save: 80s-pop-Playsound-April-30-2022
+[2023.03.17-18.53.42:977][248]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022
+[2023.03.17-18.53.47:245][730]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.stay-retro-AlexiAction-November-08-2022
+[2023.03.17-18.53.51:120][162]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/stay-retro-AlexiAction-November-BD9FCE0A40B6E1A8EDFFCF8AB4DA5FC7.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.uasset'
+[2023.03.17-18.53.52:027][162]AssetCheck: New page: Asset Save: stay-retro-AlexiAction-November-08-2022
+[2023.03.17-18.53.52:027][162]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.stay-retro-AlexiAction-November-08-2022
+[2023.03.17-18.53.55:879][598]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022.synth-pop-Playsound-April-30-2022
+[2023.03.17-18.54.00:444][ 97]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/synth-pop-Playsound-April-30-20273A80D064C33C9157316689B39BBDD40.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/synth-pop-Playsound-April-30-2022.uasset'
+[2023.03.17-18.54.01:231][ 97]AssetCheck: New page: Asset Save: synth-pop-Playsound-April-30-2022
+[2023.03.17-18.54.01:231][ 97]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022.synth-pop-Playsound-April-30-2022
+[2023.03.17-18.54.02:611][259]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave stay-retro-AlexiAction-November-08-2022...
+[2023.03.17-18.54.02:616][259]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.stay-retro-AlexiAction-November-08-2022 will be modified from 40 to 40.
+[2023.03.17-18.54.04:014][259]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25090560 while cooking SoundWave /Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.stay-retro-AlexiAction-November-08-2022.
+[2023.03.17-18.54.09:428][907]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave synth-pop-Playsound-April-30-2022...
+[2023.03.17-18.54.09:432][907]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022.synth-pop-Playsound-April-30-2022 will be modified from 40 to 40.
+[2023.03.17-18.54.10:829][907]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25744896 while cooking SoundWave /Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022.synth-pop-Playsound-April-30-2022.
+[2023.03.17-18.54.41:081][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_and_Music/Random_Music_Cue" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/Random_Music_Cue.uasset" SILENT=true
+[2023.03.17-18.54.41:082][477]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Random_Music_Cue3B0E3B924403AD0563EF35AD0CB211B3.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/Random_Music_Cue.uasset'
+[2023.03.17-18.54.41:171][477]AssetCheck: New page: Asset Save: Random_Music_Cue
+[2023.03.17-18.54.41:171][477]LogContentValidation: Display: Validating SoundCue /Game/Sounds_and_Music/Random_Music_Cue.Random_Music_Cue
+[2023.03.17-18.55.10:126][829]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/UI: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.55.13:496][233]SourceControl: fatal: E:/UE_4.27/Engine/Content/EditorSounds/Notifications: 'E:/UE_4.27/Engine/Content/EditorSounds/Notifications' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.55.15:642][489]SourceControl: fatal: E:/UE_4.27/Engine/Content/VREditor/Sounds/UI: 'E:/UE_4.27/Engine/Content/VREditor/Sounds/UI' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-18.55.20:419][ 49]BlueprintLog: New page: Compile Main_Menu
+[2023.03.17-18.55.20:452][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.17-18.55.21:149][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.17-18.55.21:152][120]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Main_Menu6E2D19F042204120C8033CAB27192611.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Main_Menu.umap'
+[2023.03.17-18.55.21:160][120]LogFileHelpers: Saving map 'Main_Menu' took 0.029
+[2023.03.17-18.55.21:169][120]AssetCheck: New page: Asset Save: Main_Menu
+[2023.03.17-18.55.21:169][120]LogContentValidation: Display: Validating World /Game/Main_Menu_Assets/Main_Menu.Main_Menu
+[2023.03.17-18.55.23:353][372]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.17-18.55.23:357][372]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.17-18.55.23:359][372]LogPlayLevel: [PlayLevel] Compiling Player1 before play...
+[2023.03.17-18.55.23:385][372]LogPlayLevel: [PlayLevel] Compiling Level1_Beach before play...
+[2023.03.17-18.55.23:419][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.17-18.55.23:421][372]LogPlayLevel: PlayLevel: Blueprint regeneration took 62 ms (2 blueprints)
+[2023.03.17-18.55.23:421][372]PIE: New page: PIE session: Main_Menu (17 Mar 2023, 18:55:23)
+[2023.03.17-18.55.23:452][372]LogPlayLevel: Creating play world package: /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.55.23:453][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001021s)
+[2023.03.17-18.55.23:454][372]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.17-18.55.23:455][372]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2023.03.17-18.55.23:455][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Menu_Assets/Main_Menu.Main_Menu to /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu (0.002283s)
+[2023.03.17-18.55.23:480][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.03.17-18.55.23:480][372]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.17-18.55.23:480][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.17-18.55.23:480][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.17-18.55.23:481][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.17-18.55.23:481][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.17-18.55.23:481][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.17-18.55.23:481][372]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 1: FrontRight
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 4: BackLeft
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 5: BackRight
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 6: SideLeft
+[2023.03.17-18.55.23:482][372]LogAudioMixer: Display: 7: SideRight
+[2023.03.17-18.55.23:488][372]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.17-18.55.23:488][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.17-18.55.23:488][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.17-18.55.23:488][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.17-18.55.23:489][372]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.17-18.55.23:489][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.17-18.55.23:489][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.17-18.55.23:489][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.17-18.55.23:489][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.17-18.55.23:489][372]LogInit: FAudioDevice initialized.
+[2023.03.17-18.55.23:489][372]LogAudio: Display: Audio Device (ID: 35) registered with world 'Main_Menu'.
+[2023.03.17-18.55.23:502][372]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.03.17-18.55.23:502][372]LogWorld: Bringing World /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2023.03.17-18.55.23
+[2023.03.17-18.55.23:502][372]LogWorld: Bringing up level for play took: 0.000212
+[2023.03.17-18.55.23:502][372]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.03.17-18.55.23:504][372]PIE: Server logged in
+[2023.03.17-18.55.23:505][372]PIE: Play in editor total start time 0.148 seconds.
+[2023.03.17-18.55.30:363][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-18.55.30:364][193]LogWorld: BeginTearingDown for /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.55.30:402][193]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.17-18.55.30:403][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.55.30:415][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.17-18.55.30:419][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.55.30:439][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-18.55.30:439][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.55.30:441][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.55.30:445][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.03.17-18.55.30:496][194]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.03.17-18.55.31:703][338]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.17-18.55.31:706][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.17-18.55.31:707][338]PIE: New page: PIE session: Main_Menu (17 Mar 2023, 18:55:31)
+[2023.03.17-18.55.31:732][338]LogPlayLevel: Creating play world package: /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.55.31:732][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000692s)
+[2023.03.17-18.55.31:733][338]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.17-18.55.31:733][338]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2023.03.17-18.55.31:733][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Menu_Assets/Main_Menu.Main_Menu to /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu (0.001464s)
+[2023.03.17-18.55.31:758][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.17-18.55.31:759][338]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.17-18.55.31:759][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.17-18.55.31:759][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.17-18.55.31:759][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.17-18.55.31:759][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.17-18.55.31:759][338]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 1: FrontRight
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 4: BackLeft
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 5: BackRight
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 6: SideLeft
+[2023.03.17-18.55.31:761][338]LogAudioMixer: Display: 7: SideRight
+[2023.03.17-18.55.31:766][338]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.17-18.55.31:766][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.17-18.55.31:766][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.17-18.55.31:766][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.17-18.55.31:766][338]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.17-18.55.31:767][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.17-18.55.31:767][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.17-18.55.31:767][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.17-18.55.31:767][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.17-18.55.31:767][338]LogInit: FAudioDevice initialized.
+[2023.03.17-18.55.31:767][338]LogAudio: Display: Audio Device (ID: 36) registered with world 'Main_Menu'.
+[2023.03.17-18.55.31:773][338]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.03.17-18.55.31:773][338]LogWorld: Bringing World /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2023.03.17-18.55.31
+[2023.03.17-18.55.31:773][338]LogWorld: Bringing up level for play took: 0.000194
+[2023.03.17-18.55.31:774][338]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.03.17-18.55.31:775][338]PIE: Server logged in
+[2023.03.17-18.55.31:776][338]PIE: Play in editor total start time 0.069 seconds.
+[2023.03.17-18.55.35:646][802]LogNet: Browse: /Game/Levels/Level1_Beach
+[2023.03.17-18.55.35:646][802]LogLoad: LoadMap: /Game/Levels/Level1_Beach
+[2023.03.17-18.55.35:646][802]LogWorld: BeginTearingDown for /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-18.55.35:646][802]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.17-18.55.35:646][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.55.35:689][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.17-18.55.35:692][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.03.17-18.55.35:693][802]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.17-18.55.35:711][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017746s)
+[2023.03.17-18.55.35:712][802]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.03.17-18.55.35:712][802]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2023.03.17-18.55.35:712][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.018785s)
+[2023.03.17-18.55.35:712][802]LogAudio: Display: Audio Device (ID: 36) registered with world 'Level1_Beach'.
+[2023.03.17-18.55.35:712][802]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.03.17-18.55.35:714][802]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.03.17-18.55.35
+[2023.03.17-18.55.35:714][802]LogWorld: Bringing up level for play took: 0.001535
+[2023.03.17-18.55.35:715][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.17-18.55.35:717][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1600.625 Y=-5983.044 Z=111.124] for [Mole_bp_C]
+[2023.03.17-18.55.35:718][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2731.911 Y=-16711.141 Z=101.214] for [Mole_bp_C]
+[2023.03.17-18.55.35:718][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2731.911 Y=-16711.141 Z=101.214] for [Mole_bp_C]
+[2023.03.17-18.55.35:718][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.35:719][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.35:719][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.35:720][802]LogLoad: Took 0.073454 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1_Beach)
+[2023.03.17-18.55.36:645][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.36:646][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.36:646][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.37:647][ 25]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.37:647][ 25]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.37:648][ 25]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.38:648][145]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.38:649][145]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.38:649][145]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.39:648][265]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.39:649][265]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.39:649][265]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.40:641][384]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1600.625 Y=-5983.044 Z=111.124] for [Mole_bp_C]
+[2023.03.17-18.55.40:642][384]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2731.911 Y=-16711.141 Z=101.214] for [Mole_bp_C]
+[2023.03.17-18.55.40:642][384]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2731.911 Y=-16711.141 Z=101.214] for [Mole_bp_C]
+[2023.03.17-18.55.40:649][385]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.40:650][385]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.40:650][385]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.41:655][502]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.41:656][502]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.41:656][502]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1315.554 Y=7494.459 Z=223.741] for [Mole_bp_C]
+[2023.03.17-18.55.42:132][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-18.55.42:132][555]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.17-18.55.42:133][555]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.03.17-18.55.42:133][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.55.42:141][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.17-18.55.42:146][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-18.55.42:166][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-18.55.42:166][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.55.42:167][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-18.55.42:172][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.17-18.55.42:225][557]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.03.17-19.00.48:735][290]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.17-19.00.48:739][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.17-19.00.48:739][290]PIE: New page: PIE session: Main_Menu (17 Mar 2023, 19:00:48)
+[2023.03.17-19.00.48:739][290]LogPlayLevel: Creating play world package: /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-19.00.48:740][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000982s)
+[2023.03.17-19.00.48:740][290]LogAIModule: Creating AISystem for world Main_Menu
+[2023.03.17-19.00.48:742][290]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2023.03.17-19.00.48:742][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Menu_Assets/Main_Menu.Main_Menu to /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu (0.001928s)
+[2023.03.17-19.00.48:765][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.17-19.00.48:775][290]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.17-19.00.48:775][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.17-19.00.48:775][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.17-19.00.48:776][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.17-19.00.48:776][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.17-19.00.48:776][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.17-19.00.48:776][290]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 1: FrontRight
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 4: BackLeft
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 5: BackRight
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 6: SideLeft
+[2023.03.17-19.00.48:812][290]LogAudioMixer: Display: 7: SideRight
+[2023.03.17-19.00.48:818][290]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.17-19.00.48:818][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.17-19.00.48:818][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.17-19.00.48:818][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.17-19.00.48:819][290]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.17-19.00.48:819][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.17-19.00.48:819][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.17-19.00.48:819][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.17-19.00.48:820][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.17-19.00.48:820][290]LogInit: FAudioDevice initialized.
+[2023.03.17-19.00.48:820][290]LogAudio: Display: Audio Device (ID: 37) registered with world 'Main_Menu'.
+[2023.03.17-19.00.48:881][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.17-19.00.48:881][290]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.03.17-19.00.48:882][290]LogWorld: Bringing World /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2023.03.17-19.00.48
+[2023.03.17-19.00.48:882][290]LogWorld: Bringing up level for play took: 0.000284
+[2023.03.17-19.00.48:882][290]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2023.03.17-19.00.48:884][290]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.17-19.00.48:885][290]PIE: Server logged in
+[2023.03.17-19.00.48:885][290]PIE: Play in editor total start time 0.147 seconds.
+[2023.03.17-19.01.33:195][593]LogSlate: Window 'Assignment_3D_Game Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.17-19.01.33:202][593]LogWorld: BeginTearingDown for /Game/Main_Menu_Assets/UEDPIE_0_Main_Menu
+[2023.03.17-19.01.33:231][593]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2023.03.17-19.01.33:231][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-19.01.33:237][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.17-19.01.33:242][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.17-19.01.33:259][593]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.17-19.01.33:259][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-19.01.33:261][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.17-19.01.33:265][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.03.17-19.01.33:295][596]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.03.17-19.01.57:040][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.17-19.01.57:044][407]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Main_Menu468B7DCC4B51A46E185C15A9994C8B46.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Main_Menu.umap'
+[2023.03.17-19.01.57:062][407]AssetCheck: New page: Asset Save: Main_Menu
+[2023.03.17-19.01.57:062][407]LogContentValidation: Display: Validating World /Game/Main_Menu_Assets/Main_Menu.Main_Menu
+[2023.03.17-19.02.20:585][148]LogLinker: Warning: [AssetLog] C:\Users\tingl\Desktop\3D-Game-Assignment\Assignment_3D_Game\Content\Props\Weapons\Mesh\KA_Val\SM_KA_Val_X.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val': Can't find file.
+[2023.03.17-19.02.20:585][148]LogLinker: Warning: [AssetLog] C:\Users\tingl\Desktop\3D-Game-Assignment\Assignment_3D_Game\Content\Props\Weapons\Mesh\KA_Val\SM_KA_Val_X.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val': Can't find file.
+[2023.03.17-19.02.20:585][148]LogLinker: Warning: [AssetLog] C:\Users\tingl\Desktop\3D-Game-Assignment\Assignment_3D_Game\Content\Props\Weapons\Mesh\KA_Val\SM_KA_Val_X.uasset: Failed to load '/Game/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val': Can't find file.
+[2023.03.17-19.02.33:634][581]LogSlate: Window 'Message Log' being destroyed
+[2023.03.17-19.02.33:638][581]LogSlate: Window 'Message Log' being destroyed
+[2023.03.17-19.02.34:725][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.17-19.02.34:733][700]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Main_Menu4968DB814F1482608569AFA73556E262.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Main_Menu.umap'
+[2023.03.17-19.02.34:752][700]AssetCheck: New page: Asset Save: Main_Menu
+[2023.03.17-19.02.34:752][700]LogContentValidation: Display: Validating World /Game/Main_Menu_Assets/Main_Menu.Main_Menu
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Content: 'E:/UE_4.27/Engine/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Water/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Water/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:006][ 24]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.03.17-19.02.38:391][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.17-19.02.38:395][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Main_MenuFB7A8BE548536FA6693994B0C9E4B01C.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Main_Menu.umap'
+[2023.03.17-19.02.38:402][ 24]LogFileHelpers: Saving map 'Main_Menu' took 0.031
+[2023.03.17-19.02.38:411][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Main_Manu_Widget313A99D64522477899642AB1E1C5960F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Blueprints/Main_Manu_Widget.uasset'
+[2023.03.17-19.02.38:412][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Assets/Sounds/Click_sound" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Click_sound.uasset" SILENT=true
+[2023.03.17-19.02.38:413][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Click_soundD7823EC345611EBC7D0530BA7C0AD85F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Click_sound.uasset'
+[2023.03.17-19.02.38:413][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Menu_Assets/Sounds/Hover_sound" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Hover_sound.uasset" SILENT=true
+[2023.03.17-19.02.38:413][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Hover_sound917A5AA4493CA66C2424B2AA57AA44DF.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Hover_sound.uasset'
+[2023.03.17-19.02.38:445][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/80s-pop-Playsound-April-30-202203A403F6433CB7626547BC95F3BF7A62.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/80s-pop-Playsound-April-30-2022.uasset'
+[2023.03.17-19.02.38:539][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/a-hero-of-the-80s-GrandProject-NFCF723124CEC2DA521CBB7A500684053.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.uasset'
+[2023.03.17-19.02.38:542][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds_and_Music/Random_Music_Cue" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/Random_Music_Cue.uasset" SILENT=true
+[2023.03.17-19.02.38:543][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Random_Music_Cue50208B8341DF1A42E2FEEE91FB99EE11.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/Random_Music_Cue.uasset'
+[2023.03.17-19.02.38:570][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/stay-retro-AlexiAction-November-C7E86B9C4EAB45650F66B681C913D180.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.uasset'
+[2023.03.17-19.02.38:600][ 24]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/synth-pop-Playsound-April-30-202D7FA31CC41D584BB95AB72BA109494A2.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Sounds_and_Music/synth-pop-Playsound-April-30-2022.uasset'
+[2023.03.17-19.02.52:668][ 24]LogSlate: Window 'Submit Files' being destroyed
+[2023.03.17-19.02.58:583][ 24]LogSourceControl: commit successful: [main ba4b848] Added music into the game now for the levels
+[2023.03.17-19.02.58:703][ 24]SourceControl: [main ba4b848] Added music into the game now for the levels
+[2023.03.17-19.02.58:703][ 24]SourceControl:  9 files changed, 0 insertions(+), 0 deletions(-)
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Click_sound.uasset
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Main_Menu_Assets/Sounds/Hover_sound.uasset
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Sounds_and_Music/80s-pop-Playsound-April-30-2022.uasset
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Sounds_and_Music/Random_Music_Cue.uasset
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.uasset
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.uasset
+[2023.03.17-19.02.58:703][ 24]SourceControl:  create mode 100644 Assignment_3D_Game/Content/Sounds_and_Music/synth-pop-Playsound-April-30-2022.uasset
+[2023.03.17-19.02.58:711][ 24]SourceControl: Commited [main ba4b848] Added music into the game now for the levels.
+[2023.03.17-19.02.58:741][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating World /Game/Main_Menu_Assets/Main_Menu.Main_Menu
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/synth-pop-Playsound-April-30-2022.synth-pop-Playsound-April-30-2022
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundCue /Game/Sounds_and_Music/Random_Music_Cue.Random_Music_Cue
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/a-hero-of-the-80s-GrandProject-November-23-2022.a-hero-of-the-80s-GrandProject-November-23-2022
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/80s-pop-Playsound-April-30-2022.80s-pop-Playsound-April-30-2022
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_Menu_Assets/Blueprints/Main_Manu_Widget.Main_Manu_Widget
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundWave /Game/Sounds_and_Music/stay-retro-AlexiAction-November-08-2022.stay-retro-AlexiAction-November-08-2022
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundWave /Game/Main_Menu_Assets/Sounds/Hover_sound.Hover_sound
+[2023.03.17-19.02.58:741][ 25]LogContentValidation: Display: Validating SoundWave /Game/Main_Menu_Assets/Sounds/Click_sound.Click_sound
