@@ -16058,3 +16058,1275 @@ Script Stack (0 frames):
 [2023.03.21-16.30.47:844][237]LogContentValidation: Display: Validating Blueprint /Game/Levels/Blueprints/LoadNexLevel.LoadNexLevel
 [2023.03.21-16.30.47:844][237]LogContentValidation: Display: Validating StaticMesh /Game/Props/Weapons/Mesh/KA_Val/SM_KA_Val_Y.SM_KA_Val_Y
 [2023.03.21-16.30.47:844][237]LogContentValidation: Display: Validating World /Game/Levels/Level2_City.Level2_City
+[2023.03.21-16.33.28:031][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.21-16.33.28:102][813]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1_Beach.Level1_Beach
+[2023.03.21-16.33.28:102][813]Cmd: MAP LOAD FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.21-16.33.28:102][813]LightingResults: New page: Lighting Build
+[2023.03.21-16.33.28:103][813]LoadErrors: New page: Loading map: Level1_Beach.umap
+[2023.03.21-16.33.28:104][813]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.33.28:104][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.33.28:104][813]MapCheck: New page: Map Check
+[2023.03.21-16.33.28:104][813]LightingResults: New page: Lighting Build
+[2023.03.21-16.33.28:117][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-16.33.28:121][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.03.21-16.33.28:122][813]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1_Beach'.
+[2023.03.21-16.33.28:202][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.21-16.33.28:202][813]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.03.21-16.33.28:256][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.21-16.33.28:264][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.21-16.33.28:266][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.23ms to complete.
+[2023.03.21-16.33.28:266][813]LogFileHelpers: Loading map 'Level1_Beach' took 0.163
+[2023.03.21-16.33.29:686][892]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.21-16.33.29:690][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-16.33.29:690][892]PIE: New page: PIE session: Level1_Beach (21 Mar 2023, 16:33:29)
+[2023.03.21-16.33.29:690][892]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.33.29:709][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018628s)
+[2023.03.21-16.33.29:709][892]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.03.21-16.33.29:710][892]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2023.03.21-16.33.29:710][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.019453s)
+[2023.03.21-16.33.29:722][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.21-16.33.29:725][892]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-16.33.29:725][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-16.33.29:725][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-16.33.29:725][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-16.33.29:725][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-16.33.29:725][892]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 4: BackLeft
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 5: BackRight
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 6: SideLeft
+[2023.03.21-16.33.29:727][892]LogAudioMixer: Display: 7: SideRight
+[2023.03.21-16.33.29:733][892]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.21-16.33.29:733][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-16.33.29:733][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-16.33.29:733][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-16.33.29:733][892]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-16.33.29:733][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-16.33.29:733][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.21-16.33.29:734][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-16.33.29:734][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-16.33.29:734][892]LogInit: FAudioDevice initialized.
+[2023.03.21-16.33.29:734][892]LogAudio: Display: Audio Device (ID: 83) registered with world 'Level1_Beach'.
+[2023.03.21-16.33.29:741][892]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.03.21-16.33.29:744][892]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.03.21-16.33.29
+[2023.03.21-16.33.29:744][892]LogWorld: Bringing up level for play took: 0.001965
+[2023.03.21-16.33.29:744][892]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2023.03.21-16.33.29:746][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.29:747][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.29:747][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.29:748][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.29:749][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.29:750][892]PIE: Server logged in
+[2023.03.21-16.33.29:750][892]PIE: Play in editor total start time 0.06 seconds.
+[2023.03.21-16.33.31:674][119]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.31:674][119]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.33:674][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.33:674][359]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.34:674][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.34:674][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.34:675][479]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.35:674][599]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.35:675][599]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.35:675][599]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.37:674][839]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.37:675][839]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.37:675][839]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.39:675][ 79]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.39:676][ 79]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.39:676][ 79]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.39:677][ 79]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.39:677][ 79]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.41:676][319]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.41:677][319]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.41:677][319]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.33.44:677][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.44:677][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.44:678][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.49:677][279]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.49:677][279]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.49:678][279]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.33.51:957][553]LogCharacterMovement: Mole_bp_C_11 is stuck and failed to move! Velocity: X=167.45 Y=193.83 Z=0.00 Location: X=1895.78 Y=-5270.69 Z=655.92 Normal: X=0.60 Y=0.53 Z=0.61 PenetrationDepth:2.386 Actor:Mole_bp_C_19 Component:CharacterMesh0 BoneName:joint_Front_2_L (0 other events since notify)
+[2023.03.21-16.33.54:892][905]LogCharacterMovement: Mole_bp_C_19 is stuck and failed to move! Velocity: X=-104.19 Y=277.55 Z=0.00 Location: X=916.84 Y=-4762.03 Z=637.73 Normal: X=-0.40 Y=0.79 Z=0.46 PenetrationDepth:12.879 Actor:Mole_bp_C_26 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.33.54:932][910]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=61.82 Y=291.50 Z=0.00 Location: X=1763.24 Y=-15118.12 Z=653.80 Normal: X=0.34 Y=0.85 Z=0.40 PenetrationDepth:0.000 Actor:Mole_bp_C_49 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.33.59:893][501]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=33.74 Y=677.73 Z=0.00 Location: X=1110.52 Y=-14162.54 Z=569.25 Normal: X=-0.27 Y=0.85 Z=0.44 PenetrationDepth:19.072 Actor:Mole_bp_C_50 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.34.09:818][692]LogCharacterMovement: Mole_bp_C_51 is stuck and failed to move! Velocity: X=-29.88 Y=549.19 Z=0.00 Location: X=1588.42 Y=-11034.79 Z=602.80 Normal: X=-0.01 Y=0.79 Z=0.61 PenetrationDepth:17.522 Actor:Mole_bp_C_52 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.34.15:234][342]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=91.55 Y=155.61 Z=0.00 Location: X=1826.66 Y=-10869.32 Z=572.29 Normal: X=0.56 Y=-0.69 Z=0.46 PenetrationDepth:2.916 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Tail (0 other events since notify)
+[2023.03.21-16.34.17:109][567]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-11.26 Y=21.17 Z=0.00 Location: X=1745.16 Y=-10319.27 Z=543.94 Normal: X=-0.08 Y=-0.87 Z=0.49 PenetrationDepth:0.932 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Tail (3 other events since notify)
+[2023.03.21-16.34.17:676][635]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=-692.33 Y=-103.32 Z=0.00 Location: X=-772.64 Y=-3924.17 Z=595.35 Normal: X=0.16 Y=-0.91 Z=0.38 PenetrationDepth:0.000 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (22 other events since notify)
+[2023.03.21-16.34.22:402][202]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=137.69 Y=-500.52 Z=0.00 Location: X=-1444.10 Y=-6636.66 Z=483.88 Normal: X=-0.35 Y=-0.84 Z=0.42 PenetrationDepth:4.429 Actor:Mole_bp_C_48 Component:CharacterMesh0 BoneName:joint_Spine_2 (9 other events since notify)
+[2023.03.21-16.34.22:501][214]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-17.04 Y=-0.89 Z=0.00 Location: X=375.73 Y=-8950.03 Z=496.14 Normal: X=0.43 Y=-0.72 Z=0.55 PenetrationDepth:16.217 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Front_2_R (12 other events since notify)
+[2023.03.21-16.34.23:919][384]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=27.86 Y=-442.58 Z=0.00 Location: X=-1385.06 Y=-6756.61 Z=482.81 Normal: X=-0.72 Y=-0.38 Z=0.58 PenetrationDepth:12.357 Actor:Mole_bp_C_42 Component:CharacterMesh0 BoneName:joint_Front_2_L (0 other events since notify)
+[2023.03.21-16.34.24:435][446]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-14.63 Y=-8.79 Z=0.00 Location: X=349.34 Y=-9081.95 Z=533.73 Normal: X=0.55 Y=-0.57 Z=0.62 PenetrationDepth:2.952 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Front_2_R (19 other events since notify)
+[2023.03.21-16.34.25:351][556]LogCharacterMovement: Mole_bp_C_57 is stuck and failed to move! Velocity: X=-13.99 Y=9.78 Z=0.00 Location: X=-60.20 Y=-13431.56 Z=535.16 Normal: X=-0.83 Y=-0.25 Z=0.50 PenetrationDepth:0.112 Actor:Mole_bp_C_56 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.34.25:502][574]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=-148.41 Y=-316.98 Z=0.00 Location: X=-794.53 Y=-8344.60 Z=483.86 Normal: X=0.83 Y=-0.20 Z=0.52 PenetrationDepth:15.342 Actor:Mole_bp_C_48 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.34.26:410][683]LogCharacterMovement: Mole_bp_C_57 is stuck and failed to move! Velocity: X=-664.02 Y=221.54 Z=0.00 Location: X=-196.35 Y=-13450.83 Z=554.35 Normal: X=-0.22 Y=0.68 Z=0.70 PenetrationDepth:37.303 Actor:Mole_bp_C_58 Component:CharacterMesh0 BoneName:joint_Front_2_L (110 other events since notify)
+[2023.03.21-16.34.27:327][793]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-225.04 Y=-30.36 Z=0.00 Location: X=-1269.18 Y=-11386.76 Z=502.99 Normal: X=0.84 Y=0.01 Z=0.55 PenetrationDepth:0.723 Actor:Mole_bp_C_50 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.34.27:360][797]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-11.88 Y=-12.25 Z=0.00 Location: X=-150.22 Y=-10004.45 Z=512.74 Normal: X=0.04 Y=-0.83 Z=0.56 PenetrationDepth:2.989 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Front_2_R (23 other events since notify)
+[2023.03.21-16.34.27:510][815]LogCharacterMovement: Mole_bp_C_57 is stuck and failed to move! Velocity: X=-689.08 Y=-123.15 Z=0.00 Location: X=-741.27 Y=-13465.37 Z=567.52 Normal: X=-0.11 Y=0.71 Z=0.70 PenetrationDepth:40.692 Actor:Mole_bp_C_58 Component:CharacterMesh0 BoneName:joint_Front_2_L (15 other events since notify)
+[2023.03.21-16.34.28:645][951]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=-21.60 Y=-102.35 Z=0.00 Location: X=310.96 Y=-12950.69 Z=537.41 Normal: X=-0.33 Y=-0.81 Z=0.49 PenetrationDepth:1.296 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.34.29:319][ 32]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-4.74 Y=-16.40 Z=0.00 Location: X=-1269.18 Y=-11386.76 Z=502.99 Normal: X=-0.92 Y=-0.01 Z=0.40 PenetrationDepth:0.000 Actor:Mole_bp_C_52 Component:FPS_HB BoneName:None (20 other events since notify)
+[2023.03.21-16.34.29:644][ 71]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=-235.81 Y=-258.64 Z=0.00 Location: X=311.49 Y=-12970.19 Z=537.88 Normal: X=-0.20 Y=-0.75 Z=0.63 PenetrationDepth:105.447 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_R (113 other events since notify)
+[2023.03.21-16.34.30:319][152]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-88.54 Y=-542.83 Z=0.00 Location: X=-1269.18 Y=-11386.76 Z=502.99 Normal: X=-0.89 Y=0.12 Z=0.44 PenetrationDepth:22.998 Actor:Mole_bp_C_52 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.30:628][189]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=-218.79 Y=-341.45 Z=0.00 Location: X=-1359.68 Y=-9523.55 Z=489.24 Normal: X=-0.66 Y=0.63 Z=0.40 PenetrationDepth:1.374 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Tail (38 other events since notify)
+[2023.03.21-16.34.30:645][191]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=-201.19 Y=-286.39 Z=0.00 Location: X=311.49 Y=-12970.19 Z=537.88 Normal: X=0.36 Y=-0.80 Z=0.49 PenetrationDepth:46.761 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.31:319][272]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-31.17 Y=-549.12 Z=0.00 Location: X=-1269.18 Y=-11386.76 Z=502.99 Normal: X=-0.89 Y=0.12 Z=0.44 PenetrationDepth:22.998 Actor:Mole_bp_C_52 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.31:485][292]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=20.53 Y=-167.96 Z=0.00 Location: X=-2076.80 Y=-12754.57 Z=530.61 Normal: X=0.09 Y=0.84 Z=0.53 PenetrationDepth:0.030 Actor:Mole_bp_C_50 Component:CharacterMesh0 BoneName:joint_Tail (1 other events since notify)
+[2023.03.21-16.34.31:644][311]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=-120.33 Y=-328.67 Z=0.00 Location: X=311.49 Y=-12970.19 Z=537.88 Normal: X=0.08 Y=-0.73 Z=0.67 PenetrationDepth:68.311 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Spine_2 (119 other events since notify)
+[2023.03.21-16.34.31:645][311]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=4.37 Y=-349.97 Z=0.00 Location: X=-1476.74 Y=-9573.69 Z=506.24 Normal: X=-0.63 Y=-0.53 Z=0.56 PenetrationDepth:28.025 Actor:Mole_bp_C_42 Component:FPS_HB BoneName:None (78 other events since notify)
+[2023.03.21-16.34.31:860][337]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-10.38 Y=-13.55 Z=0.00 Location: X=-572.06 Y=-11076.18 Z=522.73 Normal: X=0.45 Y=-0.85 Z=0.27 PenetrationDepth:0.282 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (8 other events since notify)
+[2023.03.21-16.34.32:319][392]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=28.60 Y=-549.26 Z=0.00 Location: X=-1269.18 Y=-11386.76 Z=502.99 Normal: X=-0.89 Y=0.12 Z=0.44 PenetrationDepth:22.998 Actor:Mole_bp_C_52 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.32:485][412]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=130.28 Y=-686.18 Z=0.00 Location: X=-1794.72 Y=-13094.71 Z=561.63 Normal: X=0.12 Y=-0.79 Z=0.60 PenetrationDepth:5.261 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (26 other events since notify)
+[2023.03.21-16.34.32:645][431]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=-38.50 Y=-347.88 Z=0.00 Location: X=311.45 Y=-12993.44 Z=537.88 Normal: X=-0.02 Y=-0.74 Z=0.68 PenetrationDepth:70.962 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Spine_2 (115 other events since notify)
+[2023.03.21-16.34.32:860][457]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-425.77 Y=-555.62 Z=0.00 Location: X=-572.06 Y=-11076.18 Z=522.73 Normal: X=0.46 Y=-0.86 Z=0.24 PenetrationDepth:43.094 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (119 other events since notify)
+[2023.03.21-16.34.33:319][512]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=28.55 Y=-549.26 Z=0.00 Location: X=-1269.18 Y=-11386.76 Z=502.99 Normal: X=-0.89 Y=0.12 Z=0.44 PenetrationDepth:22.998 Actor:Mole_bp_C_52 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.33:485][532]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=149.07 Y=-683.94 Z=0.00 Location: X=-1794.72 Y=-13094.71 Z=561.63 Normal: X=0.15 Y=-0.78 Z=0.60 PenetrationDepth:5.264 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.33:645][551]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=-22.76 Y=-349.26 Z=0.00 Location: X=311.44 Y=-13005.25 Z=537.88 Normal: X=-0.03 Y=-0.73 Z=0.68 PenetrationDepth:73.440 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Spine_2 (117 other events since notify)
+[2023.03.21-16.34.33:861][577]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-425.77 Y=-555.62 Z=0.00 Location: X=-572.06 Y=-11076.18 Z=522.73 Normal: X=0.62 Y=-0.79 Z=0.01 PenetrationDepth:115.045 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (119 other events since notify)
+[2023.03.21-16.34.34:494][653]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=149.07 Y=-683.94 Z=0.00 Location: X=-1794.72 Y=-13094.71 Z=561.63 Normal: X=0.15 Y=-0.78 Z=0.60 PenetrationDepth:5.394 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (120 other events since notify)
+[2023.03.21-16.34.34:869][698]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=673.66 Y=-190.22 Z=0.00 Location: X=-572.06 Y=-11076.18 Z=522.73 Normal: X=-0.69 Y=-0.43 Z=0.58 PenetrationDepth:5.510 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Front_2_L (120 other events since notify)
+[2023.03.21-16.34.35:470][770]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=1.79 Y=-34.52 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=-0.24 Y=-0.89 Z=0.40 PenetrationDepth:6.961 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Spine_2 (81 other events since notify)
+[2023.03.21-16.34.35:496][773]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=149.07 Y=-683.94 Z=0.00 Location: X=-1794.72 Y=-13094.71 Z=561.63 Normal: X=0.15 Y=-0.78 Z=0.60 PenetrationDepth:5.676 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.34.35:879][817]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=664.17 Y=-221.10 Z=0.00 Location: X=-499.42 Y=-11062.82 Z=533.37 Normal: X=0.83 Y=-0.38 Z=0.40 PenetrationDepth:15.779 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (44 other events since notify)
+[2023.03.21-16.34.36:479][886]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=28.55 Y=-549.26 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=-0.11 Y=-0.88 Z=0.46 PenetrationDepth:83.301 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Spine_2 (115 other events since notify)
+[2023.03.21-16.34.36:504][889]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=149.07 Y=-683.94 Z=0.00 Location: X=-1794.72 Y=-13094.71 Z=561.63 Normal: X=0.15 Y=-0.78 Z=0.60 PenetrationDepth:6.342 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (115 other events since notify)
+[2023.03.21-16.34.44:506][728]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=5.03 Y=-16.92 Z=0.00 Location: X=-1794.72 Y=-13094.71 Z=561.63 Normal: X=0.20 Y=-0.77 Z=0.61 PenetrationDepth:3.889 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.34.44:507][728]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=1.12 Y=-17.62 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.19 Y=-0.74 Z=0.64 PenetrationDepth:71.384 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (3 other events since notify)
+[2023.03.21-16.34.44:719][752]LogCharacterMovement: Mole_bp_C_53 is stuck and failed to move! Velocity: X=252.24 Y=-554.93 Z=0.00 Location: X=-1778.15 Y=-10818.09 Z=484.11 Normal: X=-0.21 Y=-0.87 Z=0.45 PenetrationDepth:1.542 Actor:Mole_bp_C_43 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.34.44:736][754]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=133.91 Y=-9.71 Z=0.00 Location: X=-406.62 Y=-11046.68 Z=533.48 Normal: X=-0.80 Y=-0.31 Z=0.52 PenetrationDepth:2.077 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Front_2_L (1 other events since notify)
+[2023.03.21-16.34.45:507][840]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=296.49 Y=-634.11 Z=0.00 Location: X=-1794.70 Y=-13094.71 Z=561.63 Normal: X=0.14 Y=-0.76 Z=0.63 PenetrationDepth:16.815 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (110 other events since notify)
+[2023.03.21-16.34.45:507][840]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=62.82 Y=-546.40 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.80 Y=-0.28 Z=0.53 PenetrationDepth:25.879 Actor:Mole_bp_C_53 Component:FPS_HB BoneName:None (111 other events since notify)
+[2023.03.21-16.34.45:723][864]LogCharacterMovement: Mole_bp_C_53 is stuck and failed to move! Velocity: X=140.26 Y=-531.82 Z=0.00 Location: X=-1781.98 Y=-10821.52 Z=484.11 Normal: X=-0.52 Y=-0.67 Z=0.53 PenetrationDepth:46.317 Actor:Mole_bp_C_43 Component:FPS_HB BoneName:None (110 other events since notify)
+[2023.03.21-16.34.46:512][953]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=289.69 Y=-637.12 Z=0.00 Location: X=-1794.70 Y=-13094.71 Z=561.63 Normal: X=-0.16 Y=-0.74 Z=0.65 PenetrationDepth:38.680 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (112 other events since notify)
+[2023.03.21-16.34.46:513][953]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=62.82 Y=-546.40 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.80 Y=-0.27 Z=0.53 PenetrationDepth:24.838 Actor:Mole_bp_C_53 Component:FPS_HB BoneName:None (112 other events since notify)
+[2023.03.21-16.34.46:521][954]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=16.06 Y=-5.78 Z=0.00 Location: X=-464.91 Y=-11057.17 Z=526.43 Normal: X=-0.22 Y=-0.77 Z=0.60 PenetrationDepth:0.160 Actor:Mole_bp_C_42 Component:CharacterMesh0 BoneName:joint_Front_2_L (20 other events since notify)
+[2023.03.21-16.34.47:746][ 91]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=17.96 Y=-6.46 Z=0.00 Location: X=-464.91 Y=-11057.17 Z=526.43 Normal: X=-0.48 Y=-0.65 Z=0.59 PenetrationDepth:1.574 Actor:Mole_bp_C_42 Component:CharacterMesh0 BoneName:joint_Front_2_L (109 other events since notify)
+[2023.03.21-16.34.47:747][ 91]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=2.77 Y=-18.89 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.68 Y=-0.34 Z=0.65 PenetrationDepth:72.207 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (112 other events since notify)
+[2023.03.21-16.34.48:037][123]LogCharacterMovement: Mole_bp_C_57 is stuck and failed to move! Velocity: X=55.44 Y=-3.98 Z=0.00 Location: X=283.39 Y=-19697.67 Z=614.87 Normal: X=-0.14 Y=0.92 Z=0.38 PenetrationDepth:2.127 Actor:Mole_bp_C_59 Component:CharacterMesh0 BoneName:joint_Tail (10 other events since notify)
+[2023.03.21-16.34.48:512][176]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=9.71 Y=-14.68 Z=0.00 Location: X=-1794.70 Y=-13094.71 Z=561.63 Normal: X=0.19 Y=-0.70 Z=0.69 PenetrationDepth:0.370 Actor:Mole_bp_C_48 Component:CharacterMesh0 BoneName:joint_Front_2_L (112 other events since notify)
+[2023.03.21-16.34.48:746][204]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=658.65 Y=-237.01 Z=0.00 Location: X=-464.91 Y=-11057.17 Z=526.43 Normal: X=-0.64 Y=-0.44 Z=0.63 PenetrationDepth:55.054 Actor:Mole_bp_C_42 Component:CharacterMesh0 BoneName:joint_Front_2_L (92 other events since notify)
+[2023.03.21-16.34.48:747][204]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=79.93 Y=-544.16 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.76 Y=0.08 Z=0.65 PenetrationDepth:72.649 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Front_2_R (112 other events since notify)
+[2023.03.21-16.34.49:502][280]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=23.34 Y=-33.19 Z=0.00 Location: X=-1747.88 Y=-12334.11 Z=514.79 Normal: X=0.21 Y=-0.82 Z=0.53 PenetrationDepth:0.941 Actor:Mole_bp_C_53 Component:FPS_HB BoneName:None (1 other events since notify)
+[2023.03.21-16.34.49:521][282]LogCharacterMovement: Mole_bp_C_49 is stuck and failed to move! Velocity: X=155.47 Y=-235.04 Z=0.00 Location: X=-1794.70 Y=-13094.71 Z=561.63 Normal: X=0.06 Y=-0.69 Z=0.73 PenetrationDepth:21.537 Actor:Mole_bp_C_48 Component:CharacterMesh0 BoneName:joint_Front_2_L (64 other events since notify)
+[2023.03.21-16.34.49:753][306]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=658.65 Y=-237.01 Z=0.00 Location: X=-464.91 Y=-11057.17 Z=526.43 Normal: X=-0.83 Y=-0.25 Z=0.50 PenetrationDepth:19.117 Actor:Mole_bp_C_42 Component:CharacterMesh0 BoneName:joint_Front_2_L (61 other events since notify)
+[2023.03.21-16.34.49:754][306]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=79.93 Y=-544.16 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.34 Y=-0.63 Z=0.70 PenetrationDepth:51.929 Actor:Mole_bp_C_43 Component:CharacterMesh0 BoneName:joint_Spine_2 (101 other events since notify)
+[2023.03.21-16.34.50:033][337]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=-233.15 Y=-739.17 Z=0.00 Location: X=2620.37 Y=-21220.09 Z=590.74 Normal: X=0.97 Y=-0.23 Z=0.02 PenetrationDepth:0.000 Actor:Mole_bp_C_59 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.34.50:508][389]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=402.62 Y=-572.62 Z=0.00 Location: X=-1747.88 Y=-12334.11 Z=514.79 Normal: X=-0.06 Y=-0.75 Z=0.66 PenetrationDepth:10.862 Actor:Mole_bp_C_53 Component:CharacterMesh0 BoneName:joint_Spine_2 (108 other events since notify)
+[2023.03.21-16.34.50:545][393]LogCharacterMovement: Mole_bp_C_53 is stuck and failed to move! Velocity: X=8.06 Y=-16.93 Z=0.00 Location: X=-1998.05 Y=-11613.25 Z=487.52 Normal: X=-0.13 Y=0.75 Z=0.65 PenetrationDepth:18.122 Actor:Mole_bp_C_48 Component:CharacterMesh0 BoneName:joint_Tail (88 other events since notify)
+[2023.03.21-16.34.50:759][417]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=79.93 Y=-544.16 Z=0.00 Location: X=-1269.14 Y=-11386.78 Z=502.99 Normal: X=0.29 Y=-0.64 Z=0.71 PenetrationDepth:58.458 Actor:Mole_bp_C_43 Component:CharacterMesh0 BoneName:joint_Spine_2 (110 other events since notify)
+[2023.03.21-16.34.57:605][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-16.34.57:605][192]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.34.57:606][192]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.34.57:606][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.34.57:617][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-16.34.57:622][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.34.57:644][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-16.34.57:644][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.34.57:645][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.34.57:647][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-16.34.57:651][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.21-16.34.57:681][193]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2023.03.21-16.35.10:453][121]BlueprintLog: New page: Compile Player1
+[2023.03.21-16.35.10:496][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.03.21-16.35.11:529][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Mesh/Blueprints/Player1" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Blueprints/Player1.uasset" SILENT=true
+[2023.03.21-16.35.11:573][204]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Player122F43B114805963E7EF1328AA422C1F9.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Player/Mesh/Blueprints/Player1.uasset'
+[2023.03.21-16.35.11:586][204]AssetCheck: New page: Asset Save: Player1
+[2023.03.21-16.35.11:586][204]LogContentValidation: Display: Validating Blueprint /Game/Player/Mesh/Blueprints/Player1.Player1
+[2023.03.21-16.35.13:043][299]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.21-16.35.13:047][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-16.35.13:047][299]PIE: New page: PIE session: Level1_Beach (21 Mar 2023, 16:35:13)
+[2023.03.21-16.35.13:047][299]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.35.13:065][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017582s)
+[2023.03.21-16.35.13:066][299]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.03.21-16.35.13:066][299]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2023.03.21-16.35.13:066][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.018429s)
+[2023.03.21-16.35.13:082][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.03.21-16.35.13:082][299]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-16.35.13:082][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-16.35.13:082][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-16.35.13:083][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-16.35.13:083][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-16.35.13:083][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-16.35.13:083][299]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 4: BackLeft
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 5: BackRight
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 6: SideLeft
+[2023.03.21-16.35.13:085][299]LogAudioMixer: Display: 7: SideRight
+[2023.03.21-16.35.13:090][299]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.21-16.35.13:090][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-16.35.13:090][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-16.35.13:090][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-16.35.13:090][299]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-16.35.13:090][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-16.35.13:090][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.21-16.35.13:091][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-16.35.13:091][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-16.35.13:091][299]LogInit: FAudioDevice initialized.
+[2023.03.21-16.35.13:091][299]LogAudio: Display: Audio Device (ID: 84) registered with world 'Level1_Beach'.
+[2023.03.21-16.35.13:101][299]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.03.21-16.35.13:103][299]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.03.21-16.35.13
+[2023.03.21-16.35.13:103][299]LogWorld: Bringing up level for play took: 0.001913
+[2023.03.21-16.35.13:104][299]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2023.03.21-16.35.13:106][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.13:106][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.13:107][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.13:108][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.13:108][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.13:109][299]PIE: Server logged in
+[2023.03.21-16.35.13:110][299]PIE: Play in editor total start time 0.063 seconds.
+[2023.03.21-16.35.15:034][523]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.15:035][523]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.17:035][763]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.17:036][763]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.18:035][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.18:035][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.18:036][883]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.18:917][989]LogCharacterMovement: Mole_bp_C_5 is stuck and failed to move! Velocity: X=-13.52 Y=84.26 Z=0.00 Location: X=179.20 Y=15644.29 Z=528.22 Normal: X=0.19 Y=-0.79 Z=-0.58 PenetrationDepth:35.716 Actor:Player1_2 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2023.03.21-16.35.19:035][  3]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.19:036][  3]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.19:036][  3]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.21:035][243]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.21:036][243]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.21:036][243]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.23:035][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.23:036][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.23:036][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.23:037][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.23:037][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.25:036][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.25:037][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.25:037][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.28:037][ 83]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.28:037][ 83]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.28:038][ 83]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.29:235][227]LogCharacterMovement: Mole_bp_C_8 is stuck and failed to move! Velocity: X=-1.36 Y=-17.01 Z=0.00 Location: X=103.97 Y=15554.98 Z=544.89 Normal: X=0.13 Y=0.86 Z=-0.49 PenetrationDepth:1.864 Actor:Player1_2 Component:CharacterMesh0 BoneName:LeftUpLeg (0 other events since notify)
+[2023.03.21-16.35.32:734][647]LogNet: Browse: /Game/Levels/Level1_Beach
+[2023.03.21-16.35.32:734][647]LogLoad: LoadMap: /Game/Levels/Level1_Beach
+[2023.03.21-16.35.32:734][647]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.35.32:735][647]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.35.32:736][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.35.32:804][647]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-16.35.32:809][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.21-16.35.32:812][647]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.35.32:830][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016913s)
+[2023.03.21-16.35.32:830][647]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.03.21-16.35.32:830][647]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2023.03.21-16.35.32:830][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.017766s)
+[2023.03.21-16.35.32:830][647]LogAudio: Display: Audio Device (ID: 84) registered with world 'Level1_Beach'.
+[2023.03.21-16.35.32:830][647]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.03.21-16.35.32:832][647]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.03.21-16.35.32
+[2023.03.21-16.35.32:832][647]LogWorld: Bringing up level for play took: 0.001286
+[2023.03.21-16.35.32:833][647]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.21-16.35.32:834][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.32:834][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.32:834][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.32:835][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.32:836][647]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.32:837][647]LogLoad: Took 0.102648 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1_Beach)
+[2023.03.21-16.35.34:729][867]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.34:730][867]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.36:729][107]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.36:730][107]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.37:729][227]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.37:730][227]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.37:730][227]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.38:730][347]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.38:731][347]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.40:730][587]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.40:731][587]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.41:328][659]LogCharacterMovement: Mole_bp_C_11 is stuck and failed to move! Velocity: X=81.15 Y=489.59 Z=0.00 Location: X=1378.13 Y=-14398.23 Z=595.19 Normal: X=-0.17 Y=0.80 Z=0.57 PenetrationDepth:3.959 Actor:Mole_bp_C_19 Component:CharacterMesh0 BoneName:joint_Spine_2 (0 other events since notify)
+[2023.03.21-16.35.42:730][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.42:730][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.42:730][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.42:731][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.42:732][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.42:936][852]LogCharacterMovement: Mole_bp_C_0 is stuck and failed to move! Velocity: X=19.39 Y=96.22 Z=0.00 Location: X=-390.47 Y=-1853.17 Z=640.69 Normal: X=0.32 Y=0.78 Z=0.54 PenetrationDepth:3.995 Actor:Mole_bp_C_15 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.35.44:731][ 67]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.44:731][ 67]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.35.47:731][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.47:731][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.47:732][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.47:762][431]LogCharacterMovement: Mole_bp_C_15 is stuck and failed to move! Velocity: X=244.32 Y=172.76 Z=0.00 Location: X=-582.32 Y=-1956.21 Z=642.62 Normal: X=-0.15 Y=0.81 Z=0.56 PenetrationDepth:5.652 Actor:Mole_bp_C_27 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.35.48:021][462]LogCharacterMovement: Mole_bp_C_19 is stuck and failed to move! Velocity: X=187.46 Y=924.12 Z=0.00 Location: X=1445.54 Y=-11604.59 Z=570.70 Normal: X=-0.00 Y=0.76 Z=0.65 PenetrationDepth:5.610 Actor:Mole_bp_C_26 Component:CharacterMesh0 BoneName:joint_Spine_2 (0 other events since notify)
+[2023.03.21-16.35.52:731][ 27]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.52:731][ 27]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.52:732][ 27]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.35.53:021][ 62]LogCharacterMovement: Mole_bp_C_26 is stuck and failed to move! Velocity: X=7.18 Y=26.18 Z=0.00 Location: X=1681.80 Y=-11292.43 Z=565.25 Normal: X=0.35 Y=0.80 Z=0.48 PenetrationDepth:0.000 Actor:Mole_bp_C_34 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.35.53:455][114]LogCharacterMovement: Mole_bp_C_34 is stuck and failed to move! Velocity: X=-85.53 Y=56.16 Z=0.00 Location: X=1441.44 Y=-11981.51 Z=552.96 Normal: X=0.01 Y=0.89 Z=0.45 PenetrationDepth:1.032 Actor:Mole_bp_C_42 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.36.08:730][947]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1540.524 Y=-16172.164 Z=282.794] for [Mole_bp_C]
+[2023.03.21-16.36.08:997][979]LogCharacterMovement: Mole_bp_C_42 is stuck and failed to move! Velocity: X=-2.51 Y=66.63 Z=0.00 Location: X=1818.28 Y=-4320.07 Z=577.04 Normal: X=-0.75 Y=-0.53 Z=0.38 PenetrationDepth:25.592 Actor:Mole_bp_C_4 Component:CharacterMesh0 BoneName:joint_Tail (0 other events since notify)
+[2023.03.21-16.36.19:040][180]LogCharacterMovement: Mole_bp_C_55 is stuck and failed to move! Velocity: X=14.35 Y=602.17 Z=0.00 Location: X=1598.00 Y=-15048.19 Z=621.25 Normal: X=0.17 Y=0.85 Z=0.50 PenetrationDepth:1.610 Actor:Mole_bp_C_56 Component:CharacterMesh0 BoneName:joint_Spine_2 (0 other events since notify)
+[2023.03.21-16.36.31:875][720]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=0.76 Y=28.78 Z=0.00 Location: X=927.71 Y=-12901.83 Z=541.20 Normal: X=0.40 Y=-0.67 Z=0.62 PenetrationDepth:0.375 Actor:Mole_bp_C_56 Component:CharacterMesh0 BoneName:joint_Tail (0 other events since notify)
+[2023.03.21-16.36.31:875][720]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=18.95 Y=699.74 Z=0.00 Location: X=768.86 Y=-12155.21 Z=569.69 Normal: X=-0.27 Y=0.65 Z=0.71 PenetrationDepth:44.230 Actor:Mole_bp_C_58 Component:CharacterMesh0 BoneName:joint_Spine_2 (0 other events since notify)
+[2023.03.21-16.36.33:267][887]LogCharacterMovement: Mole_bp_C_56 is stuck and failed to move! Velocity: X=380.24 Y=459.65 Z=0.00 Location: X=1053.04 Y=-11671.09 Z=560.79 Normal: X=0.20 Y=0.84 Z=0.50 PenetrationDepth:0.000 Actor:Mole_bp_C_58 Component:FPS_HB BoneName:None (38 other events since notify)
+[2023.03.21-16.36.42:059][942]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=136.12 Y=-196.33 Z=0.00 Location: X=-1547.67 Y=-6738.13 Z=542.14 Normal: X=-0.99 Y=-0.14 Z=-0.00 PenetrationDepth:4.991 Actor:Mole_bp_C_56 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.36.43:068][ 63]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=827.58 Y=-561.35 Z=0.00 Location: X=-1547.67 Y=-6738.13 Z=542.14 Normal: X=-0.98 Y=-0.21 Z=-0.00 PenetrationDepth:118.427 Actor:Mole_bp_C_56 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.36.43:109][ 68]LogCharacterMovement: Mole_bp_C_55 is stuck and failed to move! Velocity: X=-168.24 Y=-63.06 Z=0.00 Location: X=-423.78 Y=-6142.55 Z=515.73 Normal: X=-0.07 Y=-0.86 Z=0.50 PenetrationDepth:15.226 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Spine_2 (9 other events since notify)
+[2023.03.21-16.36.43:618][129]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-242.87 Y=51.60 Z=0.00 Location: X=-842.32 Y=-7337.47 Z=483.68 Normal: X=-0.86 Y=0.07 Z=0.50 PenetrationDepth:1.749 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Front_2_R (40 other events since notify)
+[2023.03.21-16.36.44:043][180]LogCharacterMovement: Mole_bp_C_52 is stuck and failed to move! Velocity: X=-348.83 Y=28.63 Z=0.00 Location: X=-186.89 Y=-6981.74 Z=527.92 Normal: X=-0.24 Y=0.68 Z=0.69 PenetrationDepth:1.952 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_L (0 other events since notify)
+[2023.03.21-16.36.44:752][265]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-464.18 Y=523.96 Z=0.00 Location: X=-1364.62 Y=-6882.02 Z=483.99 Normal: X=-0.85 Y=-0.52 Z=0.00 PenetrationDepth:12.532 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_R (19 other events since notify)
+[2023.03.21-16.36.45:760][386]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-548.13 Y=435.38 Z=0.00 Location: X=-1364.62 Y=-6882.02 Z=483.99 Normal: X=-0.27 Y=-0.96 Z=0.07 PenetrationDepth:222.683 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_R (120 other events since notify)
+[2023.03.21-16.36.45:760][386]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-176.77 Y=88.29 Z=0.00 Location: X=-234.77 Y=-7745.48 Z=484.75 Normal: X=0.06 Y=-0.91 Z=0.42 PenetrationDepth:1.510 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Tail (0 other events since notify)
+[2023.03.21-16.36.46:226][442]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=-80.99 Y=-19.02 Z=0.00 Location: X=-2417.14 Y=-6054.37 Z=542.15 Normal: X=-0.33 Y=-0.85 Z=0.41 PenetrationDepth:114.186 Actor:SM-Rock-8_41 Component:StaticMeshComponent0 BoneName:None (20 other events since notify)
+[2023.03.21-16.36.46:760][506]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-550.90 Y=431.87 Z=0.00 Location: X=-1365.04 Y=-6879.14 Z=483.99 Normal: X=-0.86 Y=-0.00 Z=0.52 PenetrationDepth:133.969 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Spine_2 (114 other events since notify)
+[2023.03.21-16.36.46:760][506]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-274.73 Y=216.85 Z=0.00 Location: X=-310.68 Y=-7717.03 Z=515.93 Normal: X=-0.12 Y=0.79 Z=0.60 PenetrationDepth:33.921 Actor:Mole_bp_C_57 Component:FPS_HB BoneName:None (44 other events since notify)
+[2023.03.21-16.36.47:685][617]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=192.07 Y=-160.38 Z=0.00 Location: X=-2401.04 Y=-6066.99 Z=541.90 Normal: X=-0.99 Y=0.15 Z=0.02 PenetrationDepth:0.228 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (36 other events since notify)
+[2023.03.21-16.36.47:761][626]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.66 Y=429.61 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=0.23 Y=0.76 Z=0.61 PenetrationDepth:18.493 Actor:Mole_bp_C_60 Component:CharacterMesh0 BoneName:joint_Front_2_L (108 other events since notify)
+[2023.03.21-16.36.47:769][627]LogCharacterMovement: Mole_bp_C_55 is stuck and failed to move! Velocity: X=-16.95 Y=2.01 Z=0.00 Location: X=-1761.05 Y=-6133.30 Z=482.09 Normal: X=0.78 Y=0.06 Z=-0.62 PenetrationDepth:5.063 Actor:Player1_2 Component:CharacterMesh0 BoneName:LeftHand (79 other events since notify)
+[2023.03.21-16.36.48:775][708]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.89 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=0.24 Y=0.76 Z=0.61 PenetrationDepth:15.006 Actor:Mole_bp_C_60 Component:CharacterMesh0 BoneName:joint_Front_2_L (81 other events since notify)
+[2023.03.21-16.36.48:781][709]LogCharacterMovement: Mole_bp_C_55 is stuck and failed to move! Velocity: X=-26.21 Y=5.16 Z=0.00 Location: X=-1834.05 Y=-6169.00 Z=504.34 Normal: X=-0.74 Y=-0.34 Z=0.58 PenetrationDepth:106.351 Actor:Mole_bp_C_51 Component:CharacterMesh0 BoneName:joint_Spine_2 (62 other events since notify)
+[2023.03.21-16.36.49:200][741]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=-579.20 Y=6.52 Z=0.00 Location: X=-2416.30 Y=-6054.29 Z=554.88 Normal: X=-0.97 Y=0.24 Z=0.02 PenetrationDepth:133.978 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (1 other events since notify)
+[2023.03.21-16.36.49:774][810]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.89 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=0.24 Y=0.76 Z=0.60 PenetrationDepth:10.158 Actor:Mole_bp_C_60 Component:CharacterMesh0 BoneName:joint_Front_2_L (101 other events since notify)
+[2023.03.21-16.36.50:208][862]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=-853.93 Y=-520.39 Z=0.00 Location: X=-2416.30 Y=-6054.29 Z=554.88 Normal: X=-0.96 Y=0.28 Z=-0.00 PenetrationDepth:136.010 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (91 other events since notify)
+[2023.03.21-16.36.50:325][876]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-9.35 Y=14.27 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.93 Y=-0.06 Z=0.36 PenetrationDepth:1.393 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.36.50:782][931]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.89 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=0.24 Y=0.77 Z=0.60 PenetrationDepth:6.526 Actor:Mole_bp_C_60 Component:CharacterMesh0 BoneName:joint_Front_2_L (120 other events since notify)
+[2023.03.21-16.36.51:108][970]LogCharacterMovement: Mole_bp_C_57 is stuck and failed to move! Velocity: X=-71.49 Y=50.28 Z=0.00 Location: X=-475.18 Y=-8271.17 Z=484.80 Normal: X=-0.14 Y=-0.88 Z=0.45 PenetrationDepth:0.457 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Tail (0 other events since notify)
+[2023.03.21-16.36.51:215][983]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=-823.12 Y=-567.87 Z=0.00 Location: X=-2416.30 Y=-6054.29 Z=554.88 Normal: X=-0.96 Y=0.28 Z=-0.00 PenetrationDepth:136.010 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (120 other events since notify)
+[2023.03.21-16.36.51:333][997]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-383.67 Y=585.49 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.91 Y=-0.12 Z=0.39 PenetrationDepth:144.142 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (120 other events since notify)
+[2023.03.21-16.36.51:791][ 52]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.89 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=0.24 Y=0.77 Z=0.59 PenetrationDepth:3.676 Actor:Mole_bp_C_60 Component:CharacterMesh0 BoneName:joint_Front_2_L (120 other events since notify)
+[2023.03.21-16.36.51:859][ 60]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=-185.41 Y=-296.86 Z=0.00 Location: X=-2018.67 Y=-5417.66 Z=522.45 Normal: X=0.20 Y=0.90 Z=0.39 PenetrationDepth:1.784 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_L (0 other events since notify)
+[2023.03.21-16.36.52:224][104]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=84.61 Y=-996.41 Z=0.00 Location: X=-2416.30 Y=-6054.29 Z=554.88 Normal: X=-0.96 Y=0.28 Z=-0.00 PenetrationDepth:136.010 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (120 other events since notify)
+[2023.03.21-16.36.52:341][118]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-121.61 Y=185.57 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.85 Y=-0.12 Z=0.51 PenetrationDepth:111.621 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (120 other events since notify)
+[2023.03.21-16.36.52:800][173]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.89 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=-0.69 Y=-0.38 Z=0.62 PenetrationDepth:63.824 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Spine_2 (120 other events since notify)
+[2023.03.21-16.36.52:861][180]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=-179.36 Y=-300.55 Z=0.00 Location: X=-2032.41 Y=-5411.01 Z=497.19 Normal: X=0.18 Y=0.92 Z=0.34 PenetrationDepth:11.698 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_L (62 other events since notify)
+[2023.03.21-16.36.52:884][183]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-264.65 Y=229.04 Z=0.00 Location: X=-762.91 Y=-7485.24 Z=484.56 Normal: X=-0.28 Y=0.75 Z=0.59 PenetrationDepth:2.932 Actor:Mole_bp_C_57 Component:CharacterMesh0 BoneName:joint_Front_2_L (21 other events since notify)
+[2023.03.21-16.36.53:228][224]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=-524.08 Y=661.83 Z=0.00 Location: X=-2416.30 Y=-6054.29 Z=554.88 Normal: X=-0.96 Y=0.28 Z=-0.00 PenetrationDepth:136.009 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.36.53:348][238]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-383.67 Y=585.49 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.70 Y=-0.27 Z=0.66 PenetrationDepth:111.851 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (119 other events since notify)
+[2023.03.21-16.36.53:805][293]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.88 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=-0.69 Y=-0.39 Z=0.61 PenetrationDepth:66.000 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Spine_2 (119 other events since notify)
+[2023.03.21-16.36.53:866][300]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=-178.55 Y=-301.03 Z=0.00 Location: X=-2034.28 Y=-5410.22 Z=494.10 Normal: X=0.18 Y=0.92 Z=0.34 PenetrationDepth:17.644 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_L (65 other events since notify)
+[2023.03.21-16.36.54:023][319]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-267.47 Y=225.74 Z=0.00 Location: X=-772.18 Y=-7441.95 Z=505.82 Normal: X=0.03 Y=0.71 Z=0.70 PenetrationDepth:41.759 Actor:Mole_bp_C_57 Component:CharacterMesh0 BoneName:joint_Front_2_L (110 other events since notify)
+[2023.03.21-16.36.54:231][344]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=346.32 Y=-938.12 Z=0.00 Location: X=-2416.30 Y=-6054.30 Z=554.88 Normal: X=-0.96 Y=0.28 Z=0.00 PenetrationDepth:136.009 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.36.54:349][358]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-383.67 Y=585.49 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.68 Y=-0.39 Z=0.62 PenetrationDepth:121.990 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (119 other events since notify)
+[2023.03.21-16.36.54:809][413]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.88 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=-0.66 Y=-0.43 Z=0.62 PenetrationDepth:43.456 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Spine_2 (119 other events since notify)
+[2023.03.21-16.36.54:869][420]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=-179.66 Y=-300.37 Z=0.00 Location: X=-2031.68 Y=-5411.28 Z=498.38 Normal: X=0.19 Y=0.92 Z=0.35 PenetrationDepth:20.772 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_L (66 other events since notify)
+[2023.03.21-16.36.55:027][439]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-271.64 Y=220.71 Z=0.00 Location: X=-791.72 Y=-7374.26 Z=511.36 Normal: X=0.27 Y=0.71 Z=0.66 PenetrationDepth:3.310 Actor:Mole_bp_C_57 Component:CharacterMesh0 BoneName:joint_Front_2_L (58 other events since notify)
+[2023.03.21-16.36.55:236][464]LogCharacterMovement: Player1_2 is stuck and failed to move! Velocity: X=106.61 Y=-104.04 Z=0.00 Location: X=-2416.30 Y=-6054.30 Z=554.88 Normal: X=-0.96 Y=0.28 Z=-0.00 PenetrationDepth:136.009 Actor:Mole_bp_C_55 Component:FPS_HB BoneName:None (119 other events since notify)
+[2023.03.21-16.36.55:353][478]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-383.67 Y=585.49 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.62 Y=-0.53 Z=0.58 PenetrationDepth:117.802 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (119 other events since notify)
+[2023.03.21-16.36.55:811][533]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.88 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=-0.63 Y=-0.50 Z=0.59 PenetrationDepth:64.343 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Spine_2 (119 other events since notify)
+[2023.03.21-16.36.55:871][540]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=-181.22 Y=-299.43 Z=0.00 Location: X=-2028.18 Y=-5413.01 Z=504.48 Normal: X=0.21 Y=0.91 Z=0.37 PenetrationDepth:23.426 Actor:Mole_bp_C_55 Component:CharacterMesh0 BoneName:joint_Front_2_L (64 other events since notify)
+[2023.03.21-16.36.56:029][559]LogCharacterMovement: Mole_bp_C_54 is stuck and failed to move! Velocity: X=-199.92 Y=162.87 Z=0.00 Location: X=-791.21 Y=-7373.38 Z=516.27 Normal: X=0.24 Y=0.68 Z=0.70 PenetrationDepth:23.106 Actor:Mole_bp_C_57 Component:CharacterMesh0 BoneName:joint_Front_2_L (45 other events since notify)
+[2023.03.21-16.36.56:353][598]LogCharacterMovement: Mole_bp_C_60 is stuck and failed to move! Velocity: X=-383.67 Y=585.49 Z=0.00 Location: X=-1514.26 Y=-7620.62 Z=483.82 Normal: X=-0.61 Y=-0.54 Z=0.58 PenetrationDepth:118.222 Actor:Mole_bp_C_54 Component:CharacterMesh0 BoneName:joint_Front_2_R (119 other events since notify)
+[2023.03.21-16.36.56:811][653]LogCharacterMovement: Mole_bp_C_58 is stuck and failed to move! Velocity: X=-552.45 Y=429.88 Z=0.00 Location: X=-1365.82 Y=-6871.72 Z=484.14 Normal: X=-0.62 Y=-0.50 Z=0.61 PenetrationDepth:39.479 Actor:Mole_bp_C_52 Component:CharacterMesh0 BoneName:joint_Spine_2 (119 other events since notify)
+[2023.03.21-16.36.56:855][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-16.36.56:855][655]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.36.56:857][655]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.36.56:857][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.36.56:864][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-16.36.56:867][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.36.56:884][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-16.36.56:884][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.36.56:885][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.36.56:890][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.21-16.36.56:966][657]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2023.03.21-16.36.58:335][745]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.21-16.36.58:339][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.21-16.36.58:339][745]PIE: New page: PIE session: Level1_Beach (21 Mar 2023, 16:36:58)
+[2023.03.21-16.36.58:365][745]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.36.58:383][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017114s)
+[2023.03.21-16.36.58:383][745]LogAIModule: Creating AISystem for world Level1_Beach
+[2023.03.21-16.36.58:383][745]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2023.03.21-16.36.58:383][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1_Beach.Level1_Beach to /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach (0.018009s)
+[2023.03.21-16.36.58:397][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.21-16.36.58:397][745]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.21-16.36.58:397][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.21-16.36.58:397][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.21-16.36.58:398][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.21-16.36.58:398][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.21-16.36.58:398][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.21-16.36.58:398][745]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 1: FrontRight
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 2: FrontCenter
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 3: LowFrequency
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 4: BackLeft
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 5: BackRight
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 6: SideLeft
+[2023.03.21-16.36.58:400][745]LogAudioMixer: Display: 7: SideRight
+[2023.03.21-16.36.58:405][745]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.03.21-16.36.58:405][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.21-16.36.58:405][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.21-16.36.58:405][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.21-16.36.58:407][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.21-16.36.58:407][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.21-16.36.58:407][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.03.21-16.36.58:407][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.21-16.36.58:407][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.21-16.36.58:407][745]LogInit: FAudioDevice initialized.
+[2023.03.21-16.36.58:407][745]LogAudio: Display: Audio Device (ID: 85) registered with world 'Level1_Beach'.
+[2023.03.21-16.36.58:419][745]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.03.21-16.36.58:421][745]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1_Beach.Level1_Beach up for play (max tick rate 0) at 2023.03.21-16.36.58
+[2023.03.21-16.36.58:421][745]LogWorld: Bringing up level for play took: 0.002063
+[2023.03.21-16.36.58:421][745]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2023.03.21-16.36.58:424][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.36.58:425][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.36.58:425][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.36.58:426][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.36.58:427][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.36.58:428][745]PIE: Server logged in
+[2023.03.21-16.36.58:429][745]PIE: Play in editor total start time 0.089 seconds.
+[2023.03.21-16.37.00:327][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.00:328][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.02:328][209]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.02:329][209]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.03:329][329]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.03:329][329]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.03:330][329]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.04:328][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.04:329][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.04:329][449]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.06:329][689]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.06:330][689]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.08:329][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.08:329][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.08:330][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.08:330][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.08:331][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.10:329][169]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.10:330][169]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=375.612 Y=12946.932 Z=309.828] for [Mole_bp_C]
+[2023.03.21-16.37.13:330][529]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.13:330][529]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.13:330][529]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.18:330][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.18:331][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.18:331][125]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-842.575 Y=-5564.021 Z=243.284] for [Mole_bp_C]
+[2023.03.21-16.37.20:037][330]LogCharacterMovement: Mole_bp_C_19 is stuck and failed to move! Velocity: X=0.00 Y=34.60 Z=0.00 Location: X=1811.62 Y=-7275.76 Z=553.44 Normal: X=0.07 Y=0.73 Z=0.68 PenetrationDepth:5.520 Actor:Mole_bp_C_26 Component:CharacterMesh0 BoneName:joint_Front_2_L (0 other events since notify)
+[2023.03.21-16.37.21:045][451]LogCharacterMovement: Mole_bp_C_19 is stuck and failed to move! Velocity: X=0.03 Y=204.80 Z=0.00 Location: X=1974.13 Y=-6939.66 Z=581.86 Normal: X=0.53 Y=0.34 Z=0.78 PenetrationDepth:18.079 Actor:Mole_bp_C_26 Component:CharacterMesh0 BoneName:joint_Front_2_L (34 other events since notify)
+[2023.03.21-16.37.30:688][608]LogCharacterMovement: Mole_bp_C_26 is stuck and failed to move! Velocity: X=-521.18 Y=467.01 Z=0.00 Location: X=430.00 Y=-1396.52 Z=553.22 Normal: X=-0.69 Y=-0.31 Z=0.66 PenetrationDepth:0.071 Actor:Mole_bp_C_19 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.37.32:145][783]LogCharacterMovement: Mole_bp_C_26 is stuck and failed to move! Velocity: X=-30.48 Y=15.36 Z=0.00 Location: X=-327.25 Y=-1167.64 Z=644.26 Normal: X=-0.71 Y=-0.10 Z=0.69 PenetrationDepth:5.126 Actor:Mole_bp_C_19 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.37.33:146][903]LogCharacterMovement: Mole_bp_C_26 is stuck and failed to move! Velocity: X=-625.40 Y=314.44 Z=0.00 Location: X=-327.34 Y=-1167.22 Z=644.26 Normal: X=-0.63 Y=-0.16 Z=0.76 PenetrationDepth:58.445 Actor:Mole_bp_C_19 Component:CharacterMesh0 BoneName:joint_Front_2_R (115 other events since notify)
+[2023.03.21-16.37.34:145][ 23]LogCharacterMovement: Mole_bp_C_26 is stuck and failed to move! Velocity: X=-625.71 Y=313.83 Z=0.00 Location: X=-327.44 Y=-1166.77 Z=644.26 Normal: X=-0.56 Y=-0.34 Z=0.76 PenetrationDepth:72.925 Actor:Mole_bp_C_19 Component:CharacterMesh0 BoneName:joint_Front_2_R (113 other events since notify)
+[2023.03.21-16.37.36:829][345]LogCharacterMovement: Mole_bp_C_50 is stuck and failed to move! Velocity: X=346.06 Y=576.70 Z=0.00 Location: X=838.46 Y=-9116.60 Z=516.72 Normal: X=-0.82 Y=0.40 Z=0.40 PenetrationDepth:0.000 Actor:Mole_bp_C_49 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.37.41:137][862]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=247.19 Y=51.42 Z=0.00 Location: X=-1074.32 Y=-2047.30 Z=642.66 Normal: X=-0.87 Y=-0.08 Z=0.48 PenetrationDepth:0.657 Actor:Mole_bp_C_42 Component:CharacterMesh0 BoneName:joint_Tail (0 other events since notify)
+[2023.03.21-16.37.45:195][349]LogCharacterMovement: Mole_bp_C_50 is stuck and failed to move! Velocity: X=427.53 Y=25.40 Z=0.00 Location: X=2064.60 Y=-4447.78 Z=585.62 Normal: X=0.05 Y=-0.78 Z=0.63 PenetrationDepth:0.000 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (10 other events since notify)
+[2023.03.21-16.37.45:504][386]LogCharacterMovement: Mole_bp_C_53 is stuck and failed to move! Velocity: X=0.85 Y=17.05 Z=0.00 Location: X=1738.29 Y=-12672.43 Z=550.03 Normal: X=0.16 Y=0.88 Z=0.45 PenetrationDepth:0.000 Actor:Mole_bp_C_54 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.37.51:171][ 66]LogCharacterMovement: Mole_bp_C_50 is stuck and failed to move! Velocity: X=-194.60 Y=-877.84 Z=0.00 Location: X=3476.82 Y=-7800.07 Z=693.76 Normal: X=0.27 Y=-0.79 Z=0.55 PenetrationDepth:5.209 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (0 other events since notify)
+[2023.03.21-16.37.51:295][ 81]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=58.37 Y=-546.89 Z=0.00 Location: X=3240.24 Y=-7071.66 Z=655.27 Normal: X=0.61 Y=-0.55 Z=0.57 PenetrationDepth:3.550 Actor:Mole_bp_C_43 Component:CharacterMesh0 BoneName:joint_Front_2_R (0 other events since notify)
+[2023.03.21-16.37.52:187][188]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=-31.83 Y=-161.14 Z=0.00 Location: X=2634.83 Y=-6891.10 Z=637.74 Normal: X=0.55 Y=0.73 Z=0.41 PenetrationDepth:20.545 Actor:Mole_bp_C_49 Component:CharacterMesh0 BoneName:joint_Tail (2 other events since notify)
+[2023.03.21-16.37.52:330][205]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1540.524 Y=-16172.164 Z=282.794] for [Mole_bp_C]
+[2023.03.21-16.37.53:188][308]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=31.05 Y=-404.94 Z=0.00 Location: X=2645.74 Y=-6968.17 Z=635.54 Normal: X=0.53 Y=0.72 Z=0.46 PenetrationDepth:35.015 Actor:Mole_bp_C_49 Component:CharacterMesh0 BoneName:joint_Tail (19 other events since notify)
+[2023.03.21-16.37.54:037][410]LogCharacterMovement: Mole_bp_C_48 is stuck and failed to move! Velocity: X=40.22 Y=-339.92 Z=0.00 Location: X=3606.96 Y=-7126.97 Z=649.97 Normal: X=0.85 Y=0.41 Z=0.33 PenetrationDepth:10.937 Actor:Mole_bp_C_43 Component:CharacterMesh0 BoneName:joint_Front_2_R (13 other events since notify)
+[2023.03.21-16.38.04:458][654]LogCharacterMovement: Mole_bp_C_43 is stuck and failed to move! Velocity: X=159.83 Y=-3.09 Z=0.00 Location: X=2631.07 Y=-13068.80 Z=544.28 Normal: X=-0.68 Y=-0.64 Z=0.34 PenetrationDepth:3.331 Actor:Mole_bp_C_48 Component:FPS_HB BoneName:None (43 other events since notify)
+[2023.03.21-16.38.04:636][674]LogNet: Browse: /Game/Levels/Level2_City
+[2023.03.21-16.38.04:636][674]LogLoad: LoadMap: /Game/Levels/Level2_City
+[2023.03.21-16.38.04:636][674]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1_Beach
+[2023.03.21-16.38.04:636][674]LogWorld: UWorld::CleanupWorld for Level1_Beach, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.38.04:637][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.38.04:691][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.21-16.38.04:696][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.03.21-16.38.04:725][674]LogAudio: Display: Audio Device (ID: 85) registered with world 'Level2_City'.
+[2023.03.21-16.38.04:726][674]LogAIModule: Creating AISystem for world Level2_City
+[2023.03.21-16.38.04:726][674]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.03.21-16.38.04:730][674]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.03.21-16.38.04
+[2023.03.21-16.38.04:731][674]LogWorld: Bringing up level for play took: 0.004329
+[2023.03.21-16.38.04:731][674]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.21-16.38.04:732][674]LogLoad: Took 0.096154 seconds to LoadMap(/Game/Levels/Level2_City)
+[2023.03.21-16.38.12:286][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-16.38.12:286][569]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.03.21-16.38.12:286][569]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.38.12:286][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.38.12:297][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.21-16.38.12:301][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.38.12:319][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.21-16.38.12:320][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.38.12:321][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.38.12:325][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.21-16.38.12:403][571]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2023.03.21-16.38.50:438][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.03.21-16.38.50:564][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1_Beach" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.21-16.38.50:580][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.21-16.38.50:649][100]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level1_BeachF9D3B00C4FE5A5C7A87D48A65939115F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level1_Beach.umap'
+[2023.03.21-16.38.50:657][100]LogFileHelpers: Saving map 'Level1_Beach' took 0.093
+[2023.03.21-16.38.50:674][100]AssetCheck: New page: Asset Save: Level1_Beach
+[2023.03.21-16.38.50:674][100]LogContentValidation: Display: Validating World /Game/Levels/Level1_Beach.Level1_Beach
+[2023.03.21-16.39.01:566][781]Cmd: SELECT NONE
+[2023.03.21-16.40.25:314][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.21-16.40.25:364][901]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.25:364][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.21-16.40.25:431][901]LogSlate: Window 'Assignment_3D_Game - Unreal Editor' being destroyed
+[2023.03.21-16.40.25:586][902]Cmd: QUIT_EDITOR
+[2023.03.21-16.40.25:586][902]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.21-16.40.25:591][902]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.21-16.40.26:096][902]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.21-16.40.26:096][902]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.21-16.40.26:096][902]LogAudio: Display: Audio Device unregistered from world 'Level1_Beach'.
+[2023.03.21-16.40.26:096][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.40.26:097][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.21-16.40.26:103][902]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.21-16.40.26:103][902]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.21-16.40.26:108][902]LogExit: Preparing to exit.
+[2023.03.21-16.40.26:793][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.03.21-16.40.26:999][902]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:002][902]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:005][902]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:008][902]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:009][902]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:011][902]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:013][902]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:014][902]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:015][902]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:018][902]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:019][902]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:020][902]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:021][902]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:022][902]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:023][902]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:031][902]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:091][902]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.21-16.40.27:091][902]LogExit: Editor shut down
+[2023.03.21-16.40.27:092][902]LogExit: Transaction tracking system shut down
+[2023.03.21-16.40.27:096][902]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.21-16.40.27:644][902]LogExit: Object subsystem successfully closed.
+[2023.03.21-16.40.27:664][902]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.21-16.40.27:664][902]LogShaderCompilers: Display: Total job queries 2591, among them cache hits 1783 (68.82%)
+[2023.03.21-16.40.27:664][902]LogShaderCompilers: Display: Tracking 698 distinct input hashes that result in 385 distinct outputs (55.16%)
+[2023.03.21-16.40.27:664][902]LogShaderCompilers: Display: RAM used: 2.52 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2023.03.21-16.40.27:664][902]LogShaderCompilers: Display: ================================================
+[2023.03.21-16.40.27:685][902]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (908)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (906)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (904)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module PinnedCommandList (902)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module SkeletonEditor (900)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module AnimationEditor (898)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (896)
+[2023.03.21-16.40.27:722][902]LogModuleManager: Shutting down and abandoning module Voice (894)
+[2023.03.21-16.40.27:723][902]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (892)
+[2023.03.21-16.40.27:723][902]LogModuleManager: Shutting down and abandoning module SequencerWidgets (890)
+[2023.03.21-16.40.27:723][902]LogModuleManager: Shutting down and abandoning module BlueprintGraph (888)
+[2023.03.21-16.40.27:723][902]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (886)
+[2023.03.21-16.40.27:723][902]LogModuleManager: Shutting down and abandoning module SceneOutliner (884)
+[2023.03.21-16.40.27:723][902]LogModuleManager: Shutting down and abandoning module AddContentDialog (882)
+[2023.03.21-16.40.27:726][902]LogModuleManager: Shutting down and abandoning module WidgetCarousel (881)
+[2023.03.21-16.40.27:726][902]LogModuleManager: Shutting down and abandoning module EditorWidgets (878)
+[2023.03.21-16.40.27:726][902]LogModuleManager: Shutting down and abandoning module StatsViewer (876)
+[2023.03.21-16.40.27:726][902]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (874)
+[2023.03.21-16.40.27:726][902]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (872)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module AutomationWorker (870)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module SteamVREditor (868)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module OculusMR (866)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (864)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module TakeRecorder (863)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (860)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module TakesCore (858)
+[2023.03.21-16.40.27:727][902]LogModuleManager: Shutting down and abandoning module OpenXRInput (856)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module GooglePADEditor (854)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (852)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (846)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (844)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (842)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (840)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (838)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module WebMMedia (836)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (834)
+[2023.03.21-16.40.27:728][902]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (832)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (830)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module SequenceRecorder (829)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (826)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (824)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (822)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (820)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (818)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (816)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module WaterEditor (814)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (812)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (810)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (808)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (806)
+[2023.03.21-16.40.27:729][902]LogModuleManager: Shutting down and abandoning module PlanarCut (804)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module CharacterAI (802)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module TextureAlignMode (800)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module BspMode (798)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module GeometryMode (796)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (794)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2023.03.21-16.40.27:730][902]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2023.03.21-16.40.27:750][902]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module FoliageEdit (784)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module LandscapeEditor (782)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module MeshPaintMode (780)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module PlacementMode (774)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module ViewportSnapping (772)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2023.03.21-16.40.27:751][902]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2023.03.21-16.40.27:752][902]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2023.03.21-16.40.27:752][902]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2023.03.21-16.40.27:753][902]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2023.03.21-16.40.27:753][902]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (761)
+[2023.03.21-16.40.27:753][902]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (758)
+[2023.03.21-16.40.27:753][902]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (756)
+[2023.03.21-16.40.27:753][902]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (754)
+[2023.03.21-16.40.27:753][902]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (753)
+[2023.03.21-16.40.28:199][902]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (750)
+[2023.03.21-16.40.28:199][902]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (748)
+[2023.03.21-16.40.28:199][902]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (746)
+[2023.03.21-16.40.28:199][902]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (744)
+[2023.03.21-16.40.28:199][902]LogModuleManager: Shutting down and abandoning module TraceInsights (742)
+[2023.03.21-16.40.28:209][902]MemoryProfiler: Shutdown
+[2023.03.21-16.40.28:209][902]NetworkingProfiler: Shutdown
+[2023.03.21-16.40.28:209][902]LoadingProfiler: Shutdown
+[2023.03.21-16.40.28:209][902]TimingProfiler: Shutdown
+[2023.03.21-16.40.28:210][902]LogModuleManager: Shutting down and abandoning module TraceServices (741)
+[2023.03.21-16.40.28:211][902]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (738)
+[2023.03.21-16.40.28:211][902]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (736)
+[2023.03.21-16.40.28:211][902]LogModuleManager: Shutting down and abandoning module InputBindingEditor (734)
+[2023.03.21-16.40.28:211][902]LogModuleManager: Shutting down and abandoning module MergeActors (732)
+[2023.03.21-16.40.28:211][902]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (730)
+[2023.03.21-16.40.28:211][902]LogModuleManager: Shutting down and abandoning module LocalizationService (729)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module HardwareTargeting (726)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (724)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module UndoHistory (722)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module XmlParser (720)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module Blutility (718)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (716)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (715)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (712)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (711)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module SettingsEditor (708)
+[2023.03.21-16.40.28:212][902]LogModuleManager: Shutting down and abandoning module ProjectLauncher (706)
+[2023.03.21-16.40.28:213][902]LogModuleManager: Shutting down and abandoning module SessionFrontend (704)
+[2023.03.21-16.40.28:213][902]LogModuleManager: Shutting down and abandoning module ProfilerClient (702)
+[2023.03.21-16.40.28:213][902]LogModuleManager: Shutting down and abandoning module DeviceManager (700)
+[2023.03.21-16.40.28:213][902]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (699)
+[2023.03.21-16.40.28:245][902]LogModuleManager: Shutting down and abandoning module AutomationController (696)
+[2023.03.21-16.40.28:245][902]LogModuleManager: Shutting down and abandoning module AutomationWindow (694)
+[2023.03.21-16.40.28:245][902]LogModuleManager: Shutting down and abandoning module Layers (692)
+[2023.03.21-16.40.28:247][902]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (690)
+[2023.03.21-16.40.28:247][902]LogModuleManager: Shutting down and abandoning module DetailCustomizations (688)
+[2023.03.21-16.40.28:247][902]LogModuleManager: Shutting down and abandoning module PackagesDialog (686)
+[2023.03.21-16.40.28:247][902]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (684)
+[2023.03.21-16.40.28:247][902]LogModuleManager: Shutting down and abandoning module Persona (682)
+[2023.03.21-16.40.28:248][902]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (681)
+[2023.03.21-16.40.28:248][902]LogModuleManager: Shutting down and abandoning module AnimGraph (679)
+[2023.03.21-16.40.28:248][902]LogModuleManager: Shutting down and abandoning module Kismet (676)
+[2023.03.21-16.40.28:261][902]LogModuleManager: Shutting down and abandoning module KismetWidgets (675)
+[2023.03.21-16.40.28:261][902]LogModuleManager: Shutting down and abandoning module GraphEditor (672)
+[2023.03.21-16.40.28:261][902]LogModuleManager: Shutting down and abandoning module StructViewer (670)
+[2023.03.21-16.40.28:261][902]LogModuleManager: Shutting down and abandoning module ClassViewer (668)
+[2023.03.21-16.40.28:263][902]LogModuleManager: Shutting down and abandoning module Toolbox (666)
+[2023.03.21-16.40.28:263][902]LogModuleManager: Shutting down and abandoning module ModuleUI (664)
+[2023.03.21-16.40.28:263][902]LogModuleManager: Shutting down and abandoning module OutputLog (662)
+[2023.03.21-16.40.28:289][902]LogModuleManager: Shutting down and abandoning module GammaUI (660)
+[2023.03.21-16.40.28:289][902]LogModuleManager: Shutting down and abandoning module Documentation (658)
+[2023.03.21-16.40.28:295][902]LogModuleManager: Shutting down and abandoning module LiveCoding (656)
+[2023.03.21-16.40.28:295][902]LogModuleManager: Shutting down and abandoning module LevelSequence (654)
+[2023.03.21-16.40.28:295][902]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (652)
+[2023.03.21-16.40.28:295][902]LogModuleManager: Shutting down and abandoning module MovieScene (650)
+[2023.03.21-16.40.28:295][902]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (648)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module LauncherPlatform (646)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module AnalyticsET (644)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module PortalServices (642)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module PortalRpc (640)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module MessagingRpc (638)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (636)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module AudioMixerCore (635)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module AIModule (632)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module GameplayDebugger (631)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module AITestSuite (629)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module NavigationSystem (627)
+[2023.03.21-16.40.28:296][902]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (624)
+[2023.03.21-16.40.28:302][902]LogModuleManager: Shutting down and abandoning module ProfilerService (622)
+[2023.03.21-16.40.28:395][902]LogModuleManager: Shutting down and abandoning module TaskGraph (620)
+[2023.03.21-16.40.28:395][902]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (618)
+[2023.03.21-16.40.28:395][902]LogModuleManager: Shutting down and abandoning module OculusEditor (616)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module OculusInput (614)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (612)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (610)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (608)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module CollectionManager (607)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module TakeSequencer (604)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module TakeMovieScene (602)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module ScreenshotTools (600)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module SynthesisEditor (598)
+[2023.03.21-16.40.28:397][902]LogModuleManager: Shutting down and abandoning module Synthesis (596)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (594)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (592)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module OpenXREditor (590)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (588)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module GooglePAD (586)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module EditableMesh (584)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module CableComponent (582)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (580)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module AudioCapture (578)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (577)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (574)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module AssetTags (572)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (570)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module AppleImageUtils (568)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module AndroidPermission (566)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (564)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (562)
+[2023.03.21-16.40.28:398][902]LogModuleManager: Shutting down and abandoning module TemplateSequence (560)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (558)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MediaCompositing (556)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (554)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module ImgMedia (552)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (550)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (548)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (546)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (544)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MotoSynth (542)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (540)
+[2023.03.21-16.40.28:399][902]LogOpenImageDenoise: OIDN shutting down
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module LandmassEditor (538)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module Landmass (536)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (534)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (533)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (530)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module MeshConversion (528)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2023.03.21-16.40.28:399][902]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2023.03.21-16.40.28:400][902]LogModuleManager: Shutting down and abandoning module GeometricObjects (522)
+[2023.03.21-16.40.28:400][902]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2023.03.21-16.40.28:400][902]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2023.03.21-16.40.28:400][902]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2023.03.21-16.40.28:400][902]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (514)
+[2023.03.21-16.40.28:401][902]LogModuleManager: Shutting down and abandoning module ChaosNiagara (512)
+[2023.03.21-16.40.28:401][902]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (510)
+[2023.03.21-16.40.28:401][902]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (508)
+[2023.03.21-16.40.28:401][902]LogModuleManager: Shutting down and abandoning module FractureEditor (506)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (505)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module BackChannel (502)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (500)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module AutomationUtils (498)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (496)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (494)
+[2023.03.21-16.40.28:402][902]LogModuleManager: Shutting down and abandoning module PluginBrowser (492)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (490)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (480)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module AlembicHairTranslatorModule (478)
+[2023.03.21-16.40.28:403][902]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (477)
+[2023.03.21-16.40.28:404][902]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (474)
+[2023.03.21-16.40.28:404][902]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (472)
+[2023.03.21-16.40.28:404][902]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (470)
+[2023.03.21-16.40.28:404][902]LogModuleManager: Shutting down and abandoning module UObjectPlugin (468)
+[2023.03.21-16.40.28:404][902]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (466)
+[2023.03.21-16.40.28:404][902]LogModuleManager: Shutting down and abandoning module CurveEditorTools (464)
+[2023.03.21-16.40.28:405][902]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (462)
+[2023.03.21-16.40.28:405][902]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (460)
+[2023.03.21-16.40.28:405][902]LogModuleManager: Shutting down and abandoning module CryptoKeys (458)
+[2023.03.21-16.40.28:405][902]LogModuleManager: Shutting down and abandoning module PluginUtils (456)
+[2023.03.21-16.40.28:405][902]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (454)
+[2023.03.21-16.40.28:405][902]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (452)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module GitSourceControl (450)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module SourceControl (449)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (446)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (444)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (442)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (440)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (438)
+[2023.03.21-16.40.28:407][902]LogModuleManager: Shutting down and abandoning module LiveLink (436)
+[2023.03.21-16.40.29:199][902]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (434)
+[2023.03.21-16.40.29:199][902]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (432)
+[2023.03.21-16.40.29:199][902]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (430)
+[2023.03.21-16.40.29:199][902]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (428)
+[2023.03.21-16.40.29:199][902]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (426)
+[2023.03.21-16.40.29:199][902]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (424)
+[2023.03.21-16.40.29:208][902]LogModuleManager: Shutting down and abandoning module Paper2DEditor (422)
+[2023.03.21-16.40.29:208][902]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (420)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (418)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (416)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module SoundFields (414)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module SignificanceManager (412)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (410)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (408)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (404)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (402)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (400)
+[2023.03.21-16.40.29:209][902]LogModuleManager: Shutting down and abandoning module UdpMessaging (398)
+[2023.03.21-16.40.29:310][902]LogModuleManager: Shutting down and abandoning module TcpMessaging (396)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (394)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (390)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (388)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (386)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (384)
+[2023.03.21-16.40.29:412][902]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (382)
+[2023.03.21-16.40.29:413][902]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (380)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (378)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (376)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (374)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapController (372)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (370)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module MagicLeapAR (368)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (366)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (364)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module Niagara (362)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module SignalProcessing (361)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module NiagaraEditor (359)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module NiagaraCore (356)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (354)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (352)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module FacialAnimation (350)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module DataValidation (348)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (346)
+[2023.03.21-16.40.29:413][902]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (344)
+[2023.03.21-16.40.29:414][902]LogModuleManager: Shutting down and abandoning module LevelEditor (343)
+[2023.03.21-16.40.29:416][902]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (342)
+[2023.03.21-16.40.29:416][902]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (340)
+[2023.03.21-16.40.29:416][902]LogModuleManager: Shutting down and abandoning module MainFrame (338)
+[2023.03.21-16.40.29:416][902]LogModuleManager: Shutting down and abandoning module HotReload (337)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module ToolMenus (333)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module ContentBrowser (331)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module ContentBrowserData (330)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module TreeMap (327)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module AnimationSharing (324)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (322)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module GameplayCameras (320)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module Paper2D (318)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (316)
+[2023.03.21-16.40.29:417][902]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (314)
+[2023.03.21-16.40.29:418][902]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (312)
+[2023.03.21-16.40.29:418][902]LogModuleManager: Shutting down and abandoning module BlueprintMaterialTextureNodes (310)
+[2023.03.21-16.40.29:418][902]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (308)
+[2023.03.21-16.40.29:418][902]LogModuleManager: Shutting down and abandoning module PacketHandler (306)
+[2023.03.21-16.40.29:418][902]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2023.03.21-16.40.29:419][902]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module UMG (280)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module UMGEditor (279)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module MessageLog (277)
+[2023.03.21-16.40.29:420][902]LogModuleManager: Shutting down and abandoning module SlateReflector (272)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module Slate (270)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module SlateCore (268)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (266)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module UnrealEd (264)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module MRMesh (262)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (260)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (258)
+[2023.03.21-16.40.29:422][902]LogModuleManager: Shutting down and abandoning module XAudio2 (256)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module Networking (254)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module Core (252)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module MaterialEditor (250)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module MovieSceneTools (248)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module CurveEditor (247)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module Sequencer (245)
+[2023.03.21-16.40.29:423][902]LogModuleManager: Shutting down and abandoning module EditorStyle (244)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module KismetCompiler (240)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module MeshBuilder (238)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module MeshUtilities (236)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (235)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (234)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (233)
+[2023.03.21-16.40.29:424][902]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (231)
+[2023.03.21-16.40.29:426][902]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (229)
+[2023.03.21-16.40.29:426][902]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (227)
+[2023.03.21-16.40.29:426][902]LogModuleManager: Shutting down and abandoning module MaterialBaking (223)
+[2023.03.21-16.40.29:426][902]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (218)
+[2023.03.21-16.40.29:426][902]LogModuleManager: Shutting down and abandoning module DerivedDataCache (216)
+[2023.03.21-16.40.29:427][902]LogModuleManager: Shutting down and abandoning module TargetPlatform (214)
+[2023.03.21-16.40.29:427][902]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (213)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (211)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (209)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (207)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (205)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (203)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (201)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (199)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (197)
+[2023.03.21-16.40.29:428][902]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (195)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (193)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (191)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module ImageWrapper (190)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (187)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (185)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (181)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (179)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (175)
+[2023.03.21-16.40.29:429][902]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (173)
+[2023.03.21-16.40.29:432][902]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (171)
+[2023.03.21-16.40.29:432][902]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (169)
+[2023.03.21-16.40.29:432][902]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (167)
+[2023.03.21-16.40.29:432][902]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (165)
+[2023.03.21-16.40.29:432][902]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (163)
+[2023.03.21-16.40.29:437][902]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (161)
+[2023.03.21-16.40.29:437][902]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (159)
+[2023.03.21-16.40.29:437][902]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (157)
+[2023.03.21-16.40.29:438][902]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (155)
+[2023.03.21-16.40.29:438][902]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (153)
+[2023.03.21-16.40.29:438][902]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (151)
+[2023.03.21-16.40.29:438][902]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (149)
+[2023.03.21-16.40.29:438][902]LogModuleManager: Shutting down and abandoning module Messaging (147)
+[2023.03.21-16.40.29:438][902]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (145)
+[2023.03.21-16.40.29:440][902]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (143)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (141)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module D3D12RHI (138)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module InputCore (136)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module Settings (134)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (132)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module PhysXCooking (130)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (126)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (125)
+[2023.03.21-16.40.29:453][902]LogModuleManager: Shutting down and abandoning module AVEncoder (124)
+[2023.03.21-16.40.29:454][902]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (120)
+[2023.03.21-16.40.29:454][902]LogModuleManager: Shutting down and abandoning module SteamVRInput (118)
+[2023.03.21-16.40.29:454][902]LogModuleManager: Shutting down and abandoning module SteamVR (116)
+[2023.03.21-16.40.29:454][902]LogHMD: Freeing OpenVRDLLHandle.
+[2023.03.21-16.40.29:454][902]LogModuleManager: Shutting down and abandoning module OculusHMD (114)
+[2023.03.21-16.40.29:454][902]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (112)
+[2023.03.21-16.40.29:454][902]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (110)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module OpenXRHMD (104)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2023.03.21-16.40.29:455][902]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2023.03.21-16.40.29:457][902]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2023.03.21-16.40.29:458][902]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2023.03.21-16.40.29:489][902]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2023.03.21-16.40.29:489][902]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.03.21-16.40.29:489][902]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17864328-45EC-DBD9-C7E2-E792FD2172B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=674640bd470f608ccc35f3977f59eb72%7Ce72a1e8c30a1487cae332970b255d0f8%7C9339dc65-1177-4745-a129-580e6e73743d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.21-16.40.29:489][902]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.03.21-16.40.29:497][902]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2023.03.21-16.40.29:498][902]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.03.21-16.40.29:498][902]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2023.03.21-16.40.29:500][902]LogModuleManager: Shutting down and abandoning module Media (75)
+[2023.03.21-16.40.29:500][902]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2023.03.21-16.40.29:500][902]LogModuleManager: Shutting down and abandoning module MLSDK (70)
+[2023.03.21-16.40.29:500][902]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module MagicLeap (66)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module Water (64)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2023.03.21-16.40.29:501][902]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.03.21-16.40.29:502][902]LogXGEController: Cleaning working directory: C:/Users/tingl/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.03.21-16.40.29:502][902]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.03.21-16.40.29:503][902]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.03.21-16.40.29:505][902]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.03.21-16.40.29:505][902]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.03.21-16.40.29:505][902]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.03.21-16.40.29:505][902]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.03.21-16.40.29:514][902]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.03.21-16.40.29:515][902]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.03.21-16.40.29:515][902]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.03.21-16.40.29:515][902]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: 258 items to release
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName815", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName814", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName813", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName812", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName811", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName810", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:569][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName809", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName808", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName807", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName806", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName805", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName804", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName803", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName802", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName801", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName800", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:570][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName799", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName798", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName797", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName796", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName795", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName794", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName793", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName792", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName791", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName790", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName789", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName788", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:571][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName787", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName786", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName785", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName784", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName783", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName782", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName781", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName780", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName779", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName778", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName777", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName776", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName775", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName774", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName773", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:572][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName772", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName771", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName770", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName769", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName768", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName767", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName766", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName468497", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName468735", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName591065", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName468498", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName468840", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName29190", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:573][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 256 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName469", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x0
+[2023.03.21-16.40.29:574][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName405997", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2023.03.21-16.40.29:576][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406095", 4096 x 4096 x 1, Mips: 13, Format: 0x4C, Flags: 0x0
+[2023.03.21-16.40.29:576][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName405996", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2023.03.21-16.40.29:576][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406094", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2023.03.21-16.40.29:576][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406096", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2023.03.21-16.40.29:576][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406098", 4096 x 4096 x 1, Mips: 13, Format: 0x4C, Flags: 0x0
+[2023.03.21-16.40.29:576][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406097", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2023.03.21-16.40.29:577][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406099", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2023.03.21-16.40.29:577][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406101", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2023.03.21-16.40.29:578][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName406100", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2023.03.21-16.40.29:578][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultBloomKernel", 2048 x 2048 x 1, Mips: 1, Format: 0xA, Flags: 0x0
+[2023.03.21-16.40.29:579][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 512 x 512 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:579][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 64 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:579][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:579][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:580][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:581][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:582][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:582][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:582][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:582][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:582][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:583][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:584][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:585][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:587][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:588][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:588][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:588][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:588][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:588][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:588][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:589][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:590][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:591][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:592][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:592][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:592][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "DaylightAmbientCubemap", 512 x 512 x 6, Mips: 10, Format: 0xA, Flags: 0x0
+[2023.03.21-16.40.29:592][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 512 x 512 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:593][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:593][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 256 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:593][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "sunflowers_4k", 2048 x 2048 x 6, Mips: 12, Format: 0xA, Flags: 0x0
+[2023.03.21-16.40.29:594][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EpicQuadPanorama_CC+EV1", 512 x 512 x 6, Mips: 10, Format: 0xA, Flags: 0x0
+[2023.03.21-16.40.29:594][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "SunsetAmbientCubemap", 512 x 512 x 6, Mips: 10, Format: 0xA, Flags: 0x0
+[2023.03.21-16.40.29:594][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 32 x 128 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:594][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861744", 8192 x 8192 x 1, Mips: 14, Format: 0x4C, Flags: 0x0
+[2023.03.21-16.40.29:594][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861676", 4096 x 4096 x 1, Mips: 13, Format: 0x4C, Flags: 0x0
+[2023.03.21-16.40.29:594][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861807", 4096 x 2048 x 1, Mips: 13, Format: 0x3D, Flags: 0x0
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861736", 4096 x 2048 x 1, Mips: 13, Format: 0x3D, Flags: 0x0
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861725", 4096 x 4096 x 1, Mips: 13, Format: 0x3D, Flags: 0x0
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861710", 8192 x 4096 x 1, Mips: 14, Format: 0x4C, Flags: 0x0
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName861702", 4096 x 2048 x 1, Mips: 13, Format: 0x4C, Flags: 0x0
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TextureRenderTarget2DResource", 256 x 256 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 48 x 80 x 32, Mips: 1, Format: 0x1E, Flags: 0x4
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:595][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName150523", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName149738", 256 x 256 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "StencilDummy", 1 x 1 x 1, Mips: 1, Format: 0x1E, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "MidGreyDummy", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ZeroUIntDummy", 1 x 1 x 1, Mips: 1, Format: 0x2A, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricBlackDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultNormal8Bit", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "GreenDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "MaxFP16Depth", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:597][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairCoverageLUT", 64 x 64 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "BlackAlphaOneDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir2", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume2", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:598][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkySHIrradianceMap", 9 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap1", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "DiffuseIrradianceScratchCubemap0", 32 x 32 x 6, Mips: 6, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap1", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionColorScratchCubemap0", 128 x 128 x 6, Mips: 8, Format: 0xA, Flags: 0x1
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadOverdrawBuffer", 2600 x 748 x 1, Mips: 1, Format: 0x2A, Flags: 0x5
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "AOTemporalAccumulation0", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 1300 x 748 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 1300 x 748 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2023.03.21-16.40.29:599][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneDepthZ", 2600 x 1496 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2023.03.21-16.40.29:600][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.03.21-16.40.29:601][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.03.21-16.40.29:601][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTemporalAccumulation0", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:603][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.03.21-16.40.29:603][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShadowTemporalAccumulation0", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:603][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 2600 x 1496 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.03.21-16.40.29:603][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.03.21-16.40.29:603][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "AOTemporalAccumulation0", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:604][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionsTemporalAccumulation0", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:604][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionsTemporalAccumulation1", 2600 x 1496 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2023.03.21-16.40.29:604][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.03.21-16.40.29:604][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionsTemporalAccumulation0", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "TemporalAA", 2600 x 1496 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ReflectionsTemporalAccumulation1", 2600 x 1496 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferB", 2600 x 1496 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2023.03.21-16.40.29:605][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "ColoredTexture", 1 x 1 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2023.03.21-16.40.29:607][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 1280 x 60 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2023.03.21-16.40.29:608][902]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 48 x 80 x 32, Mips: 1, Format: 0x1E, Flags: 0x4
+[2023.03.21-16.40.29:783][902]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.03.21-16.40.29:792][902]LogExit: Exiting.
+[2023.03.21-16.40.29:802][902]Log file closed, 03/21/23 16:40:29
