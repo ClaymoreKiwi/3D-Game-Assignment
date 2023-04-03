@@ -4527,3 +4527,890 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.04.03-16.17.00:355][ 40]SourceControl: Commited [main 2a044d8] building the city map.
 [2023.04.03-16.17.00:389][ 41]AssetCheck: New page: Asset Save: pasted__pasted__Brick1_004
 [2023.04.03-16.17.00:389][ 41]LogContentValidation: Display: Validating Material /Game/City_Assets/Materials/pasted__pasted__Brick1_004.pasted__pasted__Brick1_004
+[2023.04.03-16.19.49:458][608]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire2)
+[2023.04.03-16.20.05:630][624]LogD3D12RHI: Creating RTPSO with 169 shaders (0 cached, 1 new) took 46.67 ms. Compile time 44.24 ms, link time 2.13 ms.
+[2023.04.03-16.20.18:765][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2023.04.03-16.20.21:539][599]Cmd: DELETE
+[2023.04.03-16.20.21:539][599]Cmd: ACTOR DELETE
+[2023.04.03-16.20.21:542][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.21:542][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.21:542][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.21:542][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.21:542][599]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.21:566][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.04.03-16.20.21:567][599]LogEditorActor: Deleted 5 Actors (0.028 secs)
+[2023.04.03-16.20.22:355][650]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire4)
+[2023.04.03-16.20.23:892][745]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire4)
+[2023.04.03-16.20.26:192][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube55)
+[2023.04.03-16.20.27:089][930]Cmd: DELETE
+[2023.04.03-16.20.27:089][930]Cmd: ACTOR DELETE
+[2023.04.03-16.20.27:090][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.27:106][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.03-16.20.27:107][930]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.04.03-16.20.27:662][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube74)
+[2023.04.03-16.20.27:994][986]Cmd: DELETE
+[2023.04.03-16.20.27:995][986]Cmd: ACTOR DELETE
+[2023.04.03-16.20.27:996][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.28:014][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.03-16.20.28:015][986]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.04.03-16.20.28:414][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube53)
+[2023.04.03-16.20.28:612][ 23]Cmd: DELETE
+[2023.04.03-16.20.28:612][ 23]Cmd: ACTOR DELETE
+[2023.04.03-16.20.28:613][ 23]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.20.28:631][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.03-16.20.28:631][ 23]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.04.03-16.20.32:206][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2023.04.03-16.23.21:249][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.04.03-16.23.21:269][745]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_City_Auto7B9CE6C9A402063CC4CE6808D2D0E5C89.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level2_City_Auto7.umap'
+[2023.04.03-16.23.21:270][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_City' took 0.039
+[2023.04.03-16.23.21:270][745]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.04.03-16.25.58:178][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\tingl\Desktop\Maya Projs\Building-Texture\scenes\crate.fbx)
+[2023.04.03-16.25.58:182][725]LogFbx: Loading FBX Scene from C:\Users\tingl\Desktop\Maya Projs\Building-Texture\scenes\crate.fbx
+[2023.04.03-16.25.58:186][725]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.03-16.26.01:505][725]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.03-16.26.01:515][725]LogFbx: Display: Triangulating static mesh pCube1
+[2023.04.03-16.26.01:517][725]LogStaticMesh: Building static mesh crate...
+[2023.04.03-16.26.01:518][725]LogStaticMesh: Built static mesh [0.00s] /Game/City_Assets/crate.crate
+[2023.04.03-16.26.01:524][725]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.03-16.26.03:459][833]LogSlate: Window 'Message Log' being destroyed
+[2023.04.03-16.26.03:494][833]LogSlate: Window 'Message Log' being destroyed
+[2023.04.03-16.26.06:281][988]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/City_Assets/crate.crate
+[2023.04.03-16.26.24:586][326]SourceControl: fatal: E:/UE_4.27/Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset: 'E:/UE_4.27/Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-16.26.24:586][326]SourceControl: fatal: E:/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset: 'E:/UE_4.27/Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-16.26.24:586][326]SourceControl: fatal: E:/UE_4.27/Engine/Content/EngineMaterials: 'E:/UE_4.27/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-16.26.24:586][326]SourceControl: fatal: E:/UE_4.27/Engine/Content/BufferVisualization/WorldNormal.uasset: 'E:/UE_4.27/Engine/Content/BufferVisualization/WorldNormal.uasset' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-16.26.27:499][528]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: E22B041A80F40A4244F0BBCD323E79AC154CF62F), compiling. 
+[2023.04.03-16.26.27:514][528]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Low' priority
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 37
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 34
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 31
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 28
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 25
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 22
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 19
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 16
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 13
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (10/17): shaders left to compile 10
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (11/17): shaders left to compile 7
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (12/17): shaders left to compile 4
+[2023.04.03-16.26.27:524][528]LogShaderCompilers: Display: Worker (13/17): shaders left to compile 1
+[2023.04.03-16.26.27:525][528]LogShaderCompilers: Display: Started 37 'Local' shader compile jobs with 'Low' priority
+[2023.04.03-16.26.27:919][551]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.03-16.26.27:919][551]LogShaderCompilers: Display: Total job queries 1602, among them cache hits 756 (47.19%)
+[2023.04.03-16.26.27:919][551]LogShaderCompilers: Display: Tracking 748 distinct input hashes that result in 435 distinct outputs (58.16%)
+[2023.04.03-16.26.27:919][551]LogShaderCompilers: Display: RAM used: 3.41 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.21%
+[2023.04.03-16.26.27:919][551]LogShaderCompilers: Display: ================================================
+[2023.04.03-16.26.30:563][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City_Assets/crate" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/crate.uasset" SILENT=true
+[2023.04.03-16.26.30:567][725]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/crateDEAC3836408CD05FCC4901ACED633A63.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/crate.uasset'
+[2023.04.03-16.26.30:652][725]AssetCheck: New page: Asset Save: crate
+[2023.04.03-16.26.30:652][725]LogContentValidation: Display: Validating StaticMesh /Game/City_Assets/crate.crate
+[2023.04.03-16.26.31:828][814]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.26.31:829][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.26.34:265][998]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.26.34:318][999]LogD3D12RHI: Creating RTPSO with 170 shaders (0 cached, 1 new) took 45.53 ms. Compile time 43.32 ms, link time 1.91 ms.
+[2023.04.03-16.26.34:639][ 18]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.26.40:574][389]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.03-16.26.50:215][981]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.03-16.27.12:274][368]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.03-16.27.13:321][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate)
+[2023.04.03-16.27.17:649][692]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.03-16.27.29:680][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate)
+[2023.04.03-16.27.30:947][516]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/City_Assets/crate.crate
+[2023.04.03-16.27.44:797][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City_Assets/crate" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/crate.uasset" SILENT=true
+[2023.04.03-16.27.44:798][510]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/crate731BE4B74E73372BED33849B7FA9AA1D.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/crate.uasset'
+[2023.04.03-16.27.44:808][510]AssetCheck: New page: Asset Save: crate
+[2023.04.03-16.27.44:808][510]LogContentValidation: Display: Validating StaticMesh /Game/City_Assets/crate.crate
+[2023.04.03-16.27.50:453][670]LogSlate: Window 'Message' being destroyed
+[2023.04.03-16.27.50:457][670]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to crate?
+
+(No will lose all changes!)
+[2023.04.03-16.27.50:480][670]LogStaticMesh: Building static mesh crate...
+[2023.04.03-16.27.50:481][670]LogStaticMesh: Built static mesh [0.00s] /Game/City_Assets/crate.crate
+[2023.04.03-16.27.50:497][670]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.27.50:497][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.27.57:354][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.03-16.27.59:839][327]Cmd: DELETE
+[2023.04.03-16.27.59:839][327]Cmd: ACTOR DELETE
+[2023.04.03-16.27.59:841][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.27.59:868][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.04.03-16.27.59:871][327]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.04.03-16.28.43:720][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube45)
+[2023.04.03-16.28.44:502][643]Cmd: DELETE
+[2023.04.03-16.28.44:502][643]Cmd: ACTOR DELETE
+[2023.04.03-16.28.44:503][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.28.44:528][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.03-16.28.44:531][643]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.04.03-16.28.44:985][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube46)
+[2023.04.03-16.28.45:201][685]Cmd: DELETE
+[2023.04.03-16.28.45:201][685]Cmd: ACTOR DELETE
+[2023.04.03-16.28.45:202][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.28.45:219][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.03-16.28.45:220][685]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.04.03-16.28.45:687][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2023.04.03-16.28.45:937][729]Cmd: DELETE
+[2023.04.03-16.28.45:937][729]Cmd: ACTOR DELETE
+[2023.04.03-16.28.45:939][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.28.45:955][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.03-16.28.45:956][729]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.04.03-16.28.46:254][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube47)
+[2023.04.03-16.28.46:424][757]Cmd: DELETE
+[2023.04.03-16.28.46:424][757]Cmd: ACTOR DELETE
+[2023.04.03-16.28.46:425][757]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.28.46:443][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.03-16.28.46:444][757]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.04.03-16.28.49:188][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube75)
+[2023.04.03-16.28.49:822][968]Cmd: DELETE
+[2023.04.03-16.28.49:822][968]Cmd: ACTOR DELETE
+[2023.04.03-16.28.49:822][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.28.49:838][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.03-16.28.49:840][968]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.04.03-16.28.50:261][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube76)
+[2023.04.03-16.28.50:419][  6]Cmd: DELETE
+[2023.04.03-16.28.50:419][  6]Cmd: ACTOR DELETE
+[2023.04.03-16.28.50:421][  6]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.03-16.28.50:438][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.04.03-16.28.50:439][  6]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.04.03-16.28.59:251][597]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.29.00:869][709]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.29.13:584][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate)
+[2023.04.03-16.29.33:740][962]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.03-16.29.34:838][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate)
+[2023.04.03-16.29.47:494][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate4)
+[2023.04.03-16.30.19:795][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate9)
+[2023.04.03-16.30.32:481][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate10)
+[2023.04.03-16.30.33:410][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate11)
+[2023.04.03-16.30.41:650][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate10)
+[2023.04.03-16.30.51:519][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate10)
+[2023.04.03-16.31.08:955][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building9)
+[2023.04.03-16.31.09:575][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate12)
+[2023.04.03-16.31.13:320][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate8)
+[2023.04.03-16.31.27:424][770]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.31.29:004][876]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.31.31:424][ 32]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.31.32:515][105]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.31.57:612][748]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.31.59:085][841]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.31.59:849][885]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.32.00:741][941]LogActorFactory: Actor Factory created crate
+[2023.04.03-16.32.09:401][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate16)
+[2023.04.03-16.32.18:952][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate17)
+[2023.04.03-16.32.36:494][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate18)
+[2023.04.03-16.32.45:014][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate19)
+[2023.04.03-16.32.56:438][434]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire4)
+[2023.04.03-16.32.57:485][499]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire5)
+[2023.04.03-16.33.03:735][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate19)
+[2023.04.03-16.33.16:316][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate21)
+[2023.04.03-16.33.17:200][709]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.03-16.33.24:395][146]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit4)
+[2023.04.03-16.34.43:464][  0]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit5)
+[2023.04.03-16.34.56:515][811]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit6)
+[2023.04.03-16.35.05:889][381]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit6)
+[2023.04.03-16.35.06:448][415]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit6)
+[2023.04.03-16.35.34:864][147]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.03-16.35.34:869][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-16.35.34:869][147]PIE: New page: PIE session: Level2_City (3 Apr 2023, 18:35:34)
+[2023.04.03-16.35.34:894][147]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.35.34:901][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006927s)
+[2023.04.03-16.35.34:902][147]LogAIModule: Creating AISystem for world Level2_City
+[2023.04.03-16.35.34:902][147]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2023.04.03-16.35.34:902][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_City.Level2_City to /Game/Levels/UEDPIE_0_Level2_City.Level2_City (0.007937s)
+[2023.04.03-16.35.34:926][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.03-16.35.34:931][147]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.03-16.35.34:931][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-16.35.34:931][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-16.35.34:931][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-16.35.34:931][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-16.35.34:933][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-16.35.34:933][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-16.35.34:933][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-16.35.34:933][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-16.35.34:933][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-16.35.34:933][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-16.35.34:933][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-16.35.34:933][147]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 4: BackLeft
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 5: BackRight
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 6: SideLeft
+[2023.04.03-16.35.34:935][147]LogAudioMixer: Display: 7: SideRight
+[2023.04.03-16.35.34:941][147]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.04.03-16.35.34:941][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-16.35.34:941][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-16.35.34:941][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-16.35.34:942][147]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-16.35.34:942][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-16.35.34:942][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.03-16.35.34:943][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-16.35.34:943][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-16.35.34:943][147]LogInit: FAudioDevice initialized.
+[2023.04.03-16.35.34:943][147]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level2_City'.
+[2023.04.03-16.35.34:952][147]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.04.03-16.35.34:953][147]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.04.03-17.35.34
+[2023.04.03-16.35.34:955][147]LogWorld: Bringing up level for play took: 0.003469
+[2023.04.03-16.35.34:955][147]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.04.03-16.35.34:957][147]PIE: Server logged in
+[2023.04.03-16.35.34:958][147]PIE: Play in editor total start time 0.089 seconds.
+[2023.04.03-16.35.47:184][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.35.47:184][604]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.35.47:185][604]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.35.47:185][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.35.47:194][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-16.35.47:201][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.35.47:217][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-16.35.47:217][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.35.47:218][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.35.47:220][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.35.47:222][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.04.03-16.35.47:315][606]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.04.03-16.35.49:671][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate17)
+[2023.04.03-16.35.58:906][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate15)
+[2023.04.03-16.36.54:673][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate14)
+[2023.04.03-16.37.46:378][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.04.03-16.37.46:403][615]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_City_Auto8F92BFFE84C8248104597C882B32B2D5B.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level2_City_Auto8.umap'
+[2023.04.03-16.37.46:404][615]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_City' took 0.047
+[2023.04.03-16.37.46:404][615]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.04.03-16.37.46:404][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City_Assets/crate] ([1] browsable assets)...
+[2023.04.03-16.37.46:424][615]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City_Assets/crate.crate]
+[2023.04.03-16.37.46:424][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/City_Assets/crate]
+[2023.04.03-16.37.46:424][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City_Assets/crate" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/City_Assets/crate_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.04.03-16.37.46:428][615]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/crate_Auto828F6BFB74BAA8F3E5186ADAE32B1807F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/City_Assets/crate_Auto8.uasset'
+[2023.04.03-16.37.46:429][615]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.04.03-16.39.25:113][459]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit10)
+[2023.04.03-16.39.34:435][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.03-16.39.34:440][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-16.39.34:440][ 18]PIE: New page: PIE session: Level2_City (3 Apr 2023, 18:39:34)
+[2023.04.03-16.39.34:474][ 18]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.39.34:480][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006689s)
+[2023.04.03-16.39.34:481][ 18]LogAIModule: Creating AISystem for world Level2_City
+[2023.04.03-16.39.34:481][ 18]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.04.03-16.39.34:481][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_City.Level2_City to /Game/Levels/UEDPIE_0_Level2_City.Level2_City (0.007557s)
+[2023.04.03-16.39.34:503][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.03-16.39.34:506][ 18]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-16.39.34:507][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-16.39.34:507][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-16.39.34:507][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-16.39.34:507][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-16.39.34:507][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 4: BackLeft
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 5: BackRight
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 6: SideLeft
+[2023.04.03-16.39.34:509][ 18]LogAudioMixer: Display: 7: SideRight
+[2023.04.03-16.39.34:515][ 18]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.04.03-16.39.34:515][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-16.39.34:515][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-16.39.34:515][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-16.39.34:516][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-16.39.34:516][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-16.39.34:516][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.03-16.39.34:516][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-16.39.34:516][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-16.39.34:516][ 18]LogInit: FAudioDevice initialized.
+[2023.04.03-16.39.34:516][ 18]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level2_City'.
+[2023.04.03-16.39.34:527][ 18]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.04.03-16.39.34:529][ 18]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.04.03-17.39.34
+[2023.04.03-16.39.34:531][ 18]LogWorld: Bringing up level for play took: 0.003227
+[2023.04.03-16.39.34:531][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.04.03-16.39.34:533][ 18]PIE: Server logged in
+[2023.04.03-16.39.34:534][ 18]PIE: Play in editor total start time 0.094 seconds.
+[2023.04.03-16.39.36:634][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.39.36:634][260]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.39.36:635][260]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.39.36:635][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.39.36:643][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-16.39.36:651][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.39.36:668][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-16.39.36:668][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.39.36:669][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.39.36:671][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.39.36:673][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.03-16.39.36:703][261]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.04.03-16.39.43:866][726]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.03-16.39.43:871][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-16.39.43:871][726]PIE: New page: PIE session: Level2_City (3 Apr 2023, 18:39:43)
+[2023.04.03-16.39.43:894][726]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.39.43:901][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006644s)
+[2023.04.03-16.39.43:901][726]LogAIModule: Creating AISystem for world Level2_City
+[2023.04.03-16.39.43:902][726]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.04.03-16.39.43:902][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_City.Level2_City to /Game/Levels/UEDPIE_0_Level2_City.Level2_City (0.007505s)
+[2023.04.03-16.39.43:918][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.03-16.39.43:919][726]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.03-16.39.43:919][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-16.39.43:920][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-16.39.43:920][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-16.39.43:920][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-16.39.43:920][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-16.39.43:920][726]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 4: BackLeft
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 5: BackRight
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 6: SideLeft
+[2023.04.03-16.39.43:922][726]LogAudioMixer: Display: 7: SideRight
+[2023.04.03-16.39.43:926][726]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.04.03-16.39.43:926][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-16.39.43:926][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-16.39.43:926][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-16.39.43:926][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-16.39.43:926][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-16.39.43:926][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.03-16.39.43:927][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-16.39.43:927][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-16.39.43:927][726]LogInit: FAudioDevice initialized.
+[2023.04.03-16.39.43:927][726]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level2_City'.
+[2023.04.03-16.39.43:934][726]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.04.03-16.39.43:935][726]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.04.03-17.39.43
+[2023.04.03-16.39.43:937][726]LogWorld: Bringing up level for play took: 0.003629
+[2023.04.03-16.39.43:937][726]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.04.03-16.39.43:940][726]PIE: Server logged in
+[2023.04.03-16.39.43:940][726]PIE: Play in editor total start time 0.07 seconds.
+[2023.04.03-16.39.50:304][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.39.50:304][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.39.50:304][482]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.39.50:305][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.39.50:320][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-16.39.50:327][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.39.50:345][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.39.50:345][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.39.50:346][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.39.50:350][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.03-16.39.50:381][483]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.04.03-16.40.01:804][165]Cmd: TRANSACTION UNDO
+[2023.04.03-16.40.01:804][165]LogEditorTransaction: Undo Move Actors
+[2023.04.03-16.40.01:875][165]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B50620926E0188B67584E2B10ECCE7FEC8278656), compiling. 
+[2023.04.03-16.40.01:879][165]LogMaterial: Display: Missing cached shadermap for Roof_006 in PCD3D_SM5, Default, SM5 (DDC key hash: 860D3DB0AE46F6A96101C6157545EC248E60838C), compiling. 
+[2023.04.03-16.40.01:899][165]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-16.40.01:899][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.03-16.40.01:899][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.01:899][165]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-16.40.01:899][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.03-16.40.01:899][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.01:939][166]LogD3D12RHI: Creating RTPSO with 171 shaders (0 cached, 1 new) took 35.66 ms. Compile time 33.20 ms, link time 2.13 ms.
+[2023.04.03-16.40.02:020][167]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.03-16.40.02:020][167]LogShaderCompilers: Display: Total job queries 1639, among them cache hits 793 (48.38%)
+[2023.04.03-16.40.02:020][167]LogShaderCompilers: Display: Tracking 784 distinct input hashes that result in 462 distinct outputs (58.93%)
+[2023.04.03-16.40.02:020][167]LogShaderCompilers: Display: RAM used: 3.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.04.03-16.40.02:020][167]LogShaderCompilers: Display: ================================================
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass shader: 127 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass shader with Surface Lightmap: 154 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.03-16.40.02:060][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.05:860][394]Cmd: TRANSACTION UNDO
+[2023.04.03-16.40.05:860][394]LogEditorTransaction: Undo Move Actors
+[2023.04.03-16.40.05:932][394]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 86606AA1C6D8E5E7422B83D2F7A6F7873613DC55), compiling. 
+[2023.04.03-16.40.05:933][394]LogMaterial: Display: Missing cached shadermap for Roof_006 in PCD3D_SM5, Default, SM5 (DDC key hash: 16E5C5638BE1D032423780B5151424033DFD0BCD), compiling. 
+[2023.04.03-16.40.05:951][394]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-16.40.05:951][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.03-16.40.05:951][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.05:951][394]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.03-16.40.05:951][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.03-16.40.05:951][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.06:055][396]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.03-16.40.06:055][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.03-16.40.06:055][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass shader: 128 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass shader with Surface Lightmap: 155 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 202 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass shader: 127 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass shader with Surface Lightmap: 154 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2023.04.03-16.40.06:108][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.03-16.40.06:544][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate18)
+[2023.04.03-16.40.07:193][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate19)
+[2023.04.03-16.40.30:570][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate28)
+[2023.04.03-16.41.21:199][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sol_Sheath_Body)
+[2023.04.03-16.41.47:828][647]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2023.04.03-16.42.10:178][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (crate28)
+[2023.04.03-16.42.19:649][640]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2023.04.03-16.42.32:946][495]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit9)
+[2023.04.03-16.43.25:642][332]LogMetaData: Removing '/Game/City_Assets/Meshs/crate.crate' ref from Metadata '/Game/City_Assets/crate.PackageMetaData'
+[2023.04.03-16.43.25:692][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City_Assets/Meshs/crate" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/Meshs/crate.uasset" SILENT=true
+[2023.04.03-16.43.25:697][332]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/crateCA60140E48620054FC3AF48802879635.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/Meshs/crate.uasset'
+[2023.04.03-16.43.26:093][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.04.03-16.43.26:119][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.03-16.43.26:134][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.03-16.43.26:214][332]SourceControl: rm 'Assignment_3D_Game/Content/City_Assets/crate.uasset'
+[2023.04.03-16.43.26:301][332]AssetCheck: New page: Asset Save: crate
+[2023.04.03-16.43.26:301][332]LogContentValidation: Display: Validating StaticMesh /Game/City_Assets/Meshs/crate.crate
+[2023.04.03-16.43.32:481][740]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit9)
+[2023.04.03-16.43.47:848][767]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.03-16.43.47:852][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-16.43.47:852][767]PIE: New page: PIE session: Level2_City (3 Apr 2023, 18:43:47)
+[2023.04.03-16.43.47:852][767]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.43.47:860][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007527s)
+[2023.04.03-16.43.47:861][767]LogAIModule: Creating AISystem for world Level2_City
+[2023.04.03-16.43.47:861][767]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2023.04.03-16.43.47:861][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_City.Level2_City to /Game/Levels/UEDPIE_0_Level2_City.Level2_City (0.008468s)
+[2023.04.03-16.43.47:879][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.03-16.43.47:881][767]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-16.43.47:881][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-16.43.47:881][767]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-16.43.47:881][767]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-16.43.47:881][767]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-16.43.47:881][767]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 4: BackLeft
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 5: BackRight
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 6: SideLeft
+[2023.04.03-16.43.47:884][767]LogAudioMixer: Display: 7: SideRight
+[2023.04.03-16.43.47:890][767]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.04.03-16.43.47:890][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-16.43.47:890][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-16.43.47:890][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-16.43.47:891][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-16.43.47:891][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-16.43.47:891][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.03-16.43.47:891][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-16.43.47:892][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-16.43.47:892][767]LogInit: FAudioDevice initialized.
+[2023.04.03-16.43.47:892][767]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level2_City'.
+[2023.04.03-16.43.47:901][767]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.04.03-16.43.47:902][767]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.04.03-17.43.47
+[2023.04.03-16.43.47:905][767]LogWorld: Bringing up level for play took: 0.004160
+[2023.04.03-16.43.47:905][767]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.04.03-16.43.47:907][767]PIE: Server logged in
+[2023.04.03-16.43.47:908][767]PIE: Play in editor total start time 0.056 seconds.
+[2023.04.03-16.44.05:384][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.44.05:384][851]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.44.05:384][851]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.44.05:385][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.44.05:394][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-16.44.05:401][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.44.05:416][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.44.05:416][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.44.05:417][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.44.05:421][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.03-16.44.05:452][852]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.04.03-16.44.08:999][ 68]MapCheck: New page: Map Check
+[2023.04.03-16.44.09:013][ 68]LightingResults: New page: Lighting Build - 3 Apr 2023, 18:44:09
+[2023.04.03-16.44.09:016][ 68]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.04.03-16.44.09:019][ 68]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.04.03-16.44.09:019][ 68]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.04.03-16.44.09:020][ 68]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.04.03-16.44.09:020][ 68]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14940
+[2023.04.03-16.44.14:430][ 68]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.04.03-16.44.14:430][ 68]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.04.03-16.44.14:430][ 68]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.04.03-16.44.14:430][ 68]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.04.03-16.44.14:430][ 68]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.04.03-16.44.14:532][ 68]LogEditorBuildUtils: Build time 0:05
+[2023.04.03-16.44.14:536][ 68]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.03-16.44.14:536][ 68]LogShaderCompilers: Display: Total job queries 1675, among them cache hits 829 (49.49%)
+[2023.04.03-16.44.14:536][ 68]LogShaderCompilers: Display: Tracking 784 distinct input hashes that result in 462 distinct outputs (58.93%)
+[2023.04.03-16.44.14:536][ 68]LogShaderCompilers: Display: RAM used: 3.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.04.03-16.44.14:536][ 68]LogShaderCompilers: Display: ================================================
+[2023.04.03-16.44.14:578][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.03-16.44.20:599][251]LightingResults: Warning: Building3 Object has overlapping UVs.
+[2023.04.03-16.44.20:600][251]LightingResults: Building3 Lightmap UV are overlapping by 69.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.20:600][251]LightingResults: Warning: Building3 Object has overlapping UVs.
+[2023.04.03-16.44.20:600][251]LightingResults: Building3 Lightmap UV are overlapping by 69.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.20:940][252]LightingResults: Warning: Building5 Object has overlapping UVs.
+[2023.04.03-16.44.20:940][252]LightingResults: Building5 Lightmap UV are overlapping by 39.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.20:941][252]LightingResults: Warning: Building5 Object has overlapping UVs.
+[2023.04.03-16.44.20:941][252]LightingResults: Building5 Lightmap UV are overlapping by 39.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.20:941][252]LightingResults: Warning: Building5 Object has overlapping UVs.
+[2023.04.03-16.44.20:941][252]LightingResults: Building5 Lightmap UV are overlapping by 39.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.21:260][253]LightingResults: Warning: Building5 Object has overlapping UVs.
+[2023.04.03-16.44.21:260][253]LightingResults: Building5 Lightmap UV are overlapping by 39.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.21:934][255]LightingResults: Warning: Building3 Object has overlapping UVs.
+[2023.04.03-16.44.21:934][255]LightingResults: Building3 Lightmap UV are overlapping by 69.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.21:934][255]LightingResults: Warning: Building3 Object has overlapping UVs.
+[2023.04.03-16.44.21:934][255]LightingResults: Building3 Lightmap UV are overlapping by 69.4%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.22:945][258]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.22:945][258]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.22:945][258]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.22:945][258]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.22:945][258]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.22:945][258]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.22:945][258]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.22:945][258]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.22:945][258]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.22:945][258]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.23:278][259]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.23:278][259]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.23:278][259]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.23:278][259]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.23:278][259]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.23:278][259]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.23:278][259]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.23:278][259]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.27:468][267]LightingResults: Warning: Building5 Object has overlapping UVs.
+[2023.04.03-16.44.27:468][267]LightingResults: Building5 Lightmap UV are overlapping by 39.5%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.28:096][269]Job is a success!
+[2023.04.03-16.44.28:105][269]LightingResults: Warning: Sol_Sheath_Body Object has overlapping UVs.
+[2023.04.03-16.44.28:105][269]LightingResults: Sol_Sheath_Body Lightmap UV are overlapping by 55.2%. Please adjust content - Enable Error Coloring to visualize.
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.176s
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:      Indirection Texture 48x80x32 = 0.5Mb
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:      BrickData (all levels) 7.5Mb (trimmed 5.3Mb due to 0.010000 MinBrickError)
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:      Bricks at depth
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:          1: 11.9% covering 9.3% of volume
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:          2: 86.1% covering 1.1% of volume
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:      Bricks in each level
+[2023.04.03-16.44.28:765][270]LogVolumetricLightmapImport:          Level2_City 			 1509 bricks 	 100.0% (Persistent Level)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 512X256)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 512X512)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 512X512)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 512X256)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 512X512)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 512X512)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_14 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_15 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_16 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_17 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_18 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_19 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_20 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_21 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_21 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_22 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_22 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_23 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_23 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_24 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_24 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_25 (OODLE_AutoDXT, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_25 (OODLE_AutoDXT, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (OODLE_DXT1, 128X128)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: SkyOcclusion0_26 (OODLE_AutoDXT, 64X32)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: HQ_Lightmap0_26 (OODLE_AutoDXT, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (OODLE_DXT1, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 64X32)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 64X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 128X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 256X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 256X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 1024X64)
+[2023.04.03-16.44.28:957][270]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 1024X128)
+[2023.04.03-16.44.28:957][270]Lightmass on DESKTOP-2OUU1FS: 13.9 sec total, 229 ms importing, 96 ms setup, 5.02 sec photons, 8.61 sec processing, 0 ms extra exporting [68/68 mappings]. Threads: 2:43 min total, 13.0 sec processing.
+[2023.04.03-16.44.28:968][270]LogStaticLightingSystem: Level2_City_BuiltData storing lightmap data for 68 meshes in 33 LightmapResourceClusters (2.1 Meshes per cluster).
+[2023.04.03-16.44.28:995][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.03-16.44.29:006][270]LogStaticLightingSystem: Illumination: 19.6 sec (47 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2023.04.03-16.44.29:006][270]LogStaticLightingSystem: Lightmap texture memory:  2.8 MB (2.8 MB streaming, 0.0 MB non-streaming), 52 textures
+[2023.04.03-16.44.29:006][270]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 19 textures
+[2023.04.03-16.44.29:450][270]DumpUnbuiltLightIteractions
+[2023.04.03-16.44.29:450][270]Lights with unbuilt interactions: 0
+[2023.04.03-16.44.29:450][270]
+[2023.04.03-16.44.29:450][270]Primitives with unbuilt interactions: 0
+[2023.04.03-16.44.29:526][270]LogD3D12RHI: Creating RTPSO with 173 shaders (0 cached, 2 new) took 45.53 ms. Compile time 42.92 ms, link time 2.27 ms.
+[2023.04.03-16.44.29:563][271]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.04.03-16.44.29:563][271]MapCheck: New page: Level2_City - 3 Apr 2023, 18:44:29
+[2023.04.03-16.44.29:563][271]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.421ms to complete.
+[2023.04.03-16.44.35:670][389]LogSlate: Window 'Message Log' being destroyed
+[2023.04.03-16.44.35:706][389]LogSlate: Window 'Message Log' being destroyed
+[2023.04.03-16.45.35:202][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.03-16.45.35:207][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-16.45.35:207][ 90]PIE: New page: PIE session: Level2_City (3 Apr 2023, 18:45:35)
+[2023.04.03-16.45.35:207][ 90]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.45.35:213][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007179s)
+[2023.04.03-16.45.35:215][ 90]LogAIModule: Creating AISystem for world Level2_City
+[2023.04.03-16.45.35:215][ 90]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2023.04.03-16.45.35:215][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_City.Level2_City to /Game/Levels/UEDPIE_0_Level2_City.Level2_City (0.008054s)
+[2023.04.03-16.45.35:231][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.03-16.45.35:234][ 90]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-16.45.35:234][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-16.45.35:234][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-16.45.35:235][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-16.45.35:235][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-16.45.35:235][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-16.45.35:235][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-16.45.35:236][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 4: BackLeft
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 5: BackRight
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 6: SideLeft
+[2023.04.03-16.45.35:237][ 90]LogAudioMixer: Display: 7: SideRight
+[2023.04.03-16.45.35:241][ 90]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.04.03-16.45.35:242][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-16.45.35:242][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-16.45.35:242][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-16.45.35:242][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-16.45.35:242][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-16.45.35:242][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.03-16.45.35:243][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-16.45.35:243][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-16.45.35:243][ 90]LogInit: FAudioDevice initialized.
+[2023.04.03-16.45.35:243][ 90]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level2_City'.
+[2023.04.03-16.45.35:253][ 90]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.04.03-16.45.35:255][ 90]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.04.03-17.45.35
+[2023.04.03-16.45.35:257][ 90]LogWorld: Bringing up level for play took: 0.004030
+[2023.04.03-16.45.35:258][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.04.03-16.45.35:260][ 90]PIE: Server logged in
+[2023.04.03-16.45.35:260][ 90]PIE: Play in editor total start time 0.054 seconds.
+[2023.04.03-16.45.59:774][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.45.59:774][  9]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.45.59:774][  9]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.45.59:775][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.45.59:781][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-16.45.59:789][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.45.59:804][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.03-16.45.59:804][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.45.59:805][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.45.59:806][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.45.59:810][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.03-16.45.59:841][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.04.03-16.46.26:434][970]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.03-16.46.26:439][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.03-16.46.26:439][970]PIE: New page: PIE session: Level2_City (3 Apr 2023, 18:46:26)
+[2023.04.03-16.46.26:439][970]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.46.26:446][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007435s)
+[2023.04.03-16.46.26:447][970]LogAIModule: Creating AISystem for world Level2_City
+[2023.04.03-16.46.26:447][970]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2023.04.03-16.46.26:447][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level2_City.Level2_City to /Game/Levels/UEDPIE_0_Level2_City.Level2_City (0.008323s)
+[2023.04.03-16.46.26:463][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.03-16.46.26:466][970]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.03-16.46.26:466][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.03-16.46.26:466][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.03-16.46.26:466][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.03-16.46.26:466][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.03-16.46.26:466][970]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 1: FrontRight
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 2: FrontCenter
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 3: LowFrequency
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 4: BackLeft
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 5: BackRight
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 6: SideLeft
+[2023.04.03-16.46.26:468][970]LogAudioMixer: Display: 7: SideRight
+[2023.04.03-16.46.26:474][970]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G533 Gaming Headset)
+[2023.04.03-16.46.26:474][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.03-16.46.26:474][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.03-16.46.26:474][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.03-16.46.26:474][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.03-16.46.26:474][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.03-16.46.26:474][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.04.03-16.46.26:475][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.03-16.46.26:475][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.03-16.46.26:475][970]LogInit: FAudioDevice initialized.
+[2023.04.03-16.46.26:475][970]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level2_City'.
+[2023.04.03-16.46.26:483][970]LogLoad: Game class is 'GameModeTopDown_Bp_C'
+[2023.04.03-16.46.26:485][970]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2_City.Level2_City up for play (max tick rate 0) at 2023.04.03-17.46.26
+[2023.04.03-16.46.26:488][970]LogWorld: Bringing up level for play took: 0.004048
+[2023.04.03-16.46.26:488][970]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.04.03-16.46.26:490][970]PIE: Server logged in
+[2023.04.03-16.46.26:490][970]PIE: Play in editor total start time 0.052 seconds.
+[2023.04.03-16.46.46:513][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.46.46:513][364]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2_City
+[2023.04.03-16.46.46:515][364]LogWorld: UWorld::CleanupWorld for Level2_City, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-16.46.46:515][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.46.46:526][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.03-16.46.46:535][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-16.46.46:551][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.03-16.46.46:551][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.46.46:553][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.03-16.46.46:557][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.03-16.46.46:591][365]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.04.03-16.47.49:351][412]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Sol_Sheath_Body)
+[2023.04.03-16.48.58:872][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.04.03-16.48.58:899][184]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_City_Auto98327D7334EBE665AF128B180BB7FA9A7.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level2_City_Auto9.umap'
+[2023.04.03-16.48.58:900][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_City' took 0.049
+[2023.04.03-16.48.58:900][184]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2023.04.03-16.58.59:012][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.04.03-16.58.59:018][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_City' took 0.027
+[2023.04.03-17.06.02:527][463]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Levels/Blueprints/GameInstance_MenuToLevel1.GameInstance_MenuToLevel1
+[2023.04.03-17.06.17:424][208]LogSlate: Took 0.003214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.03-17.09.24:957][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.04.03-17.09.24:961][ 96]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_City' took 0.028
+[2023.04.03-17.09.24:961][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/Blueprints/GameInstance_MenuToLevel1] ([2] browsable assets)...
+[2023.04.03-17.09.24:961][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/Blueprints/GameInstance_MenuToLevel1]
+[2023.04.03-17.09.24:979][ 96]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/GameInstance_MenuToLevel1_Auto0AE080D424104A2E5F5D60EA6950E03D5.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Blueprints/GameInstance_MenuToLevel1_Auto0.uasset'
+[2023.04.03-17.09.24:979][ 96]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.04.03-17.09.42:404][159]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.03-17.09.42:404][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.03-17.09.46:188][428]LogEditorViewport: Clicking on Actor (LMB): Player1_C (Player1)
+[2023.04.03-17.19.25:303][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.03-17.19.25:342][ 69]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_City_Auto135237897491D5394472A77AAB9A322FC.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Autosaves/Game/Levels/Level2_City_Auto1.umap'
+[2023.04.03-17.19.25:343][ 69]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level2_City' took 0.069
+[2023.04.03-17.19.25:343][ 69]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2023.04.03-17.54.55:339][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.04.03-17.54.55:461][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_City" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level2_City.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.03-17.54.55:480][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.03-17.54.55:501][579]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_City4496D3364EC1F08C4BCCD988EE9CBCEE.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level2_City.umap'
+[2023.04.03-17.54.55:510][579]LogFileHelpers: Saving map 'Level2_City' took 0.050
+[2023.04.03-17.54.55:511][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_City_BuiltData" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level2_City_BuiltData.uasset" SILENT=true
+[2023.04.03-17.54.55:585][579]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_City_BuiltData1A102C434F9B02993B3798B670375C70.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level2_City_BuiltData.uasset'
+[2023.04.03-17.54.55:664][579]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2023.04.03-17.54.55:664][579]SourceControl: Error: Assignment_3D_Game/Content/Levels/Level2_City_BuiltData.uasset
+[2023.04.03-17.54.55:664][579]SourceControl: Error: hint: Use -f if you really want to add them.
+[2023.04.03-17.54.55:664][579]SourceControl: Error: hint: Turn this message off by running
+[2023.04.03-17.54.55:664][579]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2023.04.03-17.54.55:672][579]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/GameInstance_MenuToLevel11E22354B4AF7D9B78BA20882D90E843F.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Blueprints/GameInstance_MenuToLevel1.uasset'
+[2023.04.03-17.54.55:681][579]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.03-17.54.55:681][579]LogContentValidation: Display: Validating Blueprint /Game/Levels/Blueprints/GameInstance_MenuToLevel1.GameInstance_MenuToLevel1
+[2023.04.03-17.54.55:681][579]LogContentValidation: Display: Validating World /Game/Levels/Level2_City.Level2_City
+[2023.04.03-17.54.55:681][579]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level2_City_BuiltData.Level2_City_BuiltData
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Content: 'E:/UE_4.27/Engine/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Compositing/OpenColorIO/Content: 'E:/UE_4.27/Engine/Plugins/Compositing/OpenColorIO/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'E:/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Landmass/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Experimental/Water/Content: 'E:/UE_4.27/Engine/Plugins/Experimental/Water/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:120][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'E:/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'E:/UE_4.27/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/MovieScene/SequencerScripting/Content: 'E:/UE_4.27/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:121][356]SourceControl: fatal: E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'E:/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/tingl/Desktop/3D-Game-Assignment'
+[2023.04.03-17.55.07:346][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City_Assets/Meshs/crate" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/Meshs/crate.uasset" SILENT=true
+[2023.04.03-17.55.07:347][356]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/crate76B413A84BA1372E4461A1AD939EC640.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/City_Assets/Meshs/crate.uasset'
+[2023.04.03-17.55.07:348][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level2_City" FILE="C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level2_City.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.03-17.55.07:366][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.03-17.55.07:392][356]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/Level2_CityC8E3C25D42C9BAA07FDA6FAA49EA77B7.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Level2_City.umap'
+[2023.04.03-17.55.07:399][356]LogFileHelpers: Saving map 'Level2_City' took 0.051
+[2023.04.03-17.55.07:403][356]LogSavePackage: Moving 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Saved/GameInstance_MenuToLevel1A9B408224D9E32B76D8D4C90F306CA5B.tmp' to 'C:/Users/tingl/Desktop/3D-Game-Assignment/Assignment_3D_Game/Content/Levels/Blueprints/GameInstance_MenuToLevel1.uasset'
+[2023.04.03-17.55.36:910][356]LogSlate: Window 'Submit Files' being destroyed
+[2023.04.03-17.55.37:141][356]LogSourceControl: commit successful: [main bf31d8f] level2 structure is complete
+[2023.04.03-17.55.37:228][356]SourceControl: [main bf31d8f] level2 structure is complete
+[2023.04.03-17.55.37:228][356]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2023.04.03-17.55.37:228][356]SourceControl:  create mode 100644 Assignment_3D_Game/Content/City_Assets/Meshs/crate.uasset
+[2023.04.03-17.55.37:234][356]SourceControl: Commited [main bf31d8f] level2 structure is complete.
+[2023.04.03-17.55.37:262][357]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.03-17.55.37:262][357]LogContentValidation: Display: Validating Blueprint /Game/Levels/Blueprints/GameInstance_MenuToLevel1.GameInstance_MenuToLevel1
+[2023.04.03-17.55.37:262][357]LogContentValidation: Display: Validating World /Game/Levels/Level2_City.Level2_City
+[2023.04.03-17.55.37:262][357]LogContentValidation: Display: Validating StaticMesh /Game/City_Assets/Meshs/crate.crate
