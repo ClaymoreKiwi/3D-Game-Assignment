@@ -3,7 +3,27 @@
 
 Note: Resize this window until a single line seperates key information for the best visual representation
 ----------------------------------------------------------------------------------------------------------------------------------------
+# HOW TO PLAY
 
+keyboard controls:
+use WASD to move character
+mouse movement to rotate the player and aim
+left click to shoot
+right click to aim -> (NOTE: player is NOT supposed to move when they aim)
+
+Controller Controls:
+right trigger to shoot
+left trigger to aim
+left analogue to move
+right analogue to aim
+
+killing enemies grants 10 points each
+Reach 200 points to complete the first level
+Reach 600 points to complete the second level
+
+Enemies do damage and push the player pack when they collide
+Enemies drop some ammunition for the player to collect (they dissapear after a timer)
+----------------------------------------------------------------------------------------------------------------------------------------
 Folder Structure Key:
 Indicates folder --> -Folder_Name
 Indicates multiple Files of the same type--> **File_Name** x(n)
@@ -11,6 +31,7 @@ indication of external refernces --> (referances)
 External Asset used in 1 or more levels --> !! 
 folders/files on the same indentation inicate file hierarchy
 ----------------------------------------------------------------------------------------------------------------------------------------
+# FOLDER STRUCTURE
 
 Content Structure:
 	-Collections
